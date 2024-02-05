@@ -83,17 +83,19 @@ def generate_text(pokemon_names):
     lines.append('### Base Stats\n')
     for mon in pokemon_names:
         j = get_json(mon)["stats"]
-        lines.append(f"{mon.capitalize()}: {j["HP"]} HP / {j["Attack"]} Atk / {j["Defense"]} Def / {j["Sp. Atk"]} SpA / {j["Sp. Def"]} SpD / {j["Speed"]} Spe\n")
+        lines.append(f"{mon.capitalize()}: **{j["HP"]}** HP / **{j["Attack"]}** Atk / **{j["Defense"]}** Def / **{j["Sp. Atk"]}** SpA / **{j["Sp. Def"]}** SpD / **{j["Speed"]}** Spe\n")
 
     lines.append('### Moveset\n')
 
     acq, data = get_learnset_and_move_data(pokemon_names)
 
-    move_lines = [['Acquisition','---'], ['Move','---'], ['Type','---'], ['Power','---'], ['Accuracy','---'], ['PP','---'],]
+    move_lines = [['Acquisition','---'], ['Move','---'], ['Type','---'], ['Power','---'], ['Accuracy','---'], ['PP','---'],['Notes'.ljust(25), '---']]
     for move in acq:
         n = move[1]
         type, pwr, acc, pp = data[n]["Type"], data[n]["Pwr"], data[n]["Acc"], data[n]["PP"]
-        for idx, thing in enumerate([f'{move[2]}', f'{n}', f'{type}', f'{pwr}', f'{acc}', f'{pp}']):
+        notes = ''
+        if move[2] == 'Tutor': notes = "Emerald only"
+        for idx, thing in enumerate([f'{move[2]}', f'{n}', f'{type}', f'{pwr}', f'{acc}', f'{pp}', f'{notes}']):
            move_lines[idx].append(thing)
     lengths = [max([len(s) for s in group]) for group in move_lines]
     for pos in range(len(move_lines[0])):

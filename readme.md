@@ -1,0 +1,119 @@
+# Pokemon Emerald Unit Analysis
+
+This is a repository for my analysis writeups on (eventually) every line of Pokemon in Emerald Version. 
+
+To read the writeups on Github, see the "writeups" directory.
+
+To use or modify my utility scripts, clone the repository and run the python files in the root corresponding to what you're looking to do.
+
+## Progress
+
+-[ ] Treecko, Grovyle, Sceptile
+-[ ] Torchic, Combusken, Blaziken
+-[ ] Mudkip, Marshtomp, Swampert
+-[ ] Poochyena, Mightyena
+-[ ] Zigzagoon, Linoone
+-[ ] Wurmple, Silcoon, Beautifly
+-[ ] Wurmple, Cascoon, Dustox
+-[ ] Lotad, Lombre, Ludicolo
+-[ ] Seedot, Nuzleaf, Shiftry
+-[ ] Taillow, Swellow
+-[ ] Wingull, Pelipper
+-[ ] Ralts, Kirlia, Gardevoir
+-[x] Surskit, Masquerain
+-[ ] Shroomish, Breloom
+-[ ] Slakoth, Vigoroth, Slaking
+-[ ] Abra, Kadabra, Alakazam
+-[ ] Nincada, Ninjask
+-[ ] Nincada, Shedinja
+-[ ] Whismur, Loudred, Exploud
+-[ ] Makuhita, Hariyama
+-[ ] Goldeen, Seaking
+-[ ] Magikarp, Gyarados
+-[ ] Azurill, Marill, Azumarill
+-[ ] Geodude, Graveler, Golem
+-[ ] Nosepass
+-[ ] Skitty, Delcatty
+-[ ] Zubat, Golbat, Crobat
+-[ ] Tentacool, Tentacruel
+-[ ] Sableye
+-[ ] Mawile
+-[ ] Aron, Lairon, Aggron
+-[ ] Machop, Machoke, Machamp
+-[ ] Meditite, Medicham
+-[ ] Electrike, Manectric
+-[ ] Plusle
+-[ ] Minun
+-[ ] Magnemite, Magneton
+-[ ] Voltorb, Electrode
+-[ ] Volbeat
+-[ ] Illumise
+-[ ] Oddish, Gloom, Vileplume
+-[ ] Oddish, Gloom, Bellossom
+-[ ] Doduo, Dodrio
+-[ ] Roselia
+-[ ] Gulpin, Swalot
+-[ ] Carvanha, Sharpedo
+-[ ] Wailmer, Wailord
+-[ ] Numel, Camerupt
+-[ ] Slugma, Magcargo
+-[ ] Torkoal
+-[ ] Grimer, Muk
+-[ ] Koffing, Weezing
+-[ ] Spoink, Grumpig
+-[ ] Sandshrew, Sandslash
+-[ ] Spinda
+-[ ] Skarmory
+-[ ] Trapinch, Vibrava, Flygon
+-[ ] Cacnea, Cacturne
+-[ ] Swablu, Altaria
+-[ ] Zangoose
+-[ ] Seviper
+-[ ] Lunatone
+-[ ] Solrock
+-[ ] Barboach, Whiscash
+-[ ] Corphish, Crawdaunt
+-[ ] Baltoy, Claydol
+-[ ] Lileep, Cradily
+-[ ] Anorith, Armaldo
+-[ ] Igglybuff, Jigglypuff, Wigglytuff
+-[ ] Feebas, Milotic
+-[ ] Castform
+-[ ] Staryu, Starmie
+-[ ] Kecleon
+-[ ] Shuppet, Banette
+-[ ] Duskull, Dusclops
+-[ ] Tropius
+-[ ] Chimecho
+-[ ] Absol
+-[ ] Vulpix, Ninetales
+-[ ] Pichu, Pikachu, Raichu
+-[ ] Psyduck, Golduck
+-[ ] Wynaut, Wobbuffet
+-[ ] Natu, Xatu
+-[ ] Girafarig
+-[ ] Phanpy, Donphan
+-[ ] Pinsir
+-[ ] Heracross
+-[ ] Rhyhorn, Rhydon
+-[ ] Snorunt, Glalie
+-[ ] Spheal, Sealeo, Walrein
+-[ ] Clamperl, Huntail
+-[ ] Clamperl, Gorebyss
+-[ ] Relicanth
+-[ ] Corsola
+-[ ] Chinchou, Lanturn
+-[ ] Luvdisc
+-[ ] Horsea, Seadra, Kingdra
+-[ ] Bagon, Shelgon, Salamence
+-[ ] Beldum, Metang, Metagross
+-[ ] Regirock
+-[ ] Regice
+-[ ] Registeel
+-[ ] Latias
+-[ ] Latios
+-[ ] Kyogre
+-[ ] Groudon
+-[ ] Rayquaza
+-[ ] Jirachi
+-[ ] Deoxys
