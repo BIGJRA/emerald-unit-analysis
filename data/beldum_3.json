@@ -1,0 +1,21 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Take Down",
+            "Type": "Normal",
+            "Pwr": "90",
+            "Acc": "85%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        }
+    ],
+    "stats": {
+        "HP": "40",
+        "Attack": "55",
+        "Defense": "80",
+        "Sp. Atk": "35",
+        "Sp. Def": "60",
+        "Speed": "30"
+    }
+}

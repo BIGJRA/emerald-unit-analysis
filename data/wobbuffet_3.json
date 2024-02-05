@@ -1,0 +1,84 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Counter",
+            "Type": "Fighting",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Mirror Coat",
+            "Type": "Psychic",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Safeguard",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "25",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Destiny Bond",
+            "Type": "Ghost",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Stage": "",
+            "Move": "Splash",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "40",
+            "LearnType": "APriorEvolution"
+        },
+        {
+            "Stage": "",
+            "Move": "Charm",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "APriorEvolution"
+        },
+        {
+            "Stage": "",
+            "Move": "Encore",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "5",
+            "LearnType": "APriorEvolution"
+        },
+        {
+            "Stage": "\\xe2\\x80\\xa0",
+            "Move": "Tickle",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "APriorEvolution"
+        }
+    ],
+    "stats": {
+        "HP": "190",
+        "Attack": "33",
+        "Defense": "58",
+        "Sp. Atk": "33",
+        "Sp. Def": "58",
+        "Speed": "33"
+    }
+}

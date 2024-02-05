@@ -1,0 +1,363 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Absorb",
+            "Type": "Grass",
+            "Pwr": "20",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "7",
+            "Move": "Sweet Scent",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "14",
+            "Move": "PoisonPowder",
+            "Type": "Poison",
+            "Pwr": "--",
+            "Acc": "75%",
+            "PP": "35",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "16",
+            "Move": "Stun Spore",
+            "Type": "Grass",
+            "Pwr": "--",
+            "Acc": "75%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "18",
+            "Move": "Sleep Powder",
+            "Type": "Grass",
+            "Pwr": "--",
+            "Acc": "75%",
+            "PP": "15",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "23",
+            "Move": "Acid",
+            "Type": "Poison",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "32",
+            "Move": "Moonlight",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "39",
+            "Move": "Petal Dance",
+            "Type": "Grass",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "TM": "TM06",
+            "Move": "Toxic",
+            "Type": "Poison",
+            "Pwr": "--",
+            "Acc": "85%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM09",
+            "Move": "Bullet Seed",
+            "Type": "Grass",
+            "Pwr": "10",
+            "Acc": "100%",
+            "PP": "30",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM10",
+            "Move": "Hidden Power",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM11",
+            "Move": "Sunny Day",
+            "Type": "Fire",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM17",
+            "Move": "Protect",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM19",
+            "Move": "Giga Drain",
+            "Type": "Grass",
+            "Pwr": "60",
+            "Acc": "100%",
+            "PP": "5",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM21",
+            "Move": "Frustration",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM22",
+            "Move": "SolarBeam",
+            "Type": "Grass",
+            "Pwr": "120",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM27",
+            "Move": "Return",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM32",
+            "Move": "Double Team",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM36",
+            "Move": "Sludge Bomb",
+            "Type": "Poison",
+            "Pwr": "90",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM42",
+            "Move": "Facade",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM43",
+            "Move": "Secret Power",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM44",
+            "Move": "Rest",
+            "Type": "Psychic",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM45",
+            "Move": "Attract",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM01",
+            "Move": "Cut",
+            "Type": "Normal",
+            "Pwr": "50",
+            "Acc": "95%",
+            "PP": "30",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM05",
+            "Move": "Flash",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "70%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "Father": "",
+            "Move": "Charm",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Flail",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Ingrain",
+            "Type": "Grass",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "20",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Razor Leaf",
+            "Type": "Grass",
+            "Pwr": "55",
+            "Acc": "95%",
+            "PP": "25",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Swords Dance",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "30",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Synthesis",
+            "Type": "Grass",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "Breeding"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Double-Edge",
+            "Type": "Normal",
+            "Pwr": "120",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Endure",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Mimic",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Sleep Talk",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Snore",
+            "Type": "Normal",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Substitute",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "EXD",
+            "Move": "Swagger",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "90%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGE",
+            "Move": "Swords Dance",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "30",
+            "LearnType": "Tutoring"
+        }
+    ],
+    "stats": {
+        "HP": "45",
+        "Attack": "50",
+        "Defense": "55",
+        "Sp. Atk": "75",
+        "Sp. Def": "65",
+        "Speed": "30"
+    }
+}

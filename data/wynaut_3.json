@@ -1,0 +1,75 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Splash",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Charm",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Encore",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "15",
+            "Move": "Counter",
+            "Type": "Fighting",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "15",
+            "Move": "Mirror Coat",
+            "Type": "Psychic",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "15",
+            "Move": "Safeguard",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "25",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "15",
+            "Move": "Destiny Bond",
+            "Type": "Ghost",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        }
+    ],
+    "stats": {
+        "HP": "95",
+        "Attack": "23",
+        "Defense": "48",
+        "Sp. Atk": "23",
+        "Sp. Def": "48",
+        "Speed": "23"
+    }
+}

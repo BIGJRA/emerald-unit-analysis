@@ -1,0 +1,462 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Tackle",
+            "Type": "Normal",
+            "Pwr": "35",
+            "Acc": "95%",
+            "PP": "35",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Thunder Wave",
+            "Type": "Electric",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Leer",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "Howl",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "4",
+            "Move": "Thunder Wave",
+            "Type": "Electric",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "9",
+            "Move": "Leer",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "12",
+            "Move": "Howl",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "17",
+            "Move": "Quick Attack",
+            "Type": "Normal",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "20",
+            "Move": "Spark",
+            "Type": "Electric",
+            "Pwr": "65",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "25",
+            "Move": "Odor Sleuth",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "31",
+            "Move": "Roar",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "39",
+            "Move": "Bite",
+            "Type": "Dark",
+            "Pwr": "60",
+            "Acc": "100%",
+            "PP": "25",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "45",
+            "Move": "Thunder",
+            "Type": "Electric",
+            "Pwr": "120",
+            "Acc": "70%",
+            "PP": "10",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "53",
+            "Move": "Charge",
+            "Type": "Electric",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "TM": "TM05",
+            "Move": "Roar",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM06",
+            "Move": "Toxic",
+            "Type": "Poison",
+            "Pwr": "--",
+            "Acc": "85%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM10",
+            "Move": "Hidden Power",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM15",
+            "Move": "Hyper Beam",
+            "Type": "Normal",
+            "Pwr": "150",
+            "Acc": "90%",
+            "PP": "5",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM17",
+            "Move": "Protect",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM18",
+            "Move": "Rain Dance",
+            "Type": "Water",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM21",
+            "Move": "Frustration",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM23",
+            "Move": "Iron Tail",
+            "Type": "Steel",
+            "Pwr": "100",
+            "Acc": "75%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM24",
+            "Move": "Thunderbolt",
+            "Type": "Electric",
+            "Pwr": "95",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM25",
+            "Move": "Thunder",
+            "Type": "Electric",
+            "Pwr": "120",
+            "Acc": "70%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM27",
+            "Move": "Return",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM32",
+            "Move": "Double Team",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM34",
+            "Move": "Shock Wave",
+            "Type": "Electric",
+            "Pwr": "60",
+            "Acc": "--%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM42",
+            "Move": "Facade",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM43",
+            "Move": "Secret Power",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM44",
+            "Move": "Rest",
+            "Type": "Psychic",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM45",
+            "Move": "Attract",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM46",
+            "Move": "Thief",
+            "Type": "Dark",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM04",
+            "Move": "Strength",
+            "Type": "Normal",
+            "Pwr": "80",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM05",
+            "Move": "Flash",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "70%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "Father": "",
+            "Move": "Crunch",
+            "Type": "Dark",
+            "Pwr": "80",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Curse",
+            "Type": "???",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Headbutt",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Swift",
+            "Type": "Normal",
+            "Pwr": "60",
+            "Acc": "--%",
+            "PP": "20",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Uproar",
+            "Type": "Normal",
+            "Pwr": "50",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Body Slam",
+            "Type": "Normal",
+            "Pwr": "85",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Double-Edge",
+            "Type": "Normal",
+            "Pwr": "120",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Endure",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Mimic",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Mud-Slap",
+            "Type": "Ground",
+            "Pwr": "20",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Sleep Talk",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Snore",
+            "Type": "Normal",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Substitute",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "EXD",
+            "Move": "Swagger",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "90%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Swift",
+            "Type": "Normal",
+            "Pwr": "60",
+            "Acc": "--%",
+            "PP": "20",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Thunder Wave",
+            "Type": "Electric",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "Tutoring"
+        }
+    ],
+    "stats": {
+        "HP": "70",
+        "Attack": "75",
+        "Defense": "60",
+        "Sp. Atk": "105",
+        "Sp. Def": "60",
+        "Speed": "105"
+    }
+}

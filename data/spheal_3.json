@@ -1,0 +1,538 @@
+{
+    "moves": [
+        {
+            "RSE": "1",
+            "FRLG": "1",
+            "Move": "Powder Snow",
+            "Type": "Ice",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "25",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "1",
+            "FRLG": "1",
+            "Move": "Growl",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "1",
+            "FRLG": "1",
+            "Move": "Water Gun",
+            "Type": "Water",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "25",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "N/A",
+            "FRLG": "1",
+            "Move": "Defense Curl",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "7",
+            "FRLG": "7",
+            "Move": "Encore",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "13",
+            "FRLG": "13",
+            "Move": "Ice Ball",
+            "Type": "Ice",
+            "Pwr": "30",
+            "Acc": "90%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "19",
+            "FRLG": "19",
+            "Move": "Body Slam",
+            "Type": "Normal",
+            "Pwr": "85",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "25",
+            "FRLG": "25",
+            "Move": "Aurora Beam",
+            "Type": "Ice",
+            "Pwr": "65",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "31",
+            "FRLG": "31",
+            "Move": "Hail",
+            "Type": "Ice",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "37",
+            "FRLG": "37",
+            "Move": "Rest",
+            "Type": "Psychic",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "37",
+            "FRLG": "37",
+            "Move": "Snore",
+            "Type": "Normal",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "43",
+            "FRLG": "43",
+            "Move": "Blizzard",
+            "Type": "Ice",
+            "Pwr": "120",
+            "Acc": "70%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "RSE": "49",
+            "FRLG": "49",
+            "Move": "Sheer Cold",
+            "Type": "Ice",
+            "Pwr": "--",
+            "Acc": "30%",
+            "PP": "5",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "TM": "TM03",
+            "Move": "Water Pulse",
+            "Type": "Water",
+            "Pwr": "60",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM06",
+            "Move": "Toxic",
+            "Type": "Poison",
+            "Pwr": "--",
+            "Acc": "85%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM07",
+            "Move": "Hail",
+            "Type": "Ice",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM10",
+            "Move": "Hidden Power",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM13",
+            "Move": "Ice Beam",
+            "Type": "Ice",
+            "Pwr": "95",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM14",
+            "Move": "Blizzard",
+            "Type": "Ice",
+            "Pwr": "120",
+            "Acc": "70%",
+            "PP": "5",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM17",
+            "Move": "Protect",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM18",
+            "Move": "Rain Dance",
+            "Type": "Water",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "5",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM21",
+            "Move": "Frustration",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM23",
+            "Move": "Iron Tail",
+            "Type": "Steel",
+            "Pwr": "100",
+            "Acc": "75%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM26",
+            "Move": "Earthquake",
+            "Type": "Ground",
+            "Pwr": "100",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM27",
+            "Move": "Return",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM32",
+            "Move": "Double Team",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM39",
+            "Move": "Rock Tomb",
+            "Type": "Rock",
+            "Pwr": "50",
+            "Acc": "80%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM42",
+            "Move": "Facade",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM43",
+            "Move": "Secret Power",
+            "Type": "Normal",
+            "Pwr": "70",
+            "Acc": "100%",
+            "PP": "20",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM44",
+            "Move": "Rest",
+            "Type": "Psychic",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "TM45",
+            "Move": "Attract",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM03",
+            "Move": "Surf",
+            "Type": "Water",
+            "Pwr": "95",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM04",
+            "Move": "Strength",
+            "Type": "Normal",
+            "Pwr": "80",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM06",
+            "Move": "Rock Smash",
+            "Type": "Fighting",
+            "Pwr": "20",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM07",
+            "Move": "Waterfall",
+            "Type": "Water",
+            "Pwr": "80",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "TmHm"
+        },
+        {
+            "TM": "HM08",
+            "Move": "Dive",
+            "Type": "Water",
+            "Pwr": "60",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "TmHm"
+        },
+        {
+            "Father": "",
+            "Move": "Curse",
+            "Type": "???",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Fissure",
+            "Type": "Ground",
+            "Pwr": "--",
+            "Acc": "30%",
+            "PP": "5",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Rock Slide",
+            "Type": "Rock",
+            "Pwr": "75",
+            "Acc": "90%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Spit Up",
+            "Type": "Normal",
+            "Pwr": "100",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Stockpile",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Swallow",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Water Sport",
+            "Type": "Water",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "15",
+            "LearnType": "Breeding"
+        },
+        {
+            "Father": "",
+            "Move": "Yawn",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Breeding"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Body Slam",
+            "Type": "Normal",
+            "Pwr": "85",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Defense Curl",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "40",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Double-Edge",
+            "Type": "Normal",
+            "Pwr": "120",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Endure",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "EXD",
+            "Move": "Icy Wind",
+            "Type": "Ice",
+            "Pwr": "55",
+            "Acc": "95%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Mimic",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Mud-Slap",
+            "Type": "Ground",
+            "Pwr": "20",
+            "Acc": "100%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGE",
+            "Move": "Rock Slide",
+            "Type": "Rock",
+            "Pwr": "75",
+            "Acc": "90%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Rollout",
+            "Type": "Rock",
+            "Pwr": "30",
+            "Acc": "90%",
+            "PP": "20",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Sleep Talk",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "E",
+            "Move": "Snore",
+            "Type": "Normal",
+            "Pwr": "40",
+            "Acc": "100%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "FRLGEXD",
+            "Move": "Substitute",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "10",
+            "LearnType": "Tutoring"
+        },
+        {
+            "Game": "EXD",
+            "Move": "Swagger",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "90%",
+            "PP": "15",
+            "LearnType": "Tutoring"
+        }
+    ],
+    "stats": {
+        "HP": "70",
+        "Attack": "40",
+        "Defense": "50",
+        "Sp. Atk": "55",
+        "Sp. Def": "50",
+        "Speed": "25"
+    }
+}

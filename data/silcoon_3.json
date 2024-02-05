@@ -1,0 +1,57 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Harden",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "7",
+            "Move": "Harden",
+            "Type": "Normal",
+            "Pwr": "--",
+            "Acc": "--%",
+            "PP": "30",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Stage": "",
+            "Move": "Tackle",
+            "Type": "Normal",
+            "Pwr": "35",
+            "Acc": "95%",
+            "PP": "35",
+            "LearnType": "APriorEvolution"
+        },
+        {
+            "Stage": "",
+            "Move": "String Shot",
+            "Type": "Bug",
+            "Pwr": "--",
+            "Acc": "95%",
+            "PP": "40",
+            "LearnType": "APriorEvolution"
+        },
+        {
+            "Stage": "",
+            "Move": "Poison Sting",
+            "Type": "Poison",
+            "Pwr": "15",
+            "Acc": "100%",
+            "PP": "35",
+            "LearnType": "APriorEvolution"
+        }
+    ],
+    "stats": {
+        "HP": "50",
+        "Attack": "35",
+        "Defense": "55",
+        "Sp. Atk": "25",
+        "Sp. Def": "25",
+        "Speed": "15"
+    }
+}

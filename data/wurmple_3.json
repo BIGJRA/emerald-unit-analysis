@@ -1,0 +1,39 @@
+{
+    "moves": [
+        {
+            "Level": "1",
+            "Move": "Tackle",
+            "Type": "Normal",
+            "Pwr": "35",
+            "Acc": "95%",
+            "PP": "35",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "1",
+            "Move": "String Shot",
+            "Type": "Bug",
+            "Pwr": "--",
+            "Acc": "95%",
+            "PP": "40",
+            "LearnType": "LevelingUp"
+        },
+        {
+            "Level": "5",
+            "Move": "Poison Sting",
+            "Type": "Poison",
+            "Pwr": "15",
+            "Acc": "100%",
+            "PP": "35",
+            "LearnType": "LevelingUp"
+        }
+    ],
+    "stats": {
+        "HP": "45",
+        "Attack": "45",
+        "Defense": "35",
+        "Sp. Atk": "20",
+        "Sp. Def": "30",
+        "Speed": "20"
+    }
+}
