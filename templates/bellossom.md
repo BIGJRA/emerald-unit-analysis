@@ -15,36 +15,36 @@ Bellossom: **75** HP / **80** Atk / **85** Def / **90** SpA / **100** SpD / **50
 |Acquisition             |Move        |Type   |Power|Accuracy|PP |Notes                    |
 |---                     |---         |---    |---  |---     |---|---                      |
 |Lv. 1                   |Absorb      |Grass  |20   |100%    |20 |                         |
+|-- / -- / Lv. 1         |Magical Leaf|Grass  |60   |--%     |20 |                         |
 |Lv. 7 / Lv. 7 / Lv. 1   |Sweet Scent |Normal |--   |100%    |20 |                         |
 |TM09                    |Bullet Seed |Grass  |10   |100%    |30 |                         |
 |HM01                    |Cut         |Normal |50   |95%     |30 |                         |
 |Lv. 14 / Lv. 14 / --    |PoisonPowder|Poison |--   |75%     |35 |                         |
-|HM05                    |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 16 / Lv. 16 / Lv. 1 |Stun Spore  |Grass  |--   |75%     |30 |                         |
+|HM05                    |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 18 / Lv. 18 / --    |Sleep Powder|Grass  |--   |75%     |15 |                         |
-|TM32                    |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |Tutor                   |Swagger     |Normal |--   |90%     |15 |Emerald only             |
+|TM32                    |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |TM45                    |Attract     |Normal |--   |100%    |15 |                         |
 |Lv. 23 / Lv. 24 / --    |Acid        |Poison |40   |100%    |30 |                         |
-|TM32                    |Double Team |Normal |--   |--%     |15 |                         |
-|TM10                    |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43                    |Secret Power|Normal |70   |100%    |20 |                         |
-|-- / -- / Lv. 1         |Magical Leaf|Grass  |60   |--%     |20 |                         |
-|Tutor                   |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM10                    |Hidden Power|Normal |--   |100%    |15 |                         |
+|TM32                    |Double Team |Normal |--   |--%     |15 |                         |
 |TM27                    |Return      |Normal |--   |100%    |20 |                         |
+|Tutor                   |Mimic       |Normal |--   |--%     |10 |Emerald only             |
 |TM06                    |Toxic       |Poison |--   |85%     |10 |                         |
 |TM36                    |Sludge Bomb |Poison |90   |100%    |10 |                         |
 |Tutor                   |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42                    |Facade      |Normal |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM22                    |SolarBeam   |Grass  |120  |100%    |10 |                         |
-|TM19                    |Giga Drain  |Grass  |60   |100%    |5  |                         |
 |Lv. 32 / Lv. 35 / --    |Moonlight   |Normal |--   |--%     |5  |                         |
-|-- / -- / TM15          |Hyper Beam  |Normal |150  |90%     |5  |                         |
-|TM17                    |Protect     |Normal |--   |--%     |10 |                         |
+|TM19                    |Giga Drain  |Grass  |60   |100%    |5  |                         |
 |TM44                    |Rest        |Psychic|--   |--%     |10 |                         |
-|-- / -- / TM20          |Safeguard   |Normal |--   |--%     |25 |                         |
 |Tutor                   |Substitute  |Normal |--   |--%     |10 |Emerald only             |
+|TM17                    |Protect     |Normal |--   |--%     |10 |                         |
+|-- / -- / TM20          |Safeguard   |Normal |--   |--%     |25 |                         |
+|-- / -- / TM15          |Hyper Beam  |Normal |150  |90%     |5  |                         |
 |TM21                    |Frustration |Normal |--   |100%    |20 |                         |
 |Tutor                   |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
 |Lv. 39 / Lv. 44 / Lv. 44|Petal Dance |Grass  |70   |100%    |20 |                         |

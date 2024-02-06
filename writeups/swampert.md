@@ -37,10 +37,10 @@ Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60
 | Tutor                    | Mimic        | Normal   | --    | --%      | 10 | Emerald only       |
 | TM27                     | Return       | Normal   | --    | 100%     | 20 |                    |
 | TM06                     | Toxic        | Poison   | --    | 85%      | 10 |                    |
-| HM03                     | Surf         | Water    | 95    | 100%     | 15 |                    |
 | Lv. 28 / Lv. 31 / Lv. 31 | Take Down    | Normal   | 90    | 85%      | 20 |                    |
 | Tutor                    | Sleep Talk   | Normal   | --    | --%      | 10 | Emerald only       |
 | TM42                     | Facade       | Normal   | 70    | 100%     | 20 |                    |
+| HM03                     | Surf         | Water    | 95    | 100%     | 15 |                    |
 | Lv. 33 / -- / --         | Whirlpool    | Water    | 15    | 70%      | 15 | Delay Evolution    |
 | TM13                     | Ice Beam     | Ice      | 95    | 100%     | 10 |                    |
 | TM14                     | Blizzard     | Ice      | 120   | 70%      | 5  |                    |

@@ -17,35 +17,35 @@ Xatu: **65** HP / **75** Atk / **70** Def / **95** SpA / **70** SpD / **95** Spe
 |Lv. 10         |Night Shade |Ghost  |--   |100%    |15 |                         |
 |HM05           |Flash       |Normal |--   |70%     |20 |                         |
 |TM47           |Steel Wing  |Steel  |70   |90%     |25 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
-|TM29           |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
+|TM46           |Thief       |Dark   |40   |100%    |10 |                         |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |Lv. 20         |Teleport    |Psychic|--   |--%     |20 |                         |
-|TM46           |Thief       |Dark   |40   |100%    |10 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM29           |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |                         |
-|TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
-|Tutor          |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |                         |
 |TM27           |Return      |Normal |--   |100%    |20 |                         |
+|Tutor          |Mimic       |Normal |--   |--%     |10 |Emerald only             |
 |TM06           |Toxic       |Poison |--   |85%     |10 |                         |
 |-- / HM02      |Fly         |Flying |70   |95%     |15 |                         |
 |Tutor          |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
-|TM40           |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM42           |Facade      |Normal |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire   |--   |--%     |5  |                         |
-|TM30           |Shadow Ball |Ghost  |80   |100%    |15 |                         |
-|TM48           |Skill Swap  |Psychic|--   |--%     |10 |                         |
+|TM40           |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM22           |SolarBeam   |Grass  |120  |100%    |10 |                         |
+|TM48           |Skill Swap  |Psychic|--   |--%     |10 |                         |
+|TM30           |Shadow Ball |Ghost  |80   |100%    |15 |                         |
 |Lv. 30 / Lv. 35|Future Sight|Psychic|80   |90%     |15 |                         |
-|TM19           |Giga Drain  |Grass  |60   |100%    |5  |                         |
 |Lv. 30 / Lv. 35|Wish        |Normal |--   |--%     |10 |                         |
-|-- / TM15      |Hyper Beam  |Normal |150  |90%     |5  |                         |
-|TM16           |Light Screen|Psychic|--   |--%     |30 |                         |
-|TM17           |Protect     |Normal |--   |--%     |10 |                         |
-|TM33           |Reflect     |Psychic|--   |--%     |20 |                         |
+|TM19           |Giga Drain  |Grass  |60   |100%    |5  |                         |
 |TM44           |Rest        |Psychic|--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal |--   |--%     |10 |Emerald only             |
+|TM17           |Protect     |Normal |--   |--%     |10 |                         |
+|TM33           |Reflect     |Psychic|--   |--%     |20 |                         |
+|TM16           |Light Screen|Psychic|--   |--%     |30 |                         |
+|-- / TM15      |Hyper Beam  |Normal |150  |90%     |5  |                         |
 |TM21           |Frustration |Normal |--   |100%    |20 |                         |
 |TM04           |Calm Mind   |Psychic|--   |--%     |20 |                         |
 |Tutor          |Double-Edge |Normal |120  |100%    |15 |Emerald only             |

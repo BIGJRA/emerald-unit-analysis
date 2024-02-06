@@ -17,34 +17,34 @@ Magcargo: **50** HP / **50** Atk / **120** Def / **80** SpA / **80** SpD / **30*
 |Lv. 8          |Ember       |Fire    |40   |100%    |25 |                         |
 |Lv. 15         |Rock Throw  |Rock    |50   |90%     |15 |                         |
 |-- / TM39      |Rock Tomb   |Rock    |50   |80%     |10 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
-|TM45           |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Lv. 22         |Harden      |Normal  |--   |--%     |30 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
-|TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
+|TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / HM04      |Strength    |Normal  |80   |100%    |15 |                         |
-|Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
+|TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
+|Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM50           |Overheat    |Fire    |140  |90%     |5  |                         |
 |Lv. 29         |Amnesia     |Psychic |--   |--%     |20 |                         |
-|-- / TM37      |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|-- / TM37      |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
-|TM38           |Fire Blast  |Fire    |120  |85%     |5  |                         |
-|Lv. 36         |Flamethrower|Fire    |95   |100%    |15 |                         |
-|-- / TM15      |Hyper Beam  |Normal  |150  |90%     |5  |                         |
-|TM16           |Light Screen|Psychic |--   |--%     |30 |                         |
-|TM17           |Protect     |Normal  |--   |--%     |10 |                         |
-|TM33           |Reflect     |Psychic |--   |--%     |20 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
+|Lv. 36         |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM17           |Protect     |Normal  |--   |--%     |10 |                         |
+|TM33           |Reflect     |Psychic |--   |--%     |20 |                         |
+|TM16           |Light Screen|Psychic |--   |--%     |30 |                         |
+|TM38           |Fire Blast  |Fire    |120  |85%     |5  |                         |
+|-- / TM15      |Hyper Beam  |Normal  |150  |90%     |5  |                         |
 |TM21           |Frustration |Normal  |--   |100%    |20 |                         |
 |Tutor          |Double-Edge |Normal  |120  |100%    |15 |Emerald only             |
 |-- / TM26      |Earthquake  |Ground  |100  |100%    |10 |                         |

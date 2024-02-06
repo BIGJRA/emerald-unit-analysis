@@ -22,44 +22,44 @@ Kecleon: **60** HP / **90** Atk / **70** Def / **60** SpA / **120** SpD / **40**
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 17     |Psybeam     |Psychic |65   |100%    |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
-|Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46       |Thief       |Dark    |40   |100%    |10 |                         |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
+|Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |Lv. 24     |Screech     |Normal  |--   |85%     |40 |                         |
-|TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
+|TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
+|TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM28       |Dig         |Ground  |60   |100%    |10 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27       |Return      |Normal  |--   |100%    |20 |                         |
+|Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
+|Lv. 31     |Slash       |Normal  |70   |100%    |20 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|Lv. 31     |Slash       |Normal  |70   |100%    |20 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
-|TM30       |Shadow Ball |Ghost   |80   |100%    |15 |                         |
-|TM48       |Skill Swap  |Psychic |--   |--%     |10 |                         |
+|TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM22       |SolarBeam   |Grass   |120  |100%    |10 |                         |
-|TM14       |Blizzard    |Ice     |120  |70%     |5  |                         |
-|TM38       |Fire Blast  |Fire    |120  |85%     |5  |                         |
-|TM17       |Protect     |Normal  |--   |--%     |10 |                         |
+|TM48       |Skill Swap  |Psychic |--   |--%     |10 |                         |
+|TM30       |Shadow Ball |Ghost   |80   |100%    |15 |                         |
 |TM44       |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor      |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
+|TM17       |Protect     |Normal  |--   |--%     |10 |                         |
+|TM38       |Fire Blast  |Fire    |120  |85%     |5  |                         |
 |TM25       |Thunder     |Electric|120  |70%     |10 |                         |
+|TM14       |Blizzard    |Ice     |120  |70%     |5  |                         |
 |Tutor      |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM21       |Frustration |Normal  |--   |100%    |20 |                         |
 |Lv. 40     |Substitute  |Normal  |--   |--%     |10 |                         |

@@ -20,31 +20,31 @@ Hariyama: **144** HP / **120** Atk / **60** Def / **40** SpA / **60** SpD / **50
 |TM39           |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |TM08           |Bulk Up     |Fighting|--   |--%     |20 |                         |
 |Lv. 19         |Fake Out    |Normal  |40   |100%    |10 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
-|TM45           |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Lv. 22         |Whirlwind   |Normal  |--   |100%    |20 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
-|TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
+|TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |HM04           |Strength    |Normal  |80   |100%    |15 |                         |
+|TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
+|TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM28           |Dig         |Ground  |60   |100%    |10 |                         |
 |Tutor          |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
+|Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 28 / Lv. 29|Knock Off   |Dark    |20   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
-|TM01           |Focus Punch |Fighting|150  |100%    |20 |                         |
 |HM03           |Surf        |Water   |95   |100%    |15 |                         |
+|TM01           |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |Lv. 31 / Lv. 33|SmellingSalt|Normal  |60   |100%    |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
-|-- / TM15      |Hyper Beam  |Normal  |150  |90%     |5  |                         |
-|TM17           |Protect     |Normal  |--   |--%     |10 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
+|TM17           |Protect     |Normal  |--   |--%     |10 |                         |
+|-- / TM15      |Hyper Beam  |Normal  |150  |90%     |5  |                         |
 |Tutor          |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM21           |Frustration |Normal  |--   |100%    |20 |                         |
 |Lv. 37 / Lv. 40|Belly Drum  |Normal  |--   |--%     |10 |                         |

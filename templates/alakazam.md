@@ -19,41 +19,41 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 |-- / Lv. 16 / Lv. 16|Confusion   |Psychic |50   |100%    |25 |                         |
 |HM05                |Flash       |Normal  |--   |70%     |20 |                         |
 |-- / Lv. 18 / Lv. 18|Disable     |Normal  |--   |55%     |20 |                         |
-|TM32                |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM29                |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
-|Tutor               |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46                |Thief       |Dark    |40   |100%    |10 |                         |
 |TM41                |Torment     |Dark    |--   |100%    |15 |                         |
+|Tutor               |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
+|TM32                |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM29                |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |-- / Lv. 21 / Lv. 21|Psybeam     |Psychic |65   |100%    |20 |                         |
 |TM45                |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / Lv. 23 / Lv. 23|Reflect     |Psychic |--   |--%     |20 |                         |
 |TM34                |Shock Wave  |Electric|60   |--%     |20 |                         |
-|TM32                |Double Team |Normal  |--   |--%     |15 |                         |
-|TM10                |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                |Secret Power|Normal  |70   |100%    |20 |                         |
-|Tutor               |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
+|TM10                |Hidden Power|Normal  |--   |100%    |15 |                         |
+|TM32                |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 25 / Lv. 25|Recover     |Normal  |--   |--%     |20 |                         |
-|Tutor               |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|Tutor               |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
 |TM27                |Return      |Normal  |--   |100%    |20 |                         |
+|Tutor               |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM06                |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / Lv. 30 / Lv. 30|Future Sight|Psychic |80   |90%     |15 |                         |
 |TM01                |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor               |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / -- / Lv. 33    |Calm Mind   |Psychic |--   |--%     |20 |                         |
-|TM42                |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / Lv. 33 / --    |Role Play   |Psychic |--   |--%     |10 |                         |
+|TM42                |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                |Sunny Day   |Fire    |--   |--%     |5  |                         |
-|TM30                |Shadow Ball |Ghost   |80   |100%    |15 |                         |
-|TM48                |Skill Swap  |Psychic |--   |--%     |10 |                         |
 |TM12                |Taunt       |Dark    |--   |100%    |20 |                         |
-|-- / -- / TM15      |Hyper Beam  |Normal  |150  |90%     |5  |                         |
-|TM16                |Light Screen|Psychic |--   |--%     |30 |                         |
-|TM17                |Protect     |Normal  |--   |--%     |10 |                         |
-|-- / Lv. 36 / Lv. 36|Psychic     |Psychic |90   |100%    |10 |                         |
-|TM33                |Reflect     |Psychic |--   |--%     |20 |                         |
+|TM48                |Skill Swap  |Psychic |--   |--%     |10 |                         |
+|TM30                |Shadow Ball |Ghost   |80   |100%    |15 |                         |
 |TM44                |Rest        |Psychic |--   |--%     |10 |                         |
-|TM20                |Safeguard   |Normal  |--   |--%     |25 |                         |
 |Tutor               |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
+|-- / Lv. 36 / Lv. 36|Psychic     |Psychic |90   |100%    |10 |                         |
+|TM17                |Protect     |Normal  |--   |--%     |10 |                         |
+|TM20                |Safeguard   |Normal  |--   |--%     |25 |                         |
+|TM33                |Reflect     |Psychic |--   |--%     |20 |                         |
+|TM16                |Light Screen|Psychic |--   |--%     |30 |                         |
+|-- / -- / TM15      |Hyper Beam  |Normal  |150  |90%     |5  |                         |
 |Tutor               |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM21                |Frustration |Normal  |--   |100%    |20 |                         |
 |TM04                |Calm Mind   |Psychic |--   |--%     |20 |                         |
