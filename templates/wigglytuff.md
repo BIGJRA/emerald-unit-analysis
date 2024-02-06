@@ -22,15 +22,16 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 |Lv. 14 / -- / --     |Sweet Kiss  |Normal  |--   |75%     |10 |                         |
 |HM05                 |Flash       |Normal  |--   |70%     |20 |                         |
 |-- / Lv. 19 / --     |Rollout     |Rock    |30   |90%     |20 |                         |
-|TM32                 |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32                 |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35                 |Flamethrower|Fire    |95   |100%    |15 |                         |
-|-- / TM13 / TM13     |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|TM29                 |Psychic     |Psychic |90   |100%    |10 |                         |
+|-- / TM13 / TM13     |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
+|TM29                 |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor                |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|-- / TM24 / TM24     |Thunderbolt |Electric|95   |100%    |15 |                         |
+|-- / TM24 / TM24     |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |Tutor                |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45                 |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34                 |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32                 |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 24 / Lv. 1  |DoubleSlap  |Normal  |15   |85%     |10 |                         |
 |TM10                 |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                 |Secret Power|Normal  |70   |100%    |20 |                         |
@@ -65,6 +66,7 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 |TM18                 |Rain Dance  |Water   |--   |--%     |5  |                         |
 |TM03                 |Water Pulse |Water   |60   |100%    |20 |                         |
 |-- / Lv. 44 / --     |Hyper Voice |Normal  |90   |100%    |10 |                         |
+|TM29                 |Psychic     |Psychic |90   |100%    |10 |                         |
 |-- / Lv. 49 / --     |Double-Edge |Normal  |120  |100%    |15 |                         |
 |-- / TM49 / TM49     |Snatch      |Dark    |--   |--%     |10 |                         |
 

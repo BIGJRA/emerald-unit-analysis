@@ -17,11 +17,12 @@ Tentacruel: **80** HP / **70** Atk / **65** Def / **80** SpA / **120** SpD / **1
 |HM01           |Cut         |Normal |50   |95%     |30 |                         |
 |Lv. 12         |Constrict   |Normal |10   |100%    |35 |                         |
 |Lv. 19         |Acid        |Poison |40   |100%    |30 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |                         |
-|TM13           |Ice Beam    |Ice    |95   |100%    |10 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM13           |Ice Beam    |Ice    |95   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM46           |Thief       |Dark   |40   |100%    |10 |                         |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 25         |BubbleBeam  |Water  |65   |100%    |20 |                         |
@@ -29,6 +30,7 @@ Tentacruel: **80** HP / **70** Atk / **65** Def / **80** SpA / **120** SpD / **1
 |TM27           |Return      |Normal |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison |--   |85%     |10 |                         |
 |Lv. 30         |Wrap        |Normal |15   |85%     |20 |                         |
+|TM13           |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |TM36           |Sludge Bomb |Poison |90   |100%    |10 |                         |
 |HM03           |Surf        |Water  |95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |

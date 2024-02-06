@@ -18,15 +18,16 @@ Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150*
 |Lv. 15     |Knock Off   |Dark    |20   |100%    |20 |                         |
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Lv. 20     |Pursuit     |Dark    |40   |100%    |20 |                         |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM41       |Torment     |Dark    |--   |100%    |15 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -36,6 +37,8 @@ Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150*
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 30     |Snatch      |Dark    |--   |--%     |10 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
@@ -60,6 +63,7 @@ Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150*
 |TM18       |Rain Dance  |Water   |--   |--%     |5  |                         |
 |TM03       |Water Pulse |Water   |60   |100%    |20 |                         |
 |Lv. 45     |Psycho Boost|Psychic |140  |90%     |5  |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 50     |Hyper Beam  |Normal  |150  |90%     |5  |                         |
 |TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 

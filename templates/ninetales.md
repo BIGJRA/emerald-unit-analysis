@@ -17,11 +17,12 @@ Ninetales: **73** HP / **76** Atk / **75** Def / **81** SpA / **100** SpD / **10
 |Lv. 9 / --     |Roar        |Normal |--   |100%    |20 |                         |
 |Lv. 13 / Lv. 1 |Quick Attack|Normal |40   |100%    |30 |                         |
 |Lv. 17 / --    |Will-O-Wisp |Fire   |--   |75%     |15 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |TM35           |Flamethrower|Fire   |95   |100%    |15 |                         |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |Lv. 21 / Lv. 1 |Confuse Ray |Ghost  |--   |100%    |10 |                         |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
 |TM28           |Dig         |Ground |60   |100%    |10 |                         |

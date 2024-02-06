@@ -19,15 +19,16 @@ Muk: **105** HP / **105** Atk / **75** Def / **65** SpA / **100** SpD / **50** S
 |Lv. 13         |Sludge      |Poison  |65   |100%    |20 |                         |
 |TM39           |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 19         |Minimize    |Normal  |--   |--%     |20 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46           |Thief       |Dark    |40   |100%    |10 |                         |
-|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM41           |Torment     |Dark    |--   |100%    |15 |                         |
 |-- / HM06      |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04      |Strength    |Normal  |80   |100%    |15 |                         |
@@ -38,6 +39,7 @@ Muk: **105** HP / **105** Atk / **75** Def / **65** SpA / **100** SpD / **50** S
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / TM01      |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM36           |Sludge Bomb |Poison  |90   |100%    |10 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |

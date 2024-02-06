@@ -19,12 +19,13 @@ Tropius: **99** HP / **68** Atk / **83** Def / **72** SpA / **87** SpD / **51** 
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |TM47       |Steel Wing  |Steel   |70   |90%     |25 |                         |
 |Lv. 17     |Stomp       |Normal  |65   |100%    |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Lv. 21     |Sweet Scent |Normal  |--   |100%    |20 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |

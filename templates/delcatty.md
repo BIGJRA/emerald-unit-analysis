@@ -20,14 +20,15 @@ Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70**
 |Lv. 15 / Lv. 1|DoubleSlap  |Normal  |15   |85%     |10 |                         |
 |HM05          |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 19 / --   |Assist      |Normal  |--   |--%     |20 |                         |
-|TM32          |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM32          |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13          |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor         |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24          |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |-- / HM06     |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor         |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45          |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34          |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32          |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10          |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43          |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04     |Strength    |Normal  |80   |100%    |15 |                         |
@@ -38,6 +39,8 @@ Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70**
 |TM27          |Return      |Normal  |--   |100%    |20 |                         |
 |TM06          |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31 / --   |Covet       |Normal  |40   |100%    |40 |                         |
+|TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor         |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42          |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11          |Sunny Day   |Fire    |--   |--%     |5  |                         |

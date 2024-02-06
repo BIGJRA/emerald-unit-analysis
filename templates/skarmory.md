@@ -17,12 +17,13 @@ Skarmory: **65** HP / **80** Atk / **140** Def / **40** SpA / **70** SpD / **70*
 |Lv. 13     |Swift       |Normal  |60   |--%     |20 |                         |
 |Lv. 16     |Agility     |Psychic |--   |--%     |30 |                         |
 |TM47       |Steel Wing  |Steel   |70   |90%     |25 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46       |Thief       |Dark    |40   |100%    |10 |                         |
 |TM41       |Torment     |Dark    |--   |100%    |15 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |TM05       |Roar        |Normal  |--   |100%    |20 |                         |

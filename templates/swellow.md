@@ -19,10 +19,11 @@ Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125**
 |Lv. 13         |Wing Attack |Flying |60   |100%    |35 |                         |
 |TM47           |Steel Wing  |Steel  |70   |90%     |25 |                         |
 |Lv. 19         |Double Team |Normal |--   |--%     |15 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM46           |Thief       |Dark   |40   |100%    |10 |                         |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal |--   |--%     |10 |Emerald only             |

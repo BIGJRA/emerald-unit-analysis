@@ -15,14 +15,15 @@ Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** S
 |Lv. 11     |Bite        |Dark    |60   |100%    |25 |                         |
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 16     |Sweet Scent |Normal  |--   |100%    |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM41       |Torment     |Dark    |--   |100%    |15 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Lv. 21     |ViceGrip    |Normal  |55   |100%    |30 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -33,6 +34,7 @@ Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** S
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Baton Pass  |Normal  |--   |--%     |40 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM36       |Sludge Bomb |Poison  |90   |100%    |10 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |

@@ -17,11 +17,12 @@ Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60
 |Lv. 13     |Sweet Scent |Normal |--   |100%    |20 |                         |
 |HM05       |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 19     |Water Sport |Water  |--   |--%     |15 |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
-|TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice    |95   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM46       |Thief       |Dark   |40   |100%    |10 |                         |
 |TM45       |Attract     |Normal |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 25 / --|BubbleBeam  |Water  |65   |100%    |20 |                         |
@@ -30,6 +31,7 @@ Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60
 |TM27       |Return      |Normal |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison |--   |85%     |10 |                         |
 |Lv. 31 / --|Agility     |Psychic|--   |--%     |30 |                         |
+|TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |-- / TM40  |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM42       |Facade      |Normal |70   |100%    |20 |                         |

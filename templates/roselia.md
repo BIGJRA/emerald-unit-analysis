@@ -18,11 +18,12 @@ Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65**
 |Lv. 13     |Stun Spore  |Grass  |--   |75%     |30 |                         |
 |HM05       |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 17     |Mega Drain  |Grass  |40   |100%    |10 |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |Lv. 21     |Leech Seed  |Grass  |--   |90%     |10 |                         |
 |TM45       |Attract     |Normal |--   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug    |10   |95%     |20 |Emerald only             |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 25     |Magical Leaf|Grass  |60   |--%     |20 |                         |

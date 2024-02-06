@@ -22,9 +22,9 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 |-- / -- / Lv. 13|Gust        |Flying |40   |100%    |35 |                         |
 |-- / -- / HM05  |Flash       |Normal |--   |70%     |20 |                         |
 |-- / -- / Lv. 17|Protect     |Normal |--   |--%     |10 |                         |
-|-- / -- / TM32  |Double Team |Normal |--   |--%     |15 |                         |
+|-- / -- / TM32  |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |-- / -- / Lv. 20|Moonlight   |Normal |--   |--%     |5  |                         |
-|-- / -- / TM29  |Psychic     |Psychic|90   |100%    |10 |                         |
+|-- / -- / TM29  |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
 |-- / -- / Tutor |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |-- / -- / TM46  |Thief       |Dark   |40   |100%    |10 |                         |
 |-- / -- / TM45  |Attract     |Normal |--   |100%    |15 |                         |

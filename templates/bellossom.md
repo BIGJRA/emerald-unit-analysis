@@ -22,10 +22,11 @@ Bellossom: **75** HP / **80** Atk / **85** Def / **90** SpA / **100** SpD / **50
 |HM05                    |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 16 / Lv. 16 / Lv. 1 |Stun Spore  |Grass  |--   |75%     |30 |                         |
 |Lv. 18 / Lv. 18 / --    |Sleep Powder|Grass  |--   |75%     |15 |                         |
-|TM32                    |Double Team |Normal |--   |--%     |15 |                         |
+|TM32                    |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |Tutor                   |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM45                    |Attract     |Normal |--   |100%    |15 |                         |
 |Lv. 23 / Lv. 24 / --    |Acid        |Poison |40   |100%    |30 |                         |
+|TM32                    |Double Team |Normal |--   |--%     |15 |                         |
 |TM10                    |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43                    |Secret Power|Normal |70   |100%    |20 |                         |
 |-- / -- / Lv. 1         |Magical Leaf|Grass  |60   |--%     |20 |                         |

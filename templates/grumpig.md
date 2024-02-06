@@ -18,13 +18,14 @@ Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80**
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 16         |Psybeam     |Psychic |65   |100%    |20 |                         |
 |Lv. 19         |Psych Up    |Normal  |--   |--%     |10 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM29           |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46           |Thief       |Dark    |40   |100%    |10 |                         |
 |TM41           |Torment     |Dark    |--   |100%    |15 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |Lv. 25         |Confuse Ray |Ghost   |--   |100%    |10 |                         |
@@ -54,6 +55,7 @@ Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80**
 |Lv. 37 / Lv. 43|Rest        |Psychic |--   |--%     |10 |                         |
 |Lv. 37 / Lv. 43|Snore       |Normal  |40   |100%    |15 |                         |
 |TM23           |Iron Tail   |Steel   |100  |75%     |15 |                         |
+|TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 43 / Lv. 55|Bounce      |Flying  |85   |85%     |5  |                         |
 |TM49           |Snatch      |Dark    |--   |--%     |10 |                         |
 

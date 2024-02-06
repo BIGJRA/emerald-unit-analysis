@@ -18,11 +18,12 @@ Donphan: **90** HP / **120** Atk / **120** Def / **60** SpA / **60** SpD / **50*
 |Lv. 9      |Defense Curl|Normal  |--   |--%     |40 |                         |
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 17     |Flail       |Normal  |--   |100%    |15 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |

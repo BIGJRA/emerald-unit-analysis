@@ -17,15 +17,16 @@ Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110*
 |Lv. 15     |Safeguard   |Normal  |--   |--%     |25 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |TM47       |Steel Wing  |Steel   |70   |90%     |25 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Lv. 20     |DragonBreath|Dragon  |60   |100%    |20 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |Lv. 25     |Protect     |Normal  |--   |--%     |10 |                         |
@@ -35,7 +36,9 @@ Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110*
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 30     |Refresh     |Normal  |--   |--%     |20 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03       |Surf        |Water   |95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |HM02       |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
@@ -63,6 +66,7 @@ Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110*
 |HM07       |Waterfall   |Water   |80   |100%    |15 |                         |
 |TM02       |Dragon Claw |Dragon  |80   |100%    |15 |                         |
 |Lv. 45     |Recover     |Normal  |--   |--%     |20 |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 50     |Dragon Dance|Dragon  |--   |--%     |20 |                         |
 
 ### Analysis

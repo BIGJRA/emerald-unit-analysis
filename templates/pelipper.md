@@ -17,13 +17,14 @@ Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65*
 |Lv. 7        |Supersonic  |Normal  |--   |55%     |20 |                         |
 |Lv. 13       |Wing Attack |Flying  |60   |100%    |35 |                         |
 |TM47         |Steel Wing  |Steel   |70   |90%     |25 |                         |
-|TM32         |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13         |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM32         |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13         |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor        |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46         |Thief       |Dark    |40   |100%    |10 |                         |
 |Lv. 21       |Mist        |Ice     |--   |--%     |30 |                         |
 |TM45         |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34         |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32         |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10         |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43         |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / Lv. 25  |Protect     |Normal  |--   |--%     |10 |                         |
@@ -31,6 +32,7 @@ Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65*
 |Tutor        |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27         |Return      |Normal  |--   |100%    |20 |                         |
 |TM06         |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13         |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Lv. 31 / --  |Quick Attack|Normal  |40   |100%    |30 |                         |
 |-- / HM03    |Surf        |Water   |95   |100%    |15 |                         |
 |HM02         |Fly         |Flying  |70   |95%     |15 |                         |

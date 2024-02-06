@@ -17,11 +17,12 @@ Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** 
 |TM39       |Rock Tomb   |Rock   |50   |80%     |10 |                         |
 |HM05       |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 19     |Fire Spin   |Fire   |15   |70%     |15 |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |TM35       |Flamethrower|Fire   |95   |100%    |15 |                         |
-|TM29       |Psychic     |Psychic|90   |100%    |10 |                         |
+|TM29       |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |Tutor      |Rollout     |Rock   |30   |90%     |20 |Emerald only             |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 25     |Psywave     |Psychic|--   |80%     |15 |                         |
@@ -52,6 +53,7 @@ Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** 
 |Tutor      |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
 |TM26       |Earthquake  |Ground |100  |100%    |10 |                         |
 |Lv. 43     |SolarBeam   |Grass  |120  |100%    |10 |                         |
+|TM29       |Psychic     |Psychic|90   |100%    |10 |                         |
 |Lv. 49     |Explosion   |Normal |250  |100%    |5  |                         |
 
 ### Analysis

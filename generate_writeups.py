@@ -74,7 +74,7 @@ TUTOR_SCORES = {
     "Substitute": 36,  # Lilycove
     "Swagger": 20  # Slateport
 }
-
+TM_SPLITS = {"TM13": 31, "TM24": 31, "TM32": 24, "TM29": 46}
 
 def generate_text(pokemon_names):
     lines = []
@@ -91,14 +91,18 @@ def generate_text(pokemon_names):
     lines.append('### Moveset\n')
 
     acq, data = get_learnset_and_move_data(pokemon_names)
+    print(acq)
 
     move_lines = [['Acquisition', '---'], ['Move', '---'], ['Type', '---'], ['Power', '---'], ['Accuracy', '---'],
                   ['PP', '---'], ['Notes'.ljust(25), '---']]
     for move in acq:
+        score = move[0]
         n = move[1]
         type, pwr, acc, pp = data[n]["Type"], data[n]["Pwr"], data[n]["Acc"], data[n]["PP"]
         notes = ''
         if 'Tutor' in move[2]: notes = "Emerald only"
+        if any(TM in move[2] for TM in TM_SPLITS) and score == 20: # Checks for specifically game corner stuff:
+            notes = 'Buy at Game Corner'
         for idx, thing in enumerate([f'{move[2]}', f'{n}', f'{type}', f'{pwr}', f'{acc}', f'{pp}', f'{notes}']):
             move_lines[idx].append(thing)
     lengths = [max([len(s) for s in group]) for group in move_lines]
@@ -144,9 +148,11 @@ def get_learnset_and_move_data(pokemon_names):
 
         # Handles final stage Lv. 1 moves - might as well put them at the Move Relearner - Fallarbor @ Lv. 25
         if learn_str in ['-- / -- / Lv. 1', '-- / Lv. 1']:
-            print(move, pokemon_names)
+            #print(move, pokemon_names)
             score = 25
         acq_list.append((score, move, learn_str))
+        if learn_str in TM_SPLITS:
+            acq_list.append((TM_SPLITS[learn_str], move, learn_str))
     acq_list.sort()
     return acq_list, move_data
 

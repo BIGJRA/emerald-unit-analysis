@@ -23,13 +23,14 @@ Blaziken: **80** HP / **120** Atk / **70** Def / **110** SpA / **70** SpD / **80
 |-- / Lv. 16 / Lv. 16    |Double Kick |Fighting|30   |100%    |30 |                         |
 |Lv. 16 / Lv. 17 / Lv. 17|Peck        |Flying  |35   |100%    |35 |                         |
 |-- / TM08 / TM08        |Bulk Up     |Fighting|--   |--%     |20 |                         |
-|TM32                    |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35                    |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Tutor                   |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Lv. 19 / Lv. 21 / Lv. 21|Sand-Attack |Ground  |--   |100%    |15 |                         |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / Tutor / Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
+|TM32                    |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10                    |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                    |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04                    |Strength    |Normal  |80   |100%    |15 |                         |

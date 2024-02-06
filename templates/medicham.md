@@ -20,12 +20,13 @@ Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80**
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
 |TM08           |Bulk Up     |Fighting|--   |--%     |20 |                         |
 |Lv. 18         |Hidden Power|Normal  |--   |100%    |15 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM29           |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |Lv. 22         |Mind Reader |Normal  |--   |100%    |5  |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04           |Strength    |Normal  |80   |100%    |15 |                         |
@@ -56,6 +57,7 @@ Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80**
 |TM31           |Brick Break |Fighting|75   |100%    |15 |                         |
 |Tutor          |Double-Edge |Normal  |120  |100%    |15 |Emerald only             |
 |TM18           |Rain Dance  |Water   |--   |--%     |5  |                         |
+|TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 42 / Lv. 46|Reversal    |Fighting|--   |100%    |15 |                         |
 |Lv. 48 / Lv. 54|Recover     |Normal  |--   |--%     |20 |                         |
 

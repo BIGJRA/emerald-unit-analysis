@@ -19,9 +19,9 @@ Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **7
 |-- / TM39 / TM39    |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |-- / HM05 / HM05    |Flash       |Normal  |--   |70%     |20 |                         |
 |-- / Lv. 20 / Lv. 20|Confusion   |Psychic |50   |100%    |25 |                         |
-|-- / TM32 / TM32    |Double Team |Normal  |--   |--%     |15 |                         |
+|-- / TM32 / TM32    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |-- / Lv. 20 / Lv. 20|Metal Claw  |Steel   |50   |95%     |35 |                         |
-|-- / TM29 / TM29    |Psychic     |Psychic |90   |100%    |10 |                         |
+|-- / TM29 / TM29    |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |-- / Tutor / Tutor  |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |-- / HM06 / HM06    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |-- / Tutor / Tutor  |Rollout     |Rock    |30   |90%     |20 |Emerald only             |

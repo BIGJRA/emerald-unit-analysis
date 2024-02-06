@@ -14,15 +14,16 @@ Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **9
 |Lv. 5      |Scary Face  |Normal  |--   |90%     |10 |                         |
 |Lv. 15     |AncientPower|Rock    |60   |100%    |5  |                         |
 |TM08       |Bulk Up     |Fighting|--   |--%     |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Lv. 20     |Dragon Claw |Dragon  |80   |100%    |15 |                         |
 |TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -33,7 +34,9 @@ Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **9
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 30     |Dragon Dance|Dragon  |--   |--%     |20 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03       |Surf        |Water   |95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |HM02       |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |

@@ -24,15 +24,16 @@ Slaking: **150** HP / **160** Atk / **100** Def / **95** SpA / **65** SpD / **10
 |TM08                |Bulk Up     |Fighting|--   |--%     |20 |                         |
 |Lv. 19 / -- / Lv. 19|Faint Attack|Dark    |60   |--%     |20 |                         |
 |-- / Lv. 19 / --    |Fury Swipes |Normal  |18   |80%     |15 |                         |
-|TM32                |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32                |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35                |Flamethrower|Fire    |95   |100%    |15 |                         |
-|TM13                |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM13                |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor               |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24                |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24                |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |HM06                |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45                |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor               |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM34                |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32                |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10                |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04                |Strength    |Normal  |80   |100%    |15 |                         |
@@ -44,7 +45,9 @@ Slaking: **150** HP / **160** Atk / **100** Def / **95** SpA / **65** SpD / **10
 |TM06                |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31 / -- / Lv. 31|Covet       |Normal  |40   |100%    |40 |                         |
 |TM01                |Focus Punch |Fighting|150  |100%    |20 |                         |
+|TM13                |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |-- / Lv. 31 / --    |Slash       |Normal  |70   |100%    |20 |                         |
+|TM24                |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor               |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM40                |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM42                |Facade      |Normal  |70   |100%    |20 |                         |

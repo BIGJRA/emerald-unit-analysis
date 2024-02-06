@@ -16,14 +16,15 @@ Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** 
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 17     |Recover     |Normal  |--   |--%     |20 |                         |
 |Lv. 17     |Refresh     |Normal  |--   |--%     |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Lv. 23     |BubbleBeam  |Water   |65   |100%    |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -33,6 +34,7 @@ Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** 
 |Lv. 28     |Spike Cannon|Normal  |20   |100%    |15 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03       |Surf        |Water   |95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
@@ -56,5 +58,6 @@ Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** 
 |TM26       |Earthquake  |Ground  |100  |100%    |10 |                         |
 |TM03       |Water Pulse |Water   |60   |100%    |20 |                         |
 |Lv. 45     |AncientPower|Rock    |60   |100%    |5  |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 
 ### Analysis

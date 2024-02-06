@@ -15,11 +15,11 @@ Gyarados: **95** HP / **125** Atk / **79** Def / **60** SpA / **100** SpD / **81
 |Lv. 1 / -- |Splash      |Normal  |--   |--%     |40 |                         |
 |Lv. 15 / --|Tackle      |Normal  |35   |95%     |35 |                         |
 |-- / Lv. 20|Bite        |Dark    |60   |100%    |25 |                         |
-|-- / TM32  |Double Team |Normal  |--   |--%     |15 |                         |
+|-- / TM32  |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |-- / TM35  |Flamethrower|Fire    |95   |100%    |15 |                         |
-|-- / TM13  |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|-- / TM13  |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |-- / Tutor |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|-- / TM24  |Thunderbolt |Electric|95   |100%    |15 |                         |
+|-- / TM24  |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |-- / TM41  |Torment     |Dark    |--   |100%    |15 |                         |
 |-- / HM06  |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |-- / TM45  |Attract     |Normal  |--   |100%    |15 |                         |

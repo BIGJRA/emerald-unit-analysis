@@ -18,13 +18,14 @@ Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** 
 |Lv. 10         |Disable     |Normal  |--   |55%     |20 |                         |
 |Lv. 16         |Confusion   |Psychic |50   |100%    |25 |                         |
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |Lv. 23         |Screech     |Normal  |--   |85%     |40 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04           |Strength    |Normal  |80   |100%    |15 |                         |
@@ -33,6 +34,7 @@ Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** 
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM01           |Focus Punch |Fighting|150  |100%    |20 |                         |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Lv. 31         |Psych Up    |Normal  |--   |--%     |10 |                         |
 |HM03           |Surf        |Water   |95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |

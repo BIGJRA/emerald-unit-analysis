@@ -19,11 +19,12 @@ Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115*
 |Lv. 15 / Lv. 1|Recover     |Normal  |--   |--%     |20 |                         |
 |HM05          |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 19 / --   |Camouflage  |Normal  |--   |--%     |20 |                         |
-|TM32          |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|TM29          |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32          |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13          |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
+|TM29          |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor         |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24          |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
+|TM32          |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10          |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43          |Secret Power|Normal  |70   |100%    |20 |                         |
 |Lv. 24 / Lv. 1|Swift       |Normal  |60   |--%     |20 |                         |
@@ -31,7 +32,9 @@ Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115*
 |TM27          |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28 / --   |BubbleBeam  |Water   |65   |100%    |20 |                         |
 |TM06          |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03          |Surf        |Water   |95   |100%    |15 |                         |
+|TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor         |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / Lv. 33   |Confuse Ray |Ghost   |--   |100%    |10 |                         |
 |TM42          |Facade      |Normal  |70   |100%    |20 |                         |
@@ -55,5 +58,6 @@ Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115*
 |TM03          |Water Pulse |Water   |60   |100%    |20 |                         |
 |HM07          |Waterfall   |Water   |80   |100%    |15 |                         |
 |Lv. 46 / --   |Hydro Pump  |Water   |120  |80%     |5  |                         |
+|TM29          |Psychic     |Psychic |90   |100%    |10 |                         |
 
 ### Analysis

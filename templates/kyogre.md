@@ -15,12 +15,13 @@ Kyogre: **100** HP / **100** Atk / **90** Def / **150** SpA / **140** SpD / **90
 |Lv. 15     |AncientPower|Rock    |60   |100%    |5  |                         |
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 20     |Body Slam   |Normal  |85   |100%    |15 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -29,7 +30,9 @@ Kyogre: **100** HP / **100** Atk / **90** Def / **150** SpA / **140** SpD / **90
 |TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 30     |Calm Mind   |Psychic |--   |--%     |20 |                         |
+|TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03       |Surf        |Water   |95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |Lv. 35     |Ice Beam    |Ice     |95   |100%    |10 |                         |

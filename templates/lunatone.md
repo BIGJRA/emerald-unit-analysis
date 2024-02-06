@@ -17,11 +17,12 @@ Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70**
 |TM39       |Rock Tomb   |Rock   |50   |80%     |10 |                         |
 |HM05       |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 19     |Hypnosis    |Psychic|--   |60%     |20 |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
-|TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
-|TM29       |Psychic     |Psychic|90   |100%    |10 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice    |95   |100%    |10 |Buy at Game Corner       |
+|TM29       |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |Tutor      |Rollout     |Rock   |30   |90%     |20 |Emerald only             |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 25     |Psywave     |Psychic|--   |80%     |15 |                         |
@@ -30,6 +31,7 @@ Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70**
 |TM37       |Sandstorm   |Rock   |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison |--   |85%     |10 |                         |
 |Lv. 31     |Cosmic Power|Psychic|--   |--%     |20 |                         |
+|TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal |70   |100%    |20 |                         |
 |TM30       |Shadow Ball |Ghost  |80   |100%    |15 |                         |
@@ -49,6 +51,7 @@ Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70**
 |TM18       |Rain Dance  |Water  |--   |--%     |5  |                         |
 |TM26       |Earthquake  |Ground |100  |100%    |10 |                         |
 |Lv. 43     |Future Sight|Psychic|80   |90%     |15 |                         |
+|TM29       |Psychic     |Psychic|90   |100%    |10 |                         |
 |Lv. 49     |Explosion   |Normal |250  |100%    |5  |                         |
 
 ### Analysis

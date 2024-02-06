@@ -19,12 +19,13 @@ Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** S
 |HM05           |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 16         |Icy Wind    |Ice    |55   |95%     |15 |                         |
 |Lv. 19         |Headbutt    |Normal |70   |100%    |15 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |                         |
-|TM13           |Ice Beam    |Ice    |95   |100%    |10 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM13           |Ice Beam    |Ice    |95   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |-- / TM41      |Torment     |Dark   |--   |100%    |15 |                         |
 |-- / Tutor     |Rollout     |Rock   |30   |90%     |20 |Emerald only             |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 25         |Protect     |Normal |--   |--%     |10 |                         |
@@ -32,6 +33,7 @@ Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** S
 |TM27           |Return      |Normal |--   |100%    |20 |                         |
 |Lv. 28         |Crunch      |Dark   |80   |100%    |15 |                         |
 |TM06           |Toxic       |Poison |--   |85%     |10 |                         |
+|TM13           |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |Tutor          |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal |70   |100%    |20 |                         |
 |Lv. 34         |Ice Beam    |Ice    |95   |100%    |10 |                         |

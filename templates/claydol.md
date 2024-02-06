@@ -21,11 +21,12 @@ Claydol: **60** HP / **70** Atk / **105** Def / **70** SpA / **120** SpD / **75*
 |TM39           |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 19         |Selfdestruct|Normal  |200  |100%    |5  |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
-|TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
+|TM29           |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |-- / HM06      |Rock Smash  |Fighting|20   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04      |Strength    |Normal  |80   |100%    |15 |                         |
@@ -36,6 +37,7 @@ Claydol: **60** HP / **70** Atk / **105** Def / **70** SpA / **120** SpD / **75*
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM37           |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Lv. 31         |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
@@ -56,6 +58,7 @@ Claydol: **60** HP / **70** Atk / **105** Def / **70** SpA / **120** SpD / **75*
 |TM18           |Rain Dance  |Water   |--   |--%     |5  |                         |
 |Lv. 37 / Lv. 42|Cosmic Power|Psychic |--   |--%     |20 |                         |
 |TM26           |Earthquake  |Ground  |100  |100%    |10 |                         |
+|TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 45 / Lv. 55|Explosion   |Normal  |250  |100%    |5  |                         |
 
 ### Analysis

@@ -19,8 +19,8 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 |-- / Lv. 16 / Lv. 16|Confusion   |Psychic |50   |100%    |25 |                         |
 |HM05                |Flash       |Normal  |--   |70%     |20 |                         |
 |-- / Lv. 18 / Lv. 18|Disable     |Normal  |--   |55%     |20 |                         |
-|TM32                |Double Team |Normal  |--   |--%     |15 |                         |
-|TM29                |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32                |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM29                |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor               |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46                |Thief       |Dark    |40   |100%    |10 |                         |
 |TM41                |Torment     |Dark    |--   |100%    |15 |                         |
@@ -28,6 +28,7 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 |TM45                |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / Lv. 23 / Lv. 23|Reflect     |Psychic |--   |--%     |20 |                         |
 |TM34                |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32                |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10                |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                |Secret Power|Normal  |70   |100%    |20 |                         |
 |Tutor               |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
@@ -60,6 +61,7 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 |TM18                |Rain Dance  |Water   |--   |--%     |5  |                         |
 |-- / Lv. 43 / Lv. 43|Trick       |Psychic |--   |100%    |10 |                         |
 |TM23                |Iron Tail   |Steel   |100  |75%     |15 |                         |
+|TM29                |Psychic     |Psychic |90   |100%    |10 |                         |
 |TM49                |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

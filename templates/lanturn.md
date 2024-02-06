@@ -18,19 +18,22 @@ Lanturn: **125** HP / **58** Atk / **58** Def / **76** SpA / **76** SpD / **67**
 |Lv. 13         |Flail       |Normal  |--   |100%    |15 |                         |
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 17         |Water Gun   |Water   |40   |100%    |25 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |Lv. 25         |Spark       |Electric|65   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03           |Surf        |Water   |95   |100%    |15 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Lv. 29 / Lv. 32|Confuse Ray |Ghost   |--   |100%    |10 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |

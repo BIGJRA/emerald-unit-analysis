@@ -21,13 +21,14 @@ Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160**
 |HM05       |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 19     |Mind Reader |Normal |--   |100%    |5  |                         |
 |-- / Lv. 20|Double Team |Normal |--   |--%     |15 |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |-- / Lv. 20|Fury Cutter |Bug    |10   |95%     |20 |                         |
 |-- / Lv. 20|Screech     |Normal |--   |85%     |40 |                         |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |-- / TM46  |Thief       |Dark   |40   |100%    |10 |                         |
 |-- / TM45  |Attract     |Normal |--   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug    |10   |95%     |20 |Emerald only             |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |TM28       |Dig         |Ground |60   |100%    |10 |                         |

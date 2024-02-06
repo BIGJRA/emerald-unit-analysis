@@ -15,13 +15,14 @@ Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65*
 |Lv. 10     |Bite        |Dark    |60   |100%    |25 |                         |
 |Lv. 16     |Poison Tail |Poison  |50   |100%    |25 |                         |
 |Lv. 19     |Screech     |Normal  |--   |85%     |40 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46       |Thief       |Dark    |40   |100%    |10 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |

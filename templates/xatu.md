@@ -17,12 +17,13 @@ Xatu: **65** HP / **75** Atk / **70** Def / **95** SpA / **70** SpD / **95** Spe
 |Lv. 10         |Night Shade |Ghost  |--   |100%    |15 |                         |
 |HM05           |Flash       |Normal |--   |70%     |20 |                         |
 |TM47           |Steel Wing  |Steel  |70   |90%     |25 |                         |
-|TM32           |Double Team |Normal |--   |--%     |15 |                         |
-|TM29           |Psychic     |Psychic|90   |100%    |10 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM29           |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |Lv. 20         |Teleport    |Psychic|--   |--%     |20 |                         |
 |TM46           |Thief       |Dark   |40   |100%    |10 |                         |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal |--   |--%     |10 |Emerald only             |
@@ -49,6 +50,7 @@ Xatu: **65** HP / **75** Atk / **70** Def / **95** SpA / **70** SpD / **95** Spe
 |TM04           |Calm Mind   |Psychic|--   |--%     |20 |                         |
 |Tutor          |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
 |TM18           |Rain Dance  |Water  |--   |--%     |5  |                         |
+|TM29           |Psychic     |Psychic|90   |100%    |10 |                         |
 |Lv. 40 / Lv. 50|Confuse Ray |Ghost  |--   |100%    |10 |                         |
 |Lv. 50 / Lv. 65|Psychic     |Psychic|90   |100%    |10 |                         |
 

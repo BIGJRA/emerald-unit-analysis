@@ -17,17 +17,19 @@ Kingdra: **75** HP / **95** Atk / **95** Def / **95** SpA / **95** SpD / **85** 
 |Lv. 1                   |Bubble      |Water  |20   |100%    |30 |                         |
 |Lv. 8                   |SmokeScreen |Normal |--   |100%    |20 |                         |
 |Lv. 15                  |Leer        |Normal |--   |100%    |30 |                         |
-|TM32                    |Double Team |Normal |--   |--%     |15 |                         |
-|TM13                    |Ice Beam    |Ice    |95   |100%    |10 |                         |
+|TM32                    |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM13                    |Ice Beam    |Ice    |95   |100%    |10 |Buy at Game Corner       |
 |Tutor                   |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM45                    |Attract     |Normal |--   |100%    |15 |                         |
 |Lv. 22                  |Water Gun   |Water  |40   |100%    |25 |                         |
+|TM32                    |Double Team |Normal |--   |--%     |15 |                         |
 |TM10                    |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43                    |Secret Power|Normal |70   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal |--   |--%     |10 |Emerald only             |
 |TM27                    |Return      |Normal |--   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison |--   |85%     |10 |                         |
 |Lv. 29                  |Twister     |Dragon |40   |100%    |20 |                         |
+|TM13                    |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |HM03                    |Surf        |Water  |95   |100%    |15 |                         |
 |Tutor                   |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42                    |Facade      |Normal |70   |100%    |20 |                         |

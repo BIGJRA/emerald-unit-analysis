@@ -14,10 +14,11 @@ Luvdisc: **43** HP / **30** Atk / **55** Def / **40** SpA / **65** SpD / **97** 
 |Lv. 4      |Charm       |Normal |--   |100%    |20 |                         |
 |Lv. 12     |Water Gun   |Water  |40   |100%    |25 |                         |
 |Lv. 16     |Agility     |Psychic|--   |--%     |30 |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
-|TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
+|TM13       |Ice Beam    |Ice    |95   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM45       |Attract     |Normal |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |Lv. 24     |Take Down   |Normal |90   |85%     |20 |                         |
@@ -25,6 +26,7 @@ Luvdisc: **43** HP / **30** Atk / **55** Def / **40** SpA / **65** SpD / **97** 
 |TM27       |Return      |Normal |--   |100%    |20 |                         |
 |Lv. 28     |Attract     |Normal |--   |100%    |15 |                         |
 |TM06       |Toxic       |Poison |--   |85%     |10 |                         |
+|TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |HM03       |Surf        |Water  |95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal |70   |100%    |20 |                         |

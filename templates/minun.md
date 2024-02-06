@@ -16,13 +16,14 @@ Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Sp
 |Lv. 13     |Helping Hand|Normal  |--   |--%     |20 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 19     |Spark       |Electric|65   |100%    |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Lv. 22     |Encore      |Normal  |--   |100%    |5  |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
@@ -31,6 +32,7 @@ Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Sp
 |Lv. 28     |Charm       |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Charge      |Electric|--   |--%     |20 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM16       |Light Screen|Psychic |--   |--%     |30 |                         |

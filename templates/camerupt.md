@@ -17,12 +17,13 @@ Camerupt: **70** HP / **100** Atk / **70** Def / **105** SpA / **75** SpD / **40
 |Lv. 11         |Ember       |Fire    |40   |100%    |25 |                         |
 |TM39           |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 19         |Magnitude   |Ground  |--   |100%    |30 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04           |Strength    |Normal  |80   |100%    |15 |                         |

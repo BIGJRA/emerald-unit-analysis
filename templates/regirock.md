@@ -14,12 +14,13 @@ Regirock: **80** HP / **100** Atk / **200** Def / **50** SpA / **100** SpD / **5
 |Lv. 9      |Rock Throw  |Rock    |50   |90%     |15 |                         |
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 17     |Curse       |???     |--   |--%     |10 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -30,6 +31,7 @@ Regirock: **80** HP / **100** Atk / **200** Def / **50** SpA / **100** SpD / **5
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33     |AncientPower|Rock    |60   |100%    |5  |                         |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |

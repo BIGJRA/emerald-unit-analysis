@@ -15,15 +15,16 @@ Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30*
 |Lv. 13     |Rock Throw  |Rock    |50   |90%     |15 |                         |
 |TM39       |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 16     |Block       |Normal  |--   |--%     |5  |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM41       |Torment     |Dark    |--   |100%    |15 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Lv. 22     |Thunder Wave|Electric|--   |100%    |20 |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -33,6 +34,7 @@ Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30*
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |

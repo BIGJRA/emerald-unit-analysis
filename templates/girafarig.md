@@ -16,14 +16,15 @@ Girafarig: **70** HP / **80** Atk / **65** Def / **90** SpA / **65** SpD / **85*
 |Lv. 13     |Confusion   |Psychic |50   |100%    |25 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 19     |Stomp       |Normal  |65   |100%    |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46       |Thief       |Dark    |40   |100%    |10 |                         |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
@@ -32,6 +33,7 @@ Girafarig: **70** HP / **80** Atk / **65** Def / **90** SpA / **65** SpD / **85*
 |TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Agility     |Psychic |--   |--%     |30 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
@@ -51,6 +53,7 @@ Girafarig: **70** HP / **80** Atk / **65** Def / **90** SpA / **65** SpD / **85*
 |TM26       |Earthquake  |Ground  |100  |100%    |10 |                         |
 |Lv. 43     |Psybeam     |Psychic |65   |100%    |20 |                         |
 |TM23       |Iron Tail   |Steel   |100  |75%     |15 |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 49     |Crunch      |Dark    |80   |100%    |15 |                         |
 
 ### Analysis

@@ -15,12 +15,13 @@ Jirachi: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **
 |Lv. 10     |Swift       |Normal  |60   |--%     |20 |                         |
 |Lv. 15     |Helping Hand|Normal  |--   |--%     |20 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Lv. 20     |Psychic     |Psychic |90   |100%    |10 |                         |
-|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
@@ -30,6 +31,7 @@ Jirachi: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 30     |Rest        |Psychic |--   |--%     |10 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |
@@ -53,6 +55,7 @@ Jirachi: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **
 |TM18       |Rain Dance  |Water   |--   |--%     |5  |                         |
 |TM03       |Water Pulse |Water   |60   |100%    |20 |                         |
 |Lv. 45     |Cosmic Power|Psychic |--   |--%     |20 |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 50     |Doom Desire |Steel   |120  |85%     |5  |                         |
 
 ### Analysis

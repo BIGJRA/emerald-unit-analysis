@@ -17,20 +17,22 @@ Electrode: **60** HP / **50** Atk / **70** Def / **80** SpA / **80** SpD / **140
 |Lv. 8          |Screech     |Normal  |--   |85%     |40 |                         |
 |Lv. 15         |SonicBoom   |Normal  |--   |90%     |20 |                         |
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46           |Thief       |Dark    |40   |100%    |10 |                         |
-|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM41           |Torment     |Dark    |--   |100%    |15 |                         |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |Lv. 21         |Spark       |Electric|65   |100%    |20 |                         |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 27         |Selfdestruct|Normal  |200  |100%    |5  |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |Lv. 32 / Lv. 34|Rollout     |Rock    |30   |90%     |20 |                         |

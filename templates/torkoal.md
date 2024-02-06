@@ -16,11 +16,12 @@ Torkoal: **70** HP / **85** Atk / **140** Def / **85** SpA / **70** SpD / **20**
 |Lv. 14     |SmokeScreen |Normal  |--   |100%    |20 |                         |
 |Lv. 17     |Fire Spin   |Fire    |15   |70%     |15 |                         |
 |Lv. 20     |Body Slam   |Normal  |85   |100%    |15 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |

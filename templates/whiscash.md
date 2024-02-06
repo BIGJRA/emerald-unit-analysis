@@ -18,12 +18,13 @@ Whiscash: **110** HP / **78** Atk / **73** Def / **76** SpA / **71** SpD / **60*
 |Lv. 11         |Water Gun   |Water   |40   |100%    |25 |                         |
 |TM39           |Rock Tomb   |Rock    |50   |80%     |10 |                         |
 |Lv. 16         |Magnitude   |Ground  |--   |100%    |30 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |Lv. 21         |Amnesia     |Psychic |--   |--%     |20 |                         |
 |-- / HM06      |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04      |Strength    |Normal  |80   |100%    |15 |                         |
@@ -34,6 +35,7 @@ Whiscash: **110** HP / **78** Atk / **73** Def / **76** SpA / **71** SpD / **60*
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM37           |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM03           |Surf        |Water   |95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |

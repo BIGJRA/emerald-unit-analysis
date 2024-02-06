@@ -20,10 +20,11 @@ Shedinja: **1** HP / **90** Atk / **45** Def / **30** SpA / **30** SpD / **40** 
 |Lv. 14     |Fury Swipes |Normal |18   |80%     |15 |                         |
 |HM05       |Flash       |Normal |--   |70%     |20 |                         |
 |Lv. 19     |Mind Reader |Normal |--   |100%    |5  |                         |
-|TM32       |Double Team |Normal |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |-- / TM46  |Thief       |Dark   |40   |100%    |10 |                         |
 |Tutor      |Fury Cutter |Bug    |10   |95%     |20 |Emerald only             |
+|TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |TM28       |Dig         |Ground |60   |100%    |10 |                         |

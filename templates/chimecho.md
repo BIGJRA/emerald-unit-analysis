@@ -16,14 +16,15 @@ Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65**
 |Lv. 14     |Confusion   |Psychic |50   |100%    |25 |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 17     |Take Down   |Normal  |90   |85%     |20 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM41       |Torment     |Dark    |--   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |Lv. 22     |Uproar      |Normal  |50   |100%    |10 |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |Lv. 25     |Yawn        |Normal  |--   |--%     |10 |                         |
@@ -51,6 +52,7 @@ Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65**
 |TM18       |Rain Dance  |Water   |--   |--%     |5  |                         |
 |Lv. 41     |Safeguard   |Normal  |--   |--%     |25 |                         |
 |Lv. 46     |Psychic     |Psychic |90   |100%    |10 |                         |
+|TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

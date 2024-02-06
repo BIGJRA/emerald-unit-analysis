@@ -16,13 +16,14 @@ Volbeat: **65** HP / **73** Atk / **55** Def / **47** SpA / **75** SpD / **85** 
 |Lv. 13     |Moonlight   |Normal  |--   |--%     |5  |                         |
 |HM05       |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 17     |Quick Attack|Normal  |40   |100%    |30 |                         |
-|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46       |Thief       |Dark    |40   |100%    |10 |                         |
-|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |Lv. 21     |Tail Glow   |Bug     |--   |--%     |20 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
@@ -32,6 +33,7 @@ Volbeat: **65** HP / **73** Atk / **55** Def / **47** SpA / **75** SpD / **85** 
 |Lv. 29     |Protect     |Normal  |--   |--%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
+|TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM42       |Facade      |Normal  |70   |100%    |20 |                         |

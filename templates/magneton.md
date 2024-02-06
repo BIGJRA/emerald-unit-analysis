@@ -18,18 +18,20 @@ Magneton: **50** HP / **60** Atk / **95** Def / **120** SpA / **70** SpD / **70*
 |Lv. 11         |Supersonic  |Normal  |--   |55%     |20 |                         |
 |HM05           |Flash       |Normal  |--   |70%     |20 |                         |
 |Lv. 16         |SonicBoom   |Normal  |--   |90%     |20 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
-|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |Lv. 21         |Thunder Wave|Electric|--   |100%    |20 |                         |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |Lv. 26         |Spark       |Electric|65   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |

@@ -18,14 +18,15 @@ Altaria: **75** HP / **70** Atk / **90** Def / **70** SpA / **105** SpD / **80**
 |Lv. 11         |Sing        |Normal  |--   |55%     |15 |                         |
 |TM47           |Steel Wing  |Steel   |70   |90%     |25 |                         |
 |Lv. 18         |Fury Attack |Normal  |15   |85%     |20 |                         |
-|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |-- / TM35      |Flamethrower|Fire    |95   |100%    |15 |                         |
-|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |TM46           |Thief       |Dark    |40   |100%    |10 |                         |
 |-- / HM06      |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Lv. 21         |Safeguard   |Normal  |--   |--%     |25 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
+|TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / TM05      |Roar        |Normal  |--   |100%    |20 |                         |
@@ -33,6 +34,7 @@ Altaria: **75** HP / **70** Atk / **90** Def / **70** SpA / **105** SpD / **80**
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28         |Mist        |Ice     |--   |--%     |30 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Lv. 31         |Take Down   |Normal  |90   |85%     |20 |                         |
 |HM02           |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
