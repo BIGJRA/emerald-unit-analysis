@@ -139,7 +139,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Chinchou, Lanturn
 - [ ] Luvdisc
 - [ ] Horsea, Seadra, Kingdra
-- [ ] Bagon, Shelgon, Salamence
+- [x] Bagon, Shelgon, Salamence
 - [ ] Beldum, Metang, Metagross
 - [ ] Regirock
 - [ ] Regice
