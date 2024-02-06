@@ -21,7 +21,7 @@ Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** 
 |Tutor      |Rollout     |Rock   |30   |90%     |20 |Emerald only             |
 |TM32       |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
 |TM29       |Psychic     |Psychic|90   |100%    |10 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire   |95   |100%    |15 |                         |
+|TM35       |Flamethrower|Fire   |95   |100%    |15 |Buy at Game Corner       |
 |TM43       |Secret Power|Normal |70   |100%    |20 |                         |
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal |--   |--%     |15 |                         |

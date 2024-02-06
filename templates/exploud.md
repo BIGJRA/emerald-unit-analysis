@@ -23,7 +23,7 @@ Exploud: **104** HP / **91** Atk / **63** Def / **91** SpA / **63** SpD / **68**
 |-- / HM06 / HM06        |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor                   |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35                    |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35                    |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM13                    |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |Lv. 21 / Lv. 23 / Lv. 23|Supersonic  |Normal  |--   |55%     |20 |                         |

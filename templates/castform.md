@@ -21,7 +21,7 @@ Castform: **70** HP / **70** Atk / **70** Def / **70** SpA / **70** SpD / **70**
 |Lv. 20     |Rain Dance  |Water   |--   |--%     |5  |                         |
 |Lv. 20     |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35       |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |

@@ -18,7 +18,7 @@ Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **9
 |Lv. 20     |Dragon Claw |Dragon  |80   |100%    |15 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35       |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |

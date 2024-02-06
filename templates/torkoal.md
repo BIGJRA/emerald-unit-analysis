@@ -19,7 +19,7 @@ Torkoal: **70** HP / **85** Atk / **140** Def / **85** SpA / **70** SpD / **20**
 |Lv. 20     |Body Slam   |Normal  |85   |100%    |15 |                         |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35       |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
 |HM04       |Strength    |Normal  |80   |100%    |15 |                         |
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |

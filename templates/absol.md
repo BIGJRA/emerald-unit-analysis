@@ -22,7 +22,7 @@ Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** S
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35       |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Lv. 21     |Bite        |Dark    |60   |100%    |25 |                         |

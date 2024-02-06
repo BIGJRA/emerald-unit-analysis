@@ -24,7 +24,7 @@ Golem: **80** HP / **110** Atk / **130** Def / **55** SpA / **65** SpD / **45** 
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor                   |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35                    |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35                    |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |Lv. 21                  |Selfdestruct|Normal  |200  |100%    |5  |                         |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / -- / Tutor         |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |

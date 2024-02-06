@@ -25,7 +25,7 @@ Machamp: **90** HP / **130** Atk / **80** Def / **65** SpA / **85** SpD / **55**
 |Tutor                   |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35                    |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35                    |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |Lv. 22                  |Foresight   |Normal  |--   |100%    |40 |                         |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |HM04                    |Strength    |Normal  |80   |100%    |15 |                         |

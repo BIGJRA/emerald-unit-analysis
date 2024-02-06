@@ -22,7 +22,7 @@ Altaria: **75** HP / **70** Atk / **90** Def / **70** SpA / **105** SpD / **80**
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |-- / HM06      |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|-- / TM35      |Flamethrower|Fire    |95   |100%    |15 |                         |
+|-- / TM35      |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM13           |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Lv. 21         |Safeguard   |Normal  |--   |--%     |25 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |

@@ -26,7 +26,7 @@ Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50**
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor                   |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|-- / -- / TM35          |Flamethrower|Fire    |95   |100%    |15 |                         |
+|-- / -- / TM35          |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |-- / -- / TM24          |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |-- / -- / TM13          |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |Lv. 21                  |Roar        |Normal  |--   |100%    |20 |                         |

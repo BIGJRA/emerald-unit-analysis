@@ -25,7 +25,7 @@ Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **1
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |-- / Tutor / Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35                    |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35                    |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |Lv. 21                  |Focus Energy|Normal  |--   |--%     |30 |                         |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor                   |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |

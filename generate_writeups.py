@@ -100,7 +100,7 @@ def generate_text(pokemon_names):
         type, pwr, acc, pp = data[n]["Type"], data[n]["Pwr"], data[n]["Acc"], data[n]["PP"]
         notes = ''
         if 'Tutor' in move[2]: notes = "Emerald only"
-        if any(TM in move[2] for TM in TM_SPLITS) and 20 < score < 21: # Checks for specifically game corner stuff:
+        if any(TM in move[2] for TM in TM_SPLITS | {"TM35": 20.5}) and 20 < score < 21: # Checks for specifically game corner stuff:
             notes = 'Buy at Game Corner'
         for idx, thing in enumerate([f'{move[2]}', f'{n}', f'{type}', f'{pwr}', f'{acc}', f'{pp}', f'{notes}']):
             move_lines[idx].append(thing)

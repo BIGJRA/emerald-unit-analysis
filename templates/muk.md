@@ -24,7 +24,7 @@ Muk: **105** HP / **105** Atk / **75** Def / **65** SpA / **100** SpD / **50** S
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |-- / HM06      |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35           |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM24           |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |

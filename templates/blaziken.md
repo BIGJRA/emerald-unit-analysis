@@ -27,7 +27,7 @@ Blaziken: **80** HP / **120** Atk / **70** Def / **110** SpA / **70** SpD / **80
 |Tutor                   |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35                    |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35                    |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |Lv. 19 / Lv. 21 / Lv. 21|Sand-Attack |Ground  |--   |100%    |15 |                         |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / Tutor / Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |

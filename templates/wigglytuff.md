@@ -26,7 +26,7 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 |Tutor                |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32                 |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
 |TM29                 |Psychic     |Psychic |90   |100%    |10 |Buy at Game Corner       |
-|TM35                 |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35                 |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |-- / TM24 / TM24     |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |-- / TM13 / TM13     |Ice Beam    |Ice     |95   |100%    |10 |Buy at Game Corner       |
 |TM45                 |Attract     |Normal  |--   |100%    |15 |                         |

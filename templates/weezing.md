@@ -22,7 +22,7 @@ Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60**
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35           |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM24           |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |Lv. 21         |Sludge      |Poison  |65   |100%    |20 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |

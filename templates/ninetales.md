@@ -19,7 +19,7 @@ Ninetales: **73** HP / **76** Atk / **75** Def / **81** SpA / **100** SpD / **10
 |Lv. 17 / --    |Will-O-Wisp |Fire   |--   |75%     |15 |                         |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |TM32           |Double Team |Normal |--   |--%     |15 |Buy at Game Corner       |
-|TM35           |Flamethrower|Fire   |95   |100%    |15 |                         |
+|TM35           |Flamethrower|Fire   |95   |100%    |15 |Buy at Game Corner       |
 |Lv. 21 / Lv. 1 |Confuse Ray |Ghost  |--   |100%    |10 |                         |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |

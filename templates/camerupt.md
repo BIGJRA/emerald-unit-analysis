@@ -21,7 +21,7 @@ Camerupt: **70** HP / **100** Atk / **70** Def / **105** SpA / **75** SpD / **40
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35           |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |HM04           |Strength    |Normal  |80   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |

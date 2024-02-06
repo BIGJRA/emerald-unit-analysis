@@ -21,7 +21,7 @@ Groudon: **100** HP / **150** Atk / **140** Def / **100** SpA / **90** SpD / **9
 |HM06       |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32       |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35       |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35       |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |Buy at Game Corner       |
 |Tutor      |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM34       |Shock Wave  |Electric|60   |--%     |20 |                         |

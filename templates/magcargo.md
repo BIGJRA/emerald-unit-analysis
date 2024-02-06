@@ -21,7 +21,7 @@ Magcargo: **50** HP / **50** Atk / **120** Def / **80** SpA / **80** SpD / **30*
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM32           |Double Team |Normal  |--   |--%     |15 |Buy at Game Corner       |
-|TM35           |Flamethrower|Fire    |95   |100%    |15 |                         |
+|TM35           |Flamethrower|Fire    |95   |100%    |15 |Buy at Game Corner       |
 |Lv. 22         |Harden      |Normal  |--   |--%     |30 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
 |-- / HM04      |Strength    |Normal  |80   |100%    |15 |                         |
