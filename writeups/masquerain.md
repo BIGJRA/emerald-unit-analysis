@@ -57,7 +57,7 @@ Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60
 
 ### Analysis
 
-#### Verdict: An extremely rare unit with baffling and underwhelming design... is also a great enhancement to the game for hardcore replayers and collectors. 
+**Verdict: An extremely rare unit with baffling and underwhelming design... is also a great enhancement to the game for hardcore replayers and collectors.**
 
 To be honest, getting to talk about the unit design of Surskit and Masquerain was one of the reasons I wanted to dive into this series and to talk about Hoenn specifically. Why would GameFreak choose to create a Pokemon so bad, so uniquely unsuited to the challenges of the game, and further, why make it so absurdly rare? These are interesting questions I think, so lets dive into the analysis. 
 
