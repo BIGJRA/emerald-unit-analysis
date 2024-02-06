@@ -26,13 +26,13 @@ Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125**
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM32           |Double Team |Normal |--   |--%     |15 |                         |
-|TM27           |Return      |Normal |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal |--   |100%    |20 |                         |
 |Lv. 26 / Lv. 28|Endeavor    |Normal |--   |100%    |5  |                         |
 |TM06           |Toxic       |Poison |--   |85%     |10 |                         |
+|TM42           |Facade      |Normal |70   |100%    |20 |                         |
 |HM02           |Fly         |Flying |70   |95%     |15 |                         |
 |Tutor          |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM40           |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM44           |Rest        |Psychic|--   |--%     |10 |                         |

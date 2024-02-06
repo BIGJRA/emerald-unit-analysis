@@ -31,12 +31,12 @@ Mightyena: **70** HP / **90** Atk / **70** Def / **60** SpA / **60** SpD / **70*
 |TM28           |Dig         |Ground  |60   |100%    |10 |                         |
 |TM05           |Roar        |Normal  |--   |100%    |20 |                         |
 |Lv. 25 / Lv. 27|Swagger     |Normal  |--   |90%     |15 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |Lv. 29 / Lv. 32|Scary Face  |Normal  |--   |90%     |10 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM12           |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM30           |Shadow Ball |Ghost   |80   |100%    |15 |                         |

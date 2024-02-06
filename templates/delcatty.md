@@ -35,14 +35,14 @@ Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70**
 |Lv. 25 / --   |Charm       |Normal  |--   |100%    |20 |                         |
 |TM28          |Dig         |Ground  |60   |100%    |10 |                         |
 |Lv. 27 / --   |Faint Attack|Dark    |60   |--%     |20 |                         |
-|TM27          |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor         |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27          |Return      |Normal  |--   |100%    |20 |                         |
 |TM06          |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31 / --   |Covet       |Normal  |40   |100%    |40 |                         |
+|TM42          |Facade      |Normal  |70   |100%    |20 |                         |
 |TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor         |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42          |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11          |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM22          |SolarBeam   |Grass   |120  |100%    |10 |                         |
 |TM30          |Shadow Ball |Ghost   |80   |100%    |15 |                         |

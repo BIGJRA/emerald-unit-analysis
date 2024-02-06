@@ -32,13 +32,13 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 |-- / -- / TM43  |Secret Power|Normal |70   |100%    |20 |                         |
 |-- / -- / TM10  |Hidden Power|Normal |--   |100%    |15 |                         |
 |-- / -- / Lv. 27|Whirlwind   |Normal |--   |100%    |20 |                         |
-|-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
 |-- / -- / Tutor |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
 |-- / -- / TM06  |Toxic       |Poison |--   |85%     |10 |                         |
 |-- / -- / Lv. 31|Light Screen|Psychic|--   |--%     |30 |                         |
+|-- / -- / TM42  |Facade      |Normal |70   |100%    |20 |                         |
 |-- / -- / TM36  |Sludge Bomb |Poison |90   |100%    |10 |                         |
 |-- / -- / Tutor |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
-|-- / -- / TM42  |Facade      |Normal |70   |100%    |20 |                         |
 |-- / -- / TM11  |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |-- / -- / TM40  |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |-- / -- / Lv. 34|Silver Wind |Bug    |60   |100%    |5  |                         |

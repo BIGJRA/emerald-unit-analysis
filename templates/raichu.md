@@ -38,14 +38,14 @@ Raichu: **60** HP / **90** Atk / **55** Def / **90** SpA / **80** SpD / **100** 
 |TM32                 |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / TM28 / TM28     |Dig         |Ground  |60   |100%    |10 |                         |
 |-- / Lv. 26 / Lv. 1  |Thunderbolt |Electric|95   |100%    |15 |                         |
-|TM27                 |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                 |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                 |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42                 |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM01 / TM01     |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM24                 |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor                |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / Lv. 33 / --     |Agility     |Psychic |--   |--%     |30 |                         |
-|TM42                 |Facade      |Normal  |70   |100%    |20 |                         |
 |TM44                 |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |TM17                 |Protect     |Normal  |--   |--%     |10 |                         |

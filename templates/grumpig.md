@@ -29,13 +29,13 @@ Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80**
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25         |Confuse Ray |Ghost   |--   |100%    |10 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28         |Magic Coat  |Psychic |--   |--%     |15 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM01      |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM12           |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM48           |Skill Swap  |Psychic |--   |--%     |10 |                         |

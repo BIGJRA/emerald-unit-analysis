@@ -28,15 +28,15 @@ Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30*
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28     |Rock Slide  |Rock    |75   |90%     |10 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 31     |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM12       |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM44       |Rest        |Psychic |--   |--%     |10 |                         |

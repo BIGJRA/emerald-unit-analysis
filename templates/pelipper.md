@@ -29,17 +29,17 @@ Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65*
 |TM10         |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32         |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 25  |Protect     |Normal  |--   |--%     |10 |                         |
-|TM27         |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor        |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27         |Return      |Normal  |--   |100%    |20 |                         |
 |TM06         |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31 / --  |Quick Attack|Normal  |40   |100%    |30 |                         |
+|TM42         |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / HM03    |Surf        |Water   |95   |100%    |15 |                         |
 |TM13         |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |HM02         |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor        |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / Lv. 33  |Stockpile   |Normal  |--   |--%     |10 |                         |
 |-- / Lv. 33  |Swallow     |Normal  |--   |--%     |10 |                         |
-|TM42         |Facade      |Normal  |70   |100%    |20 |                         |
 |TM40         |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM44         |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor        |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

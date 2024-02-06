@@ -34,16 +34,16 @@ Ludicolo: **80** HP / **70** Atk / **70** Def / **90** SpA / **100** SpD / **70*
 |TM32                   |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 25 / --       |Fury Swipes |Normal  |18   |80%     |15 |                         |
 |-- / -- / Tutor        |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|TM27                   |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                  |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                   |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                   |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31 / -- / --       |Rain Dance  |Water   |--   |--%     |5  |                         |
 |-- / Lv. 31 / --       |Water Sport |Water   |--   |--%     |15 |                         |
+|TM42                   |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03                   |Surf        |Water   |95   |100%    |15 |                         |
 |-- / -- / TM01         |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM13                   |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Tutor                  |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42                   |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                   |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM22                   |SolarBeam   |Grass   |120  |100%    |10 |                         |
 |TM19                   |Giga Drain  |Grass   |60   |100%    |5  |                         |

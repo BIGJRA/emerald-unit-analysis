@@ -40,15 +40,15 @@ Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50**
 |Lv. 25                  |Take Down   |Normal  |90   |85%     |20 |                         |
 |TM28                    |Dig         |Ground  |60   |100%    |10 |                         |
 |TM05                    |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 29                  |Iron Tail   |Steel   |100  |75%     |15 |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37                    |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / -- / HM03          |Surf        |Water   |95   |100%    |15 |                         |
 |-- / -- / TM01          |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40                    |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |-- / -- / TM12          |Taunt       |Dark    |--   |100%    |20 |                         |

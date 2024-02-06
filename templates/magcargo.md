@@ -28,14 +28,14 @@ Magcargo: **50** HP / **50** Atk / **120** Def / **80** SpA / **80** SpD / **30*
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM50           |Overheat    |Fire    |140  |90%     |5  |                         |
 |Lv. 29         |Amnesia     |Psychic |--   |--%     |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / TM37      |Sandstorm   |Rock    |--   |--%     |10 |                         |
-|Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
+|Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

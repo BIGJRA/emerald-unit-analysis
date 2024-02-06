@@ -31,14 +31,14 @@ Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60**
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25         |SmokeScreen |Normal  |--   |100%    |20 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |TM36           |Sludge Bomb |Poison  |90   |100%    |10 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33         |Haze        |Ice     |--   |--%     |30 |                         |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM12           |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM30           |Shadow Ball |Ghost   |80   |100%    |15 |                         |

@@ -30,14 +30,14 @@ Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **7
 |-- / TM43 / TM43    |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / TM10 / TM10    |Hidden Power|Normal  |--   |100%    |15 |                         |
 |-- / Lv. 26 / Lv. 26|Scary Face  |Normal  |--   |90%     |10 |                         |
-|-- / TM27 / TM27    |Return      |Normal  |--   |100%    |20 |                         |
 |-- / Tutor / Tutor  |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|-- / TM27 / TM27    |Return      |Normal  |--   |100%    |20 |                         |
 |-- / TM06 / TM06    |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / TM37 / TM37    |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|-- / TM42 / TM42    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM36 / TM36    |Sludge Bomb |Poison  |90   |100%    |10 |                         |
 |-- / Lv. 32 / Lv. 32|Pursuit     |Dark    |40   |100%    |20 |                         |
 |-- / Tutor / Tutor  |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / TM42 / TM42    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM11 / TM11    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |-- / TM40 / TM40    |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |-- / TM30 / TM30    |Shadow Ball |Ghost   |80   |100%    |15 |                         |

@@ -29,15 +29,15 @@ Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** 
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM28       |Dig         |Ground  |60   |100%    |10 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28     |Spike Cannon|Normal  |20   |100%    |15 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03       |Surf        |Water   |95   |100%    |15 |                         |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |Lv. 34     |Rock Blast  |Rock    |25   |80%     |10 |                         |
 |TM30       |Shadow Ball |Ghost   |80   |100%    |15 |                         |

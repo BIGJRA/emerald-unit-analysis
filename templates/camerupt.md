@@ -30,16 +30,16 @@ Camerupt: **70** HP / **100** Atk / **70** Def / **105** SpA / **75** SpD / **40
 |Lv. 25         |Focus Energy|Normal  |--   |--%     |30 |                         |
 |TM28           |Dig         |Ground  |60   |100%    |10 |                         |
 |-- / TM05      |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM50           |Overheat    |Fire    |140  |90%     |5  |                         |
 |Lv. 29         |Take Down   |Normal  |90   |85%     |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37           |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 31         |Amnesia     |Psychic |--   |--%     |20 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / Lv. 33    |Rock Slide  |Rock    |75   |90%     |10 |                         |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

@@ -26,14 +26,14 @@ Jirachi: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25     |Refresh     |Normal  |--   |--%     |20 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 30     |Rest        |Psychic |--   |--%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM48       |Skill Swap  |Psychic |--   |--%     |10 |                         |

@@ -28,13 +28,13 @@ Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65**
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25     |Yawn        |Normal  |--   |--%     |10 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 30     |Psywave     |Psychic |--   |80%     |15 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33     |Double-Edge |Normal  |120  |100%    |15 |                         |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM12       |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM48       |Skill Swap  |Psychic |--   |--%     |10 |                         |

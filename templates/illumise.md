@@ -28,15 +28,15 @@ Illumise: **65** HP / **47** Atk / **55** Def / **73** SpA / **75** SpD / **85**
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25     |Encore      |Normal  |--   |100%    |5  |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 29     |Flatter     |Dark    |--   |100%    |15 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33     |Helping Hand|Normal  |--   |--%     |20 |                         |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM22       |SolarBeam   |Grass   |120  |100%    |10 |                         |

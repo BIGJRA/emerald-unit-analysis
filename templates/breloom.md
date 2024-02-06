@@ -32,15 +32,15 @@ Breloom: **60** HP / **130** Atk / **80** Def / **60** SpA / **60** SpD / **70**
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |-- / Lv. 28|Counter     |Fighting|--   |100%    |20 |                         |
 |Lv. 28 / --|PoisonPowder|Poison  |--   |75%     |35 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM01  |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM36       |Sludge Bomb |Poison  |90   |100%    |10 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM22       |SolarBeam   |Grass   |120  |100%    |10 |                         |
 |TM19       |Giga Drain  |Grass   |60   |100%    |5  |                         |

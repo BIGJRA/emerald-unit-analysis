@@ -30,14 +30,14 @@ Shedinja: **1** HP / **90** Atk / **45** Def / **30** SpA / **30** SpD / **40** 
 |Lv. 25 / --|False Swipe |Normal |40   |100%    |40 |                         |
 |-- / Lv. 25|Spite       |Ghost  |--   |100%    |10 |                         |
 |TM28       |Dig         |Ground |60   |100%    |10 |                         |
-|TM27       |Return      |Normal |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock   |--   |--%     |10 |                         |
 |-- / Lv. 31|Confuse Ray |Ghost  |--   |100%    |10 |                         |
 |Lv. 31 / --|Mud-Slap    |Ground |20   |100%    |10 |                         |
-|Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal |70   |100%    |20 |                         |
+|Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM11       |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM22       |SolarBeam   |Grass  |120  |100%    |10 |                         |

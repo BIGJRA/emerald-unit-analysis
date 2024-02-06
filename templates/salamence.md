@@ -35,13 +35,13 @@ Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **1
 |TM32                    |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25                  |Ember       |Fire    |40   |100%    |25 |                         |
 |TM05                    |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / Lv. 30 / Lv. 30    |Protect     |Normal  |--   |--%     |10 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / -- / HM02          |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40                    |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |

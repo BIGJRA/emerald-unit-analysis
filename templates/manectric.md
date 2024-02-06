@@ -31,13 +31,13 @@ Manectric: **70** HP / **75** Atk / **60** Def / **105** SpA / **60** SpD / **10
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25         |Odor Sleuth |Normal  |--   |100%    |40 |                         |
 |TM05           |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 28 / Lv. 31|Roar        |Normal  |--   |100%    |20 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |TM17           |Protect     |Normal  |--   |--%     |10 |                         |

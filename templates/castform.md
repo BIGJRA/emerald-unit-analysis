@@ -29,15 +29,15 @@ Castform: **70** HP / **70** Atk / **70** Def / **70** SpA / **70** SpD / **70**
 |TM43       |Secret Power|Normal  |70   |100%    |20 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 30     |Weather Ball|Normal  |50   |100%    |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM22       |SolarBeam   |Grass   |120  |100%    |10 |                         |
 |TM30       |Shadow Ball |Ghost   |80   |100%    |15 |                         |

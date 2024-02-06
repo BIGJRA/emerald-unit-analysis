@@ -28,17 +28,17 @@ Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115*
 |TM43          |Secret Power|Normal  |70   |100%    |20 |                         |
 |TM10          |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32          |Double Team |Normal  |--   |--%     |15 |                         |
-|TM27          |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor         |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27          |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28 / --   |BubbleBeam  |Water   |65   |100%    |20 |                         |
 |TM06          |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42          |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03          |Surf        |Water   |95   |100%    |15 |                         |
 |TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor         |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / Lv. 33   |Confuse Ray |Ghost   |--   |100%    |10 |                         |
 |Lv. 33 / --   |Minimize    |Normal  |--   |--%     |20 |                         |
-|TM42          |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM48     |Skill Swap  |Psychic |--   |--%     |10 |                         |
 |TM44          |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor         |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

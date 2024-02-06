@@ -31,17 +31,17 @@ Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110*
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25     |Protect     |Normal  |--   |--%     |10 |                         |
 |TM05       |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 30     |Refresh     |Normal  |--   |--%     |20 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03       |Surf        |Water   |95   |100%    |15 |                         |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |HM02       |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM22       |SolarBeam   |Grass   |120  |100%    |10 |                         |

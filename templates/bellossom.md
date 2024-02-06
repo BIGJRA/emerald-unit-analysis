@@ -30,12 +30,12 @@ Bellossom: **75** HP / **80** Atk / **85** Def / **90** SpA / **100** SpD / **50
 |TM43                    |Secret Power|Normal |70   |100%    |20 |                         |
 |TM10                    |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM32                    |Double Team |Normal |--   |--%     |15 |                         |
-|TM27                    |Return      |Normal |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal |--   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison |--   |85%     |10 |                         |
+|TM42                    |Facade      |Normal |70   |100%    |20 |                         |
 |TM36                    |Sludge Bomb |Poison |90   |100%    |10 |                         |
 |Tutor                   |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM22                    |SolarBeam   |Grass  |120  |100%    |10 |                         |
 |Lv. 32 / Lv. 35 / --    |Moonlight   |Normal |--   |--%     |5  |                         |

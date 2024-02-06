@@ -27,14 +27,14 @@ Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60
 |TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |Lv. 25 / --|BubbleBeam  |Water  |65   |100%    |20 |                         |
 |-- / Lv. 26|Gust        |Flying |40   |100%    |35 |                         |
-|TM27       |Return      |Normal |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison |--   |85%     |10 |                         |
 |Lv. 31 / --|Agility     |Psychic|--   |--%     |30 |                         |
+|TM42       |Facade      |Normal |70   |100%    |20 |                         |
 |TM13       |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |-- / Lv. 33|Scary Face  |Normal |--   |90%     |10 |                         |
-|TM42       |Facade      |Normal |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |-- / TM40  |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM22       |SolarBeam   |Grass  |120  |100%    |10 |                         |

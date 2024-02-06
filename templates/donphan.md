@@ -31,13 +31,13 @@ Donphan: **90** HP / **120** Atk / **120** Def / **60** SpA / **60** SpD / **50*
 |-- / Lv. 25|Fury Attack |Normal  |15   |85%     |20 |                         |
 |Lv. 25 / --|Take Down   |Normal  |90   |85%     |20 |                         |
 |TM05       |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33     |Rollout     |Rock    |30   |90%     |20 |                         |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM44       |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor      |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

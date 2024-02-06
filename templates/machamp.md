@@ -35,13 +35,13 @@ Machamp: **90** HP / **130** Atk / **80** Def / **65** SpA / **85** SpD / **55**
 |Lv. 25                  |Revenge     |Fighting|60   |100%    |10 |                         |
 |TM28                    |Dig         |Ground  |60   |100%    |10 |                         |
 |Tutor                   |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM01                    |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 31 / Lv. 33 / Lv. 33|Vital Throw |Fighting|70   |--%     |10 |                         |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                   |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

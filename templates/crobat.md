@@ -29,14 +29,14 @@ Crobat: **85** HP / **90** Atk / **80** Def / **70** SpA / **80** SpD / **130** 
 |TM43                    |Secret Power|Normal |70   |100%    |20 |                         |
 |TM10                    |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM32                    |Double Team |Normal |--   |--%     |15 |                         |
-|TM27                    |Return      |Normal |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal |--   |100%    |20 |                         |
 |Lv. 26 / Lv. 28 / Lv. 28|Confuse Ray |Ghost  |--   |100%    |10 |                         |
 |TM06                    |Toxic       |Poison |--   |85%     |10 |                         |
+|TM42                    |Facade      |Normal |70   |100%    |20 |                         |
 |TM36                    |Sludge Bomb |Poison |90   |100%    |10 |                         |
 |-- / -- / HM02          |Fly         |Flying |70   |95%     |15 |                         |
 |Tutor                   |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM40                    |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |TM12                    |Taunt       |Dark   |--   |100%    |20 |                         |

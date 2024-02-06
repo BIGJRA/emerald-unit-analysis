@@ -33,14 +33,14 @@ Exploud: **104** HP / **91** Atk / **63** Def / **91** SpA / **63** SpD / **68**
 |TM10                    |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |                         |
 |TM05                    |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |-- / TM50 / TM50        |Overheat    |Fire    |140  |90%     |5  |                         |
 |Lv. 25 / Lv. 29 / Lv. 29|Stomp       |Normal  |65   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM13                    |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |-- / TM12 / TM12        |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM22                    |SolarBeam   |Grass   |120  |100%    |10 |                         |

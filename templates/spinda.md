@@ -32,12 +32,12 @@ Spinda: **60** HP / **60** Atk / **60** Def / **60** SpA / **60** SpD / **60** S
 |TM28       |Dig         |Ground  |60   |100%    |10 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 27     |Dizzy Punch |Normal  |70   |100%    |10 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |Lv. 34     |Teeter Dance|Normal  |--   |100%    |20 |                         |
 |TM48       |Skill Swap  |Psychic |--   |--%     |10 |                         |

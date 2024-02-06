@@ -26,14 +26,14 @@ Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** 
 |TM10       |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal |--   |--%     |15 |                         |
 |Lv. 25     |Psywave     |Psychic|--   |80%     |15 |                         |
-|TM27       |Return      |Normal |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal |--   |100%    |20 |                         |
 |TM50       |Overheat    |Fire   |140  |90%     |5  |                         |
 |TM06       |Toxic       |Poison |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock   |--   |--%     |10 |                         |
 |Lv. 31     |Cosmic Power|Psychic|--   |--%     |20 |                         |
-|Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM42       |Facade      |Normal |70   |100%    |20 |                         |
+|Tutor      |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |TM11       |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM22       |SolarBeam   |Grass  |120  |100%    |10 |                         |
 |TM48       |Skill Swap  |Psychic|--   |--%     |10 |                         |

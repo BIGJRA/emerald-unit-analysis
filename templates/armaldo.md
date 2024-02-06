@@ -29,13 +29,13 @@ Armaldo: **75** HP / **125** Atk / **100** Def / **70** SpA / **80** SpD / **45*
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 25         |Metal Claw  |Steel   |50   |95%     |35 |                         |
 |TM28           |Dig         |Ground  |60   |100%    |10 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37           |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 31         |Protect     |Normal  |--   |--%     |10 |                         |
-|Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM42           |Facade      |Normal  |70   |100%    |20 |                         |
+|Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40           |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |

@@ -36,17 +36,17 @@ Rhydon: **105** HP / **130** Atk / **120** Def / **45** SpA / **45** SpD / **40*
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |TM28           |Dig         |Ground  |60   |100%    |10 |                         |
 |TM05           |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 29         |Rock Blast  |Rock    |25   |80%     |10 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37           |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / HM03      |Surf        |Water   |95   |100%    |15 |                         |
 |-- / TM01      |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

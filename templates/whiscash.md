@@ -31,14 +31,14 @@ Whiscash: **110** HP / **78** Atk / **73** Def / **76** SpA / **71** SpD / **60*
 |TM32           |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 26         |Rest        |Psychic |--   |--%     |10 |                         |
 |Lv. 26         |Snore       |Normal  |40   |100%    |15 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37           |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03           |Surf        |Water   |95   |100%    |15 |                         |
 |TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 31 / Lv. 36|Earthquake  |Ground  |100  |100%    |10 |                         |

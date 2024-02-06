@@ -28,14 +28,14 @@ Ninetales: **73** HP / **76** Atk / **75** Def / **81** SpA / **100** SpD / **10
 |Lv. 25 / --    |Imprison    |Psychic|--   |--%     |10 |                         |
 |TM28           |Dig         |Ground |60   |100%    |10 |                         |
 |TM05           |Roar        |Normal |--   |100%    |20 |                         |
-|TM27           |Return      |Normal |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal |--   |100%    |20 |                         |
 |TM50           |Overheat    |Fire   |140  |90%     |5  |                         |
 |Lv. 29 / --    |Flamethrower|Fire   |95   |100%    |15 |                         |
 |TM06           |Toxic       |Poison |--   |85%     |10 |                         |
+|TM42           |Facade      |Normal |70   |100%    |20 |                         |
 |Tutor          |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |Lv. 33 / Lv. 1 |Safeguard   |Normal |--   |--%     |25 |                         |
-|TM42           |Facade      |Normal |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |TM44           |Rest        |Psychic|--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal |--   |--%     |10 |Emerald only             |

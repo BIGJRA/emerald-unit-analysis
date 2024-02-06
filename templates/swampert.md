@@ -35,16 +35,16 @@ Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60
 |Lv. 24 / Lv. 25 / Lv. 25|Mud Sport   |Ground  |--   |--%     |15 |                         |
 |TM28                    |Dig         |Ground  |60   |100%    |10 |                         |
 |-- / -- / TM05          |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 28 / Lv. 31 / Lv. 31|Take Down   |Normal  |90   |85%     |20 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03                    |Surf        |Water   |95   |100%    |15 |                         |
 |-- / -- / TM01          |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM13                    |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33 / -- / --        |Whirlpool   |Water   |15   |70%     |15 |                         |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                   |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |TM17                    |Protect     |Normal  |--   |--%     |10 |                         |

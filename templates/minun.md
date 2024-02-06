@@ -27,14 +27,14 @@ Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Sp
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |Tutor      |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 28     |Charm       |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Charge      |Electric|--   |--%     |20 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM44       |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor      |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |TM17       |Protect     |Normal  |--   |--%     |10 |                         |

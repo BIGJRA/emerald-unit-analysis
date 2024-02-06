@@ -37,16 +37,16 @@ Linoone: **78** HP / **70** Atk / **61** Def / **50** SpA / **61** SpD / **100**
 |Lv. 25 / --    |Pin Missile |Bug     |14   |85%     |20 |                         |
 |TM28           |Dig         |Ground  |60   |100%    |10 |                         |
 |-- / TM05      |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27           |Return      |Normal  |--   |100%    |20 |                         |
 |-- / Lv. 29    |Fury Swipes |Normal  |18   |80%     |15 |                         |
 |TM06           |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03           |Surf        |Water   |95   |100%    |15 |                         |
 |TM13           |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24           |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor          |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 33 / --    |Flail       |Normal  |--   |100%    |15 |                         |
-|TM42           |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11           |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM30           |Shadow Ball |Ghost   |80   |100%    |15 |                         |
 |Lv. 29 / Lv. 35|Covet       |Normal  |40   |100%    |40 |                         |

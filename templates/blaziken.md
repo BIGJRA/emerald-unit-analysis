@@ -38,15 +38,15 @@ Blaziken: **80** HP / **120** Atk / **70** Def / **110** SpA / **70** SpD / **80
 |Lv. 25 / -- / --        |Fire Spin   |Fire    |15   |70%     |15 |                         |
 |TM28                    |Dig         |Ground  |60   |100%    |10 |                         |
 |-- / -- / TM05          |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |-- / Lv. 28 / Lv. 28    |Bulk Up     |Fighting|--   |--%     |20 |                         |
 |TM50                    |Overheat    |Fire    |140  |90%     |5  |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM01 / TM01        |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Lv. 28 / Lv. 32 / Lv. 32|Quick Attack|Normal  |40   |100%    |30 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40                    |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |

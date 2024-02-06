@@ -34,15 +34,15 @@ Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** S
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |Lv. 26     |Swords Dance|Normal  |--   |--%     |30 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |Lv. 31     |Double Team |Normal  |--   |--%     |15 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM12       |Taunt       |Dark    |--   |100%    |20 |                         |

@@ -28,15 +28,15 @@ Skarmory: **65** HP / **80** Atk / **140** Def / **40** SpA / **70** SpD / **70*
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM05       |Roar        |Normal  |--   |100%    |20 |                         |
 |Lv. 26     |Fury Attack |Normal  |15   |85%     |20 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Lv. 29     |Air Cutter  |Flying  |55   |95%     |25 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM37       |Sandstorm   |Rock    |--   |--%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |Lv. 32     |Steel Wing  |Steel   |70   |90%     |25 |                         |
 |HM02       |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM12       |Taunt       |Dark    |--   |100%    |20 |                         |

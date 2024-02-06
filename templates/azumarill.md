@@ -35,14 +35,14 @@ Azumarill: **100** HP / **50** Atk / **80** Def / **50** SpA / **80** SpD / **50
 |TM10                    |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM32                    |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / TM28 / TM28        |Dig         |Ground  |60   |100%    |10 |                         |
-|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor                   |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                    |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                    |Toxic       |Poison  |--   |85%     |10 |                         |
+|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |HM03                    |Surf        |Water   |95   |100%    |15 |                         |
 |-- / TM01 / TM01        |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM13                    |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / Lv. 28 / Lv. 34    |Double-Edge |Normal  |120  |100%    |15 |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                   |Substitute  |Normal  |--   |--%     |10 |Emerald only             |

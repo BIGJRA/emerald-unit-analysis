@@ -33,15 +33,15 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 |TM32                |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 25 / Lv. 25|Recover     |Normal  |--   |--%     |20 |                         |
 |Tutor               |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
-|TM27                |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor               |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27                |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / Lv. 30 / Lv. 30|Future Sight|Psychic |80   |90%     |15 |                         |
+|TM42                |Facade      |Normal  |70   |100%    |20 |                         |
 |TM01                |Focus Punch |Fighting|150  |100%    |20 |                         |
 |Tutor               |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / -- / Lv. 33    |Calm Mind   |Psychic |--   |--%     |20 |                         |
 |-- / Lv. 33 / --    |Role Play   |Psychic |--   |--%     |10 |                         |
-|TM42                |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11                |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM12                |Taunt       |Dark    |--   |100%    |20 |                         |
 |TM48                |Skill Swap  |Psychic |--   |--%     |10 |                         |

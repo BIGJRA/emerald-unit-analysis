@@ -32,12 +32,12 @@ Beautifly: **60** HP / **70** Atk / **50** Def / **90** SpA / **50** SpD / **65*
 |-- / -- / TM43  |Secret Power|Normal |70   |100%    |20 |                         |
 |-- / -- / TM10  |Hidden Power|Normal |--   |100%    |15 |                         |
 |-- / -- / Lv. 27|Whirlwind   |Normal |--   |100%    |20 |                         |
-|-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
 |-- / -- / Tutor |Mimic       |Normal |--   |--%     |10 |Emerald only             |
+|-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
 |-- / -- / TM06  |Toxic       |Poison |--   |85%     |10 |                         |
 |-- / -- / Lv. 31|Attract     |Normal |--   |100%    |15 |                         |
-|-- / -- / Tutor |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / TM42  |Facade      |Normal |70   |100%    |20 |                         |
+|-- / -- / Tutor |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / TM11  |Sunny Day   |Fire   |--   |--%     |5  |                         |
 |-- / -- / TM40  |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |-- / -- / Lv. 34|Silver Wind |Bug    |60   |100%    |5  |                         |

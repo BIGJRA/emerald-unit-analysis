@@ -3,7 +3,7 @@ from collections import defaultdict, Counter
 from os import path
 
 TM_SCORES = {
-    "TM01": 31.2,  # Focus Punch - Route 115 w Surf
+    "TM01": 31.3,  # Focus Punch - Route 115 w Surf
     "TM02": 44.2,  # Dragon Claw - Meteor Falls w Waterfall
     "TM03": 43.2,  # Water Pulse - Badge 8
     "TM04": 40.1,  # Calm Mind - Badge 7
@@ -29,7 +29,7 @@ TM_SCORES = {
     "TM24": 20.6,  # Thunderbolt (R) - Game Corner or New Mauville
     "TM25": 36.6,  # Thunder - Lilycove Dept. Store
     "TM26": 42.1,  # Earthquake - Seafloor Cavern
-    "TM27": 27.1,  # Return (R) - Fallarbor Town, Pacifidlog Town
+    "TM27": 27.2,  # Return (R) - Fallarbor Town, Pacifidlog Town
     "TM28": 25.1,  # Dig - Route 114
     "TM29": 20.4,  # Psychic (R) - Game Corner or Victory Road
     "TM30": 34.4,  # Shadow Ball - Mt. Pyre
@@ -38,13 +38,13 @@ TM_SCORES = {
     "TM33": 36.3,  # Reflect - Lilycove Dept. Store
     "TM34": 23.1,  # Shock Wave - Badge 3
     "TM35": 20.5,  # Flamethrower (R) - Game Corner
-    "TM36": 31.5,  # Sludge Bomb - Dewford After Badge 5
+    "TM36": 31.6,  # Sludge Bomb - Dewford After Badge 5
     "TM37": 29.2,  # Sandstorm - Route 111 after Badge 4
     "TM38": 36.5,  # Fire Blast - Lilycove Dept. Store
     "TM39": 15.1,  # Rock Tomb - Badge 1
     "TM40": 33.3,  # Aerial Ace - Badge 6
     "TM41": 19.2,  # Torment - Slateport City
-    "TM42": 33.1,  # Facade - Badge 5
+    "TM42": 31.1,  # Facade - Badge 5
     "TM43": 24.2,  # Secret Power (R) - Slateport City after R111
     "TM44": 35.2,  # Rest - Lilycove City
     "TM45": 22.1,  # Attract - Verdanturf Town
@@ -55,7 +55,7 @@ TM_SCORES = {
     "TM50": 28.1,  # Overheat - Badge 8
     "HM01": 11.1,  # Cut - Rustboro City
     "HM02": 32.1,  # Fly - Route 119
-    "HM03": 31.1,  # Surf - Badge 5
+    "HM03": 31.2,  # Surf - Badge 5
     "HM04": 24.1,  # Strength - Rusturf Tunnel w Rock Smash
     "HM05": 16.1,  # Flash - Granite Cave
     "HM06": 20.1,  # Rock Smash - Mauville City
@@ -68,13 +68,13 @@ TUTOR_SCORES = {
     "Explosion": 39.2,  # Pacifidlog
     "Fury Cutter": 22.2,  # Verdanturf
     "Metronome": 25.2,  # Fallarbor
-    "Mimic": 27.2,  # Lavaridge
+    "Mimic": 27.1,  # Lavaridge
     "Rollout": 20.2,  # Mauville
     "Sleep Talk": 32.2,  # Fortree
     "Substitute": 35.3,  # Lilycove
     "Swagger": 19.3  # Slateport
 }
-TM_SPLITS = {"TM13": 31.3, "TM24": 31.4, "TM32": 24.4, "TM29": 46.1}
+TM_SPLITS = {"TM13": 31.4, "TM24": 31.5, "TM32": 24.4, "TM29": 46.1}
 
 def generate_text(pokemon_names):
     lines = []

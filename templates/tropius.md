@@ -31,13 +31,13 @@ Tropius: **99** HP / **68** Atk / **83** Def / **72** SpA / **87** SpD / **51** 
 |TM32       |Double Team |Normal  |--   |--%     |15 |                         |
 |TM05       |Roar        |Normal  |--   |100%    |20 |                         |
 |Lv. 27     |Whirlwind   |Normal  |--   |100%    |20 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Magical Leaf|Grass   |60   |--%     |20 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |HM02       |Fly         |Flying  |70   |95%     |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM22       |SolarBeam   |Grass   |120  |100%    |10 |                         |

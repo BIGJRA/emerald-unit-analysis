@@ -34,15 +34,15 @@ Zangoose: **73** HP / **115** Atk / **60** Def / **60** SpA / **60** SpD / **90*
 |Lv. 25     |Pursuit     |Dark    |40   |100%    |20 |                         |
 |TM28       |Dig         |Ground  |60   |100%    |10 |                         |
 |TM05       |Roar        |Normal  |--   |100%    |20 |                         |
-|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |Tutor      |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
+|TM27       |Return      |Normal  |--   |100%    |20 |                         |
 |TM06       |Toxic       |Poison  |--   |85%     |10 |                         |
 |Lv. 31     |Crush Claw  |Normal  |75   |95%     |10 |                         |
+|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM01       |Focus Punch |Fighting|150  |100%    |20 |                         |
 |TM13       |Ice Beam    |Ice     |95   |100%    |10 |                         |
 |TM24       |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor      |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
-|TM42       |Facade      |Normal  |70   |100%    |20 |                         |
 |TM11       |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40       |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |TM12       |Taunt       |Dark    |--   |100%    |20 |                         |
