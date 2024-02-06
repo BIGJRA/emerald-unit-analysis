@@ -20,32 +20,32 @@ Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **1
 | HM01                     | Cut          | Normal   | 50    | 95%      | 30 |                    |
 | TM39                     | Rock Tomb    | Rock     | 50    | 80%      | 10 |                    |
 | Lv. 17                   | Headbutt     | Normal   | 70    | 100%     | 15 |                    |
+| Tutor                    | Swagger      | Normal   | --    | 90%      | 15 | Emerald only       |
+| HM06                     | Rock Smash   | Fighting | 20    | 100%     | 15 |                    |
 | TM32                     | Double Team  | Normal   | --    | --%      | 15 | Buy at Game Corner |
 | TM35                     | Flamethrower | Fire     | 95    | 100%     | 15 | Buy at Game Corner |
-| Tutor                    | Swagger      | Normal   | --    | 90%      | 15 | Emerald only       |
 | Lv. 21                   | Focus Energy | Normal   | --    | --%      | 30 |                    |
-| HM06                     | Rock Smash   | Fighting | 20    | 100%     | 15 |                    |
 | TM45                     | Attract      | Normal   | --    | 100%     | 15 |                    |
 | Tutor                    | Fury Cutter  | Bug      | 10    | 95%      | 20 | Emerald only       |
-| TM10                     | Hidden Power | Normal   | --    | 100%     | 15 |                    |
-| TM43                     | Secret Power | Normal   | 70    | 100%     | 20 |                    |
 | HM04                     | Strength     | Normal   | 80    | 100%     | 15 |                    |
-| Lv. 25                   | Ember        | Fire     | 40    | 100%     | 25 |                    |
+| TM43                     | Secret Power | Normal   | 70    | 100%     | 20 |                    |
+| TM10                     | Hidden Power | Normal   | --    | 100%     | 15 |                    |
 | TM32                     | Double Team  | Normal   | --    | --%      | 15 |                    |
+| Lv. 25                   | Ember        | Fire     | 40    | 100%     | 25 |                    |
 | TM05                     | Roar         | Normal   | --    | 100%     | 20 |                    |
 | Tutor                    | Mimic        | Normal   | --    | --%      | 10 | Emerald only       |
 | TM27                     | Return       | Normal   | --    | 100%     | 20 |                    |
 | TM06                     | Toxic        | Poison   | --    | 85%      | 10 |                    |
 | -- / Lv. 30 / Lv. 30     | Protect      | Normal   | --    | --%      | 10 |                    |
 | -- / Tutor / Tutor       | Rollout      | Rock     | 30    | 90%      | 20 | Emerald only       |
-| Tutor                    | Sleep Talk   | Normal   | --    | --%      | 10 | Emerald only       |
-| TM40                     | Aerial Ace   | Flying   | 60    | --%      | 20 |                    |
 | TM42                     | Facade       | Normal   | 70    | 100%     | 20 |                    |
+| Tutor                    | Sleep Talk   | Normal   | --    | --%      | 10 | Emerald only       |
 | TM11                     | Sunny Day    | Fire     | --    | --%      | 5  |                    |
-| TM38                     | Fire Blast   | Fire     | 120   | 85%      | 5  |                    |
-| TM17                     | Protect      | Normal   | --    | --%      | 10 |                    |
+| TM40                     | Aerial Ace   | Flying   | 60    | --%      | 20 |                    |
 | TM44                     | Rest         | Psychic  | --    | --%      | 10 |                    |
 | Tutor                    | Substitute   | Normal   | --    | --%      | 10 | Emerald only       |
+| TM17                     | Protect      | Normal   | --    | --%      | 10 |                    |
+| TM38                     | Fire Blast   | Fire     | 120   | 85%      | 5  |                    |
 | Lv. 33 / Lv. 38 / Lv. 38 | DragonBreath | Dragon   | 60    | 100%     | 20 |                    |
 | TM21                     | Frustration  | Normal   | --    | 100%     | 20 |                    |
 | TM31                     | Brick Break  | Fighting | 75    | 100%     | 15 |                    |
