@@ -22,21 +22,21 @@ Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **7
 |-- / TM32 / TM32    |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 20 / Lv. 20|Metal Claw  |Steel   |50   |95%     |35 |                         |
 |-- / TM29 / TM29    |Psychic     |Psychic |90   |100%    |10 |                         |
-|-- / Tutor / Tutor  |Swagger     |Normal  |--   |90%     |15 |                         |
+|-- / Tutor / Tutor  |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |-- / HM06 / HM06    |Rock Smash  |Fighting|20   |100%    |15 |                         |
-|-- / Tutor / Tutor  |Rollout     |Rock    |30   |90%     |20 |                         |
-|-- / Tutor / Tutor  |Fury Cutter |Bug     |10   |95%     |20 |                         |
+|-- / Tutor / Tutor  |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
+|-- / Tutor / Tutor  |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |-- / TM10 / TM10    |Hidden Power|Normal  |--   |100%    |15 |                         |
 |-- / TM43 / TM43    |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04 / HM04    |Strength    |Normal  |80   |100%    |15 |                         |
 |-- / Lv. 26 / Lv. 26|Scary Face  |Normal  |--   |90%     |10 |                         |
-|-- / Tutor / Tutor  |Mimic       |Normal  |--   |--%     |10 |                         |
+|-- / Tutor / Tutor  |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |-- / TM27 / TM27    |Return      |Normal  |--   |100%    |20 |                         |
 |-- / TM37 / TM37    |Sandstorm   |Rock    |--   |--%     |10 |                         |
 |-- / TM06 / TM06    |Toxic       |Poison  |--   |85%     |10 |                         |
 |-- / TM36 / TM36    |Sludge Bomb |Poison  |90   |100%    |10 |                         |
 |-- / Lv. 32 / Lv. 32|Pursuit     |Dark    |40   |100%    |20 |                         |
-|-- / Tutor / Tutor  |Sleep Talk  |Normal  |--   |--%     |10 |                         |
+|-- / Tutor / Tutor  |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / TM40 / TM40    |Aerial Ace  |Flying  |60   |--%     |20 |                         |
 |-- / TM42 / TM42    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM11 / TM11    |Sunny Day   |Fire    |--   |--%     |5  |                         |
@@ -46,13 +46,13 @@ Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **7
 |-- / TM17 / TM17    |Protect     |Normal  |--   |--%     |10 |                         |
 |-- / TM33 / TM33    |Reflect     |Psychic |--   |--%     |20 |                         |
 |-- / TM44 / TM44    |Rest        |Psychic |--   |--%     |10 |                         |
-|-- / Tutor / Tutor  |Substitute  |Normal  |--   |--%     |10 |                         |
-|-- / Tutor / Tutor  |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor / Tutor  |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
+|-- / Tutor / Tutor  |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |-- / Lv. 38 / Lv. 38|Psychic     |Psychic |90   |100%    |10 |                         |
-|-- / Tutor / Tutor  |Explosion   |Normal  |250  |100%    |5  |                         |
+|-- / Tutor / Tutor  |Explosion   |Normal  |250  |100%    |5  |Emerald only             |
 |-- / TM21 / TM21    |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / TM31 / TM31    |Brick Break |Fighting|75   |100%    |15 |                         |
-|-- / Tutor / Tutor  |Double-Edge |Normal  |120  |100%    |15 |                         |
+|-- / Tutor / Tutor  |Double-Edge |Normal  |120  |100%    |15 |Emerald only             |
 |-- / TM18 / TM18    |Rain Dance  |Water   |--   |--%     |5  |                         |
 |-- / TM26 / TM26    |Earthquake  |Ground  |100  |100%    |10 |                         |
 |-- / Lv. 44 / Lv. 44|Iron Defense|Steel   |--   |--%     |15 |                         |

@@ -25,19 +25,19 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 |-- / -- / TM32  |Double Team |Normal |--   |--%     |15 |                         |
 |-- / -- / Lv. 20|Moonlight   |Normal |--   |--%     |5  |                         |
 |-- / -- / TM29  |Psychic     |Psychic|90   |100%    |10 |                         |
-|-- / -- / Tutor |Swagger     |Normal |--   |90%     |15 |                         |
+|-- / -- / Tutor |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |-- / -- / TM46  |Thief       |Dark   |40   |100%    |10 |                         |
 |-- / -- / TM45  |Attract     |Normal |--   |100%    |15 |                         |
 |-- / -- / TM10  |Hidden Power|Normal |--   |100%    |15 |                         |
 |-- / -- / Lv. 24|Psybeam     |Psychic|65   |100%    |20 |                         |
 |-- / -- / TM43  |Secret Power|Normal |70   |100%    |20 |                         |
-|-- / -- / Tutor |Mimic       |Normal |--   |--%     |10 |                         |
+|-- / -- / Tutor |Mimic       |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
 |-- / -- / Lv. 27|Whirlwind   |Normal |--   |100%    |20 |                         |
 |-- / -- / TM06  |Toxic       |Poison |--   |85%     |10 |                         |
 |-- / -- / Lv. 31|Light Screen|Psychic|--   |--%     |30 |                         |
 |-- / -- / TM36  |Sludge Bomb |Poison |90   |100%    |10 |                         |
-|-- / -- / Tutor |Sleep Talk  |Normal |--   |--%     |10 |                         |
+|-- / -- / Tutor |Sleep Talk  |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / TM40  |Aerial Ace  |Flying |60   |--%     |20 |                         |
 |-- / -- / TM42  |Facade      |Normal |70   |100%    |20 |                         |
 |-- / -- / TM11  |Sunny Day   |Fire   |--   |--%     |5  |                         |
@@ -49,9 +49,9 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 |-- / -- / TM16  |Light Screen|Psychic|--   |--%     |30 |                         |
 |-- / -- / TM17  |Protect     |Normal |--   |--%     |10 |                         |
 |-- / -- / TM44  |Rest        |Psychic|--   |--%     |10 |                         |
-|-- / -- / Tutor |Substitute  |Normal |--   |--%     |10 |                         |
+|-- / -- / Tutor |Substitute  |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / Lv. 38|Toxic       |Poison |--   |85%     |10 |                         |
 |-- / -- / TM21  |Frustration |Normal |--   |100%    |20 |                         |
-|-- / -- / Tutor |Double-Edge |Normal |120  |100%    |15 |                         |
+|-- / -- / Tutor |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
 
 ### Analysis

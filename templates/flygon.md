@@ -24,7 +24,7 @@ Flygon: **80** HP / **100** Atk / **80** Def / **80** SpA / **80** SpD / **100**
 |Tutor                   |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
-|-- / -- / Tutor         |Fury Cutter |Bug     |10   |95%     |20 |                         |
+|-- / -- / Tutor         |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM10                    |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                    |Secret Power|Normal  |70   |100%    |20 |                         |
 |HM04                    |Strength    |Normal  |80   |100%    |15 |                         |

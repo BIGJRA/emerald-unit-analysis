@@ -45,7 +45,7 @@ Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80**
 |TM33           |Reflect     |Psychic |--   |--%     |20 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |Lv. 34 / Lv. 37|Psychic     |Psychic |90   |100%    |10 |                         |
 |TM21           |Frustration |Normal  |--   |100%    |20 |                         |
 |TM04           |Calm Mind   |Psychic |--   |--%     |20 |                         |

@@ -25,7 +25,7 @@ Breloom: **60** HP / **130** Atk / **80** Def / **60** SpA / **60** SpD / **70**
 |Tutor      |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |-- / HM06  |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45       |Attract     |Normal  |--   |100%    |15 |                         |
-|-- / Tutor |Fury Cutter |Bug     |10   |95%     |20 |                         |
+|-- / Tutor |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |Lv. 22     |Headbutt    |Normal  |70   |100%    |15 |                         |
 |-- / Lv. 23|Mach Punch  |Fighting|40   |100%    |30 |                         |
 |TM10       |Hidden Power|Normal  |--   |100%    |15 |                         |
@@ -50,7 +50,7 @@ Breloom: **60** HP / **130** Atk / **80** Def / **60** SpA / **60** SpD / **70**
 |TM20       |Safeguard   |Normal  |--   |--%     |25 |                         |
 |-- / Lv. 36|Sky Uppercut|Fighting|85   |90%     |15 |                         |
 |Tutor      |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / Tutor |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM21       |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / TM31  |Brick Break |Fighting|75   |100%    |15 |                         |
 |Tutor      |Double-Edge |Normal  |120  |100%    |15 |Emerald only             |

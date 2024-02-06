@@ -47,7 +47,7 @@ Azumarill: **100** HP / **50** Atk / **80** Def / **50** SpA / **80** SpD / **50
 |TM17                    |Protect     |Normal  |--   |--%     |10 |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                   |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / Tutor / Tutor      |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor / Tutor      |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM07                    |Hail        |Ice     |--   |--%     |10 |                         |
 |TM21                    |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / TM31 / TM31        |Brick Break |Fighting|75   |100%    |15 |                         |

@@ -32,7 +32,7 @@ Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04      |Strength    |Normal  |80   |100%    |15 |                         |
 |-- / Lv. 1     |Bind        |Normal  |15   |75%     |20 |                         |
-|-- / Tutor     |Metronome   |Normal  |--   |--%     |10 |                         |
+|-- / Tutor     |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 27         |Pursuit     |Dark    |40   |100%    |20 |                         |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |
@@ -50,7 +50,7 @@ Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25
 |TM17           |Protect     |Normal  |--   |--%     |10 |                         |
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |-- / Lv. 37    |Shadow Punch|Ghost   |60   |--%     |20 |                         |
 |TM21           |Frustration |Normal  |--   |100%    |20 |                         |
 |TM04           |Calm Mind   |Psychic |--   |--%     |20 |                         |

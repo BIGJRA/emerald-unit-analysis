@@ -23,7 +23,7 @@ Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** S
 |TM13           |Ice Beam    |Ice    |95   |100%    |10 |                         |
 |Tutor          |Swagger     |Normal |--   |90%     |15 |Emerald only             |
 |-- / TM41      |Torment     |Dark   |--   |100%    |15 |                         |
-|-- / Tutor     |Rollout     |Rock   |30   |90%     |20 |                         |
+|-- / Tutor     |Rollout     |Rock   |30   |90%     |20 |Emerald only             |
 |TM45           |Attract     |Normal |--   |100%    |15 |                         |
 |TM10           |Hidden Power|Normal |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal |70   |100%    |20 |                         |
@@ -45,7 +45,7 @@ Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** S
 |TM20           |Safeguard   |Normal |--   |--%     |25 |                         |
 |Tutor          |Substitute  |Normal |--   |--%     |10 |Emerald only             |
 |TM07           |Hail        |Ice    |--   |--%     |10 |                         |
-|-- / Tutor     |Explosion   |Normal |250  |100%    |5  |                         |
+|-- / Tutor     |Explosion   |Normal |250  |100%    |5  |Emerald only             |
 |TM21           |Frustration |Normal |--   |100%    |20 |                         |
 |Tutor          |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
 |TM18           |Rain Dance  |Water  |--   |--%     |5  |                         |

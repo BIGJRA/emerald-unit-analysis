@@ -23,7 +23,7 @@ Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** 
 |Tutor          |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
-|-- / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |                         |
+|-- / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |Lv. 23         |Screech     |Normal  |--   |85%     |40 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |

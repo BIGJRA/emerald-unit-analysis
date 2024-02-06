@@ -26,7 +26,7 @@ Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **1
 |Tutor                   |Swagger     |Normal  |--   |90%     |15 |Emerald only             |
 |Lv. 21                  |Focus Energy|Normal  |--   |--%     |30 |                         |
 |HM06                    |Rock Smash  |Fighting|20   |100%    |15 |                         |
-|-- / Tutor / Tutor      |Rollout     |Rock    |30   |90%     |20 |                         |
+|-- / Tutor / Tutor      |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45                    |Attract     |Normal  |--   |100%    |15 |                         |
 |Tutor                   |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM10                    |Hidden Power|Normal  |--   |100%    |15 |                         |

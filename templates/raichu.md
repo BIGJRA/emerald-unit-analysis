@@ -50,7 +50,7 @@ Raichu: **60** HP / **90** Atk / **55** Def / **90** SpA / **80** SpD / **100** 
 |TM44                 |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |TM25                 |Thunder     |Electric|120  |70%     |10 |                         |
-|-- / Tutor / Tutor   |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor / Tutor   |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM21                 |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / TM31 / TM31     |Brick Break |Fighting|75   |100%    |15 |                         |
 |Tutor                |Double-Edge |Normal  |120  |100%    |15 |Emerald only             |

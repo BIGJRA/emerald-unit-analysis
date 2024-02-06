@@ -32,7 +32,7 @@ Shiftry: **90** HP / **100** Atk / **60** Def / **90** SpA / **60** SpD / **80**
 |Tutor                  |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |Lv. 21 / -- / --       |Synthesis   |Grass   |--   |--%     |5  |                         |
 |TM45                   |Attract     |Normal  |--   |100%    |15 |                         |
-|-- / Tutor / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |                         |
+|-- / Tutor / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM10                   |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43                   |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04 / HM04       |Strength    |Normal  |80   |100%    |15 |                         |

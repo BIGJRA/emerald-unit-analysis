@@ -27,7 +27,7 @@ Rhydon: **105** HP / **130** Atk / **120** Def / **45** SpA / **45** SpD / **40*
 |HM06           |Rock Smash  |Fighting|20   |100%    |15 |                         |
 |Tutor          |Rollout     |Rock    |30   |90%     |20 |Emerald only             |
 |TM45           |Attract     |Normal  |--   |100%    |15 |                         |
-|-- / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |                         |
+|-- / Tutor     |Fury Cutter |Bug     |10   |95%     |20 |Emerald only             |
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |Lv. 24         |Scary Face  |Normal  |--   |90%     |10 |                         |
@@ -52,7 +52,7 @@ Rhydon: **105** HP / **130** Atk / **120** Def / **45** SpA / **45** SpD / **40*
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |TM25           |Thunder     |Electric|120  |70%     |10 |                         |
-|-- / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |Lv. 38         |Horn Drill  |Normal  |--   |30%     |5  |                         |
 |TM21           |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / TM31      |Brick Break |Fighting|75   |100%    |15 |                         |

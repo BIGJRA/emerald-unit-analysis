@@ -94,7 +94,7 @@ def generate_text(pokemon_names):
         n = move[1]
         type, pwr, acc, pp = data[n]["Type"], data[n]["Pwr"], data[n]["Acc"], data[n]["PP"]
         notes = ''
-        if move[2] == 'Tutor': notes = "Emerald only"
+        if 'Tutor' in move[2]: notes = "Emerald only"
         for idx, thing in enumerate([f'{move[2]}', f'{n}', f'{type}', f'{pwr}', f'{acc}', f'{pp}', f'{notes}']):
            move_lines[idx].append(thing)
     lengths = [max([len(s) for s in group]) for group in move_lines]

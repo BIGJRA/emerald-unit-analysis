@@ -27,7 +27,7 @@ Banette: **64** HP / **115** Atk / **65** Def / **83** SpA / **63** SpD / **65**
 |TM34           |Shock Wave  |Electric|60   |--%     |20 |                         |
 |TM10           |Hidden Power|Normal  |--   |100%    |15 |                         |
 |TM43           |Secret Power|Normal  |70   |100%    |20 |                         |
-|-- / Tutor     |Metronome   |Normal  |--   |--%     |10 |                         |
+|-- / Tutor     |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 25         |Spite       |Ghost   |--   |100%    |10 |                         |
 |Tutor          |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27           |Return      |Normal  |--   |100%    |20 |                         |

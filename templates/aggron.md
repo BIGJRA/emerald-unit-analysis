@@ -59,7 +59,7 @@ Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50**
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                   |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / -- / TM25          |Thunder     |Electric|120  |70%     |10 |                         |
-|-- / -- / Tutor         |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / -- / Tutor         |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |Lv. 34 / Lv. 37 / Lv. 37|Protect     |Normal  |--   |--%     |10 |                         |
 |TM21                    |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / -- / TM31          |Brick Break |Fighting|75   |100%    |15 |                         |

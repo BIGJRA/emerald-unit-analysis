@@ -48,7 +48,7 @@ Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60
 |TM17                    |Protect     |Normal  |--   |--%     |10 |                         |
 |TM44                    |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                   |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / Tutor / Tutor      |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor / Tutor      |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM07                    |Hail        |Ice     |--   |--%     |10 |                         |
 |TM21                    |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / Lv. 37 / Lv. 39    |Muddy Water |Water   |95   |85%     |10 |                         |

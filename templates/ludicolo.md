@@ -32,7 +32,7 @@ Ludicolo: **80** HP / **70** Atk / **70** Def / **90** SpA / **100** SpD / **70*
 |TM43                   |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / HM04 / HM04       |Strength    |Normal  |80   |100%    |15 |                         |
 |-- / Lv. 25 / --       |Fury Swipes |Normal  |18   |80%     |15 |                         |
-|-- / -- / Tutor        |Metronome   |Normal  |--   |--%     |10 |                         |
+|-- / -- / Tutor        |Metronome   |Normal  |--   |--%     |10 |Emerald only             |
 |Tutor                  |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |TM27                   |Return      |Normal  |--   |100%    |20 |                         |
 |TM06                   |Toxic       |Poison  |--   |85%     |10 |                         |
@@ -50,7 +50,7 @@ Ludicolo: **80** HP / **70** Atk / **70** Def / **90** SpA / **100** SpD / **70*
 |TM17                   |Protect     |Normal  |--   |--%     |10 |                         |
 |TM44                   |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor                  |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
-|-- / Tutor / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor / Tutor     |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM07                   |Hail        |Ice     |--   |--%     |10 |                         |
 |-- / Lv. 37 / --       |Thief       |Dark    |40   |100%    |10 |                         |
 |TM21                   |Frustration |Normal  |--   |100%    |20 |                         |

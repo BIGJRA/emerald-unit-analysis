@@ -57,7 +57,7 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 |TM20                 |Safeguard   |Normal  |--   |--%     |25 |                         |
 |Tutor                |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / TM25 / TM25     |Thunder     |Electric|120  |70%     |10 |                         |
-|-- / Tutor / Tutor   |DynamicPunch|Fighting|100  |50%     |5  |                         |
+|-- / Tutor / Tutor   |DynamicPunch|Fighting|100  |50%     |5  |Emerald only             |
 |TM21                 |Frustration |Normal  |--   |100%    |20 |                         |
 |-- / Lv. 39 / --     |Mimic       |Normal  |--   |--%     |10 |                         |
 |-- / TM31 / TM31     |Brick Break |Fighting|75   |100%    |15 |                         |

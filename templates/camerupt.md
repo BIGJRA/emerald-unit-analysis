@@ -46,7 +46,7 @@ Camerupt: **70** HP / **100** Atk / **70** Def / **105** SpA / **75** SpD / **40
 |TM44           |Rest        |Psychic |--   |--%     |10 |                         |
 |Tutor          |Substitute  |Normal  |--   |--%     |10 |Emerald only             |
 |Lv. 35 / Lv. 37|Earthquake  |Ground  |100  |100%    |10 |                         |
-|-- / Tutor     |Explosion   |Normal  |250  |100%    |5  |                         |
+|-- / Tutor     |Explosion   |Normal  |250  |100%    |5  |Emerald only             |
 |TM21           |Frustration |Normal  |--   |100%    |20 |                         |
 |Tutor          |Double-Edge |Normal  |120  |100%    |15 |Emerald only             |
 |Lv. 41 / --    |Flamethrower|Fire    |95   |100%    |15 |                         |
