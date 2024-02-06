@@ -1,8 +1,6 @@
 # Pokemon Emerald Unit Analysis
 
-This is a repository for my analysis writeups on (eventually) every line of Pokemon in Emerald Version. 
-
-To read the writeups on Github, see the "writeups" directory.
+This is a repository for my analysis [writeups](https://github.com/BIGJRA/emerald-unit-analysis/tree/main/writeups) on (eventually) every line of Pokemon in Emerald Version. 
 
 To use or modify my utility scripts, clone the repository and run the python files in the root corresponding to what you're looking to do.
 
