@@ -44,7 +44,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 
 - [ ] Treecko, Grovyle, Sceptile
 - [ ] Torchic, Combusken, Blaziken
-- [ ] Mudkip, Marshtomp, Swampert
+- [x] Mudkip, Marshtomp, Swampert
 - [ ] Poochyena, Mightyena
 - [ ] Zigzagoon, Linoone
 - [ ] Wurmple, Silcoon, Beautifly
