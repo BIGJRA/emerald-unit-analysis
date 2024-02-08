@@ -113,7 +113,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Igglybuff, Jigglypuff, Wigglytuff
 - [ ] Feebas, Milotic
 - [ ] Castform
-- [ ] Staryu, Starmie
+- [x] Staryu, Starmie
 - [ ] Kecleon
 - [ ] Shuppet, Banette
 - [ ] Duskull, Dusclops
