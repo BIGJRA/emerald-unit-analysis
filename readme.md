@@ -102,7 +102,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Cacnea, Cacturne
 - [ ] Swablu, Altaria
 - [ ] Zangoose
-- [ ] Seviper
+- [x] Seviper
 - [ ] Lunatone
 - [ ] Solrock
 - [ ] Barboach, Whiscash
