@@ -101,7 +101,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Trapinch, Vibrava, Flygon
 - [ ] Cacnea, Cacturne
 - [ ] Swablu, Altaria
-- [ ] Zangoose
+- [x] Zangoose
 - [x] Seviper
 - [ ] Lunatone
 - [ ] Solrock
