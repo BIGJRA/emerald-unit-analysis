@@ -85,7 +85,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Oddish, Gloom, Vileplume
 - [ ] Oddish, Gloom, Bellossom
 - [ ] Doduo, Dodrio
-- [ ] Roselia
+- [x] Roselia
 - [ ] Gulpin, Swalot
 - [ ] Carvanha, Sharpedo
 - [ ] Wailmer, Wailord
