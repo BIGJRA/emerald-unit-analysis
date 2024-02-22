@@ -4,11 +4,11 @@ Azurill is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Azurill: **50** HP / **20** Atk / **40** Def / **20** SpA / **40** SpD / **20** Spe
+Azurill: **50** HP / **20** Atk / **40** Def / **20** SpA / **40** SpD / **20** Spe (190 BST)
 
-Marill: **70** HP / **20** Atk / **50** Def / **20** SpA / **50** SpD / **40** Spe
+Marill: **70** HP / **20** Atk / **50** Def / **20** SpA / **50** SpD / **40** Spe (250 BST)
 
-Azumarill: **100** HP / **50** Atk / **80** Def / **50** SpA / **80** SpD / **50** Spe
+Azumarill: **100** HP / **50** Atk / **80** Def / **50** SpA / **80** SpD / **50** Spe (410 BST)
 
 ### Moveset
 

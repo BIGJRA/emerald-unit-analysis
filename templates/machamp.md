@@ -4,11 +4,11 @@ Machop is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Machop: **70** HP / **80** Atk / **50** Def / **35** SpA / **35** SpD / **35** Spe
+Machop: **70** HP / **80** Atk / **50** Def / **35** SpA / **35** SpD / **35** Spe (305 BST)
 
-Machoke: **80** HP / **100** Atk / **70** Def / **50** SpA / **60** SpD / **45** Spe
+Machoke: **80** HP / **100** Atk / **70** Def / **50** SpA / **60** SpD / **45** Spe (405 BST)
 
-Machamp: **90** HP / **130** Atk / **80** Def / **65** SpA / **85** SpD / **55** Spe
+Machamp: **90** HP / **130** Atk / **80** Def / **65** SpA / **85** SpD / **55** Spe (505 BST)
 
 ### Moveset
 

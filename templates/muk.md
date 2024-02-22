@@ -4,9 +4,9 @@ Grimer is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Grimer: **80** HP / **80** Atk / **50** Def / **40** SpA / **50** SpD / **25** Spe
+Grimer: **80** HP / **80** Atk / **50** Def / **40** SpA / **50** SpD / **25** Spe (325 BST)
 
-Muk: **105** HP / **105** Atk / **75** Def / **65** SpA / **100** SpD / **50** Spe
+Muk: **105** HP / **105** Atk / **75** Def / **65** SpA / **100** SpD / **50** Spe (500 BST)
 
 ### Moveset
 

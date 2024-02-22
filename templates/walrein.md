@@ -4,11 +4,11 @@ Spheal is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Spheal: **70** HP / **40** Atk / **50** Def / **55** SpA / **50** SpD / **25** Spe
+Spheal: **70** HP / **40** Atk / **50** Def / **55** SpA / **50** SpD / **25** Spe (290 BST)
 
-Sealeo: **90** HP / **60** Atk / **70** Def / **75** SpA / **70** SpD / **45** Spe
+Sealeo: **90** HP / **60** Atk / **70** Def / **75** SpA / **70** SpD / **45** Spe (410 BST)
 
-Walrein: **110** HP / **80** Atk / **90** Def / **95** SpA / **90** SpD / **65** Spe
+Walrein: **110** HP / **80** Atk / **90** Def / **95** SpA / **90** SpD / **65** Spe (530 BST)
 
 ### Moveset
 

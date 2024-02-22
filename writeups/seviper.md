@@ -4,7 +4,7 @@ Seviper is first obtained at Route 114 at Lv. 15 - 17, but is not available in R
 
 ### Base Stats
 
-Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65** Spe
+Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65** Spe (458 BST)
 
 ### Moveset
 

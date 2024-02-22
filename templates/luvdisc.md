@@ -4,7 +4,7 @@ Luvdisc is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Luvdisc: **43** HP / **30** Atk / **55** Def / **40** SpA / **65** SpD / **97** Spe
+Luvdisc: **43** HP / **30** Atk / **55** Def / **40** SpA / **65** SpD / **97** Spe (330 BST)
 
 ### Moveset
 

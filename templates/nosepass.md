@@ -4,7 +4,7 @@ Nosepass is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30** Spe
+Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30** Spe (375 BST)
 
 ### Moveset
 

@@ -4,7 +4,7 @@ Regirock is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Regirock: **80** HP / **100** Atk / **200** Def / **50** SpA / **100** SpD / **50** Spe
+Regirock: **80** HP / **100** Atk / **200** Def / **50** SpA / **100** SpD / **50** Spe (580 BST)
 
 ### Moveset
 

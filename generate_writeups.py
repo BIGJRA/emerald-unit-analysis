@@ -85,8 +85,9 @@ def generate_text(pokemon_names):
     lines.append('### Base Stats\n')
     for mon in pokemon_names:
         j = get_json(mon)["stats"]
+        total = sum([int(j[stat]) for stat in ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]])
         lines.append(
-            f"{mon.capitalize()}: **{j["HP"]}** HP / **{j["Attack"]}** Atk / **{j["Defense"]}** Def / **{j["Sp. Atk"]}** SpA / **{j["Sp. Def"]}** SpD / **{j["Speed"]}** Spe\n")
+            f"{mon.capitalize()}: **{j["HP"]}** HP / **{j["Attack"]}** Atk / **{j["Defense"]}** Def / **{j["Sp. Atk"]}** SpA / **{j["Sp. Def"]}** SpD / **{j["Speed"]}** Spe ({total} BST)\n")
 
     lines.append('### Moveset\n')
 

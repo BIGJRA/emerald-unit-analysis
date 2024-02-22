@@ -4,9 +4,9 @@ Duskull is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Duskull: **20** HP / **40** Atk / **90** Def / **30** SpA / **90** SpD / **25** Spe
+Duskull: **20** HP / **40** Atk / **90** Def / **30** SpA / **90** SpD / **25** Spe (295 BST)
 
-Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25** Spe
+Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25** Spe (455 BST)
 
 ### Moveset
 

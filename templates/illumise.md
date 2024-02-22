@@ -4,7 +4,7 @@ Illumise is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Illumise: **65** HP / **47** Atk / **55** Def / **73** SpA / **75** SpD / **85** Spe
+Illumise: **65** HP / **47** Atk / **55** Def / **73** SpA / **75** SpD / **85** Spe (400 BST)
 
 ### Moveset
 

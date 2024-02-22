@@ -4,7 +4,7 @@ Zangoose is a single-stage Pokemon, first obtained on Route 114 at Lv. 17-19, bu
 
 ### Base Stats
 
-Zangoose: **73** HP / **115** Atk / **60** Def / **60** SpA / **60** SpD / **90** Spe
+Zangoose: **73** HP / **115** Atk / **60** Def / **60** SpA / **60** SpD / **90** Spe (458 BST)
 
 ### Moveset
 

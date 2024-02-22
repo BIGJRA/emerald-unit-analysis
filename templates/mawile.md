@@ -4,7 +4,7 @@ Mawile is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** Spe
+Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** Spe (380 BST)
 
 ### Moveset
 

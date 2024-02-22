@@ -4,9 +4,9 @@ Wailmer is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Wailmer: **130** HP / **70** Atk / **35** Def / **70** SpA / **35** SpD / **60** Spe
+Wailmer: **130** HP / **70** Atk / **35** Def / **70** SpA / **35** SpD / **60** Spe (400 BST)
 
-Wailord: **170** HP / **90** Atk / **45** Def / **90** SpA / **45** SpD / **60** Spe
+Wailord: **170** HP / **90** Atk / **45** Def / **90** SpA / **45** SpD / **60** Spe (500 BST)
 
 ### Moveset
 

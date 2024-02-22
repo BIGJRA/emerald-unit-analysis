@@ -4,9 +4,9 @@ Meditite is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Meditite: **30** HP / **40** Atk / **55** Def / **40** SpA / **55** SpD / **60** Spe
+Meditite: **30** HP / **40** Atk / **55** Def / **40** SpA / **55** SpD / **60** Spe (280 BST)
 
-Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80** Spe
+Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80** Spe (410 BST)
 
 ### Moveset
 

@@ -4,9 +4,9 @@ Voltorb is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Voltorb: **40** HP / **30** Atk / **50** Def / **55** SpA / **55** SpD / **100** Spe
+Voltorb: **40** HP / **30** Atk / **50** Def / **55** SpA / **55** SpD / **100** Spe (330 BST)
 
-Electrode: **60** HP / **50** Atk / **70** Def / **80** SpA / **80** SpD / **140** Spe
+Electrode: **60** HP / **50** Atk / **70** Def / **80** SpA / **80** SpD / **140** Spe (480 BST)
 
 ### Moveset
 

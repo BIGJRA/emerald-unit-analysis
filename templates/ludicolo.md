@@ -4,11 +4,11 @@ Lotad is first obtained at TODO. It's ability is TODO. It evolves at TODO, then 
 
 ### Base Stats
 
-Lotad: **40** HP / **30** Atk / **30** Def / **40** SpA / **50** SpD / **30** Spe
+Lotad: **40** HP / **30** Atk / **30** Def / **40** SpA / **50** SpD / **30** Spe (220 BST)
 
-Lombre: **60** HP / **50** Atk / **50** Def / **60** SpA / **70** SpD / **50** Spe
+Lombre: **60** HP / **50** Atk / **50** Def / **60** SpA / **70** SpD / **50** Spe (340 BST)
 
-Ludicolo: **80** HP / **70** Atk / **70** Def / **90** SpA / **100** SpD / **70** Spe
+Ludicolo: **80** HP / **70** Atk / **70** Def / **90** SpA / **100** SpD / **70** Spe (480 BST)
 
 ### Moveset
 

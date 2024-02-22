@@ -4,7 +4,7 @@ Solrock is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** Spe
+Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** Spe (440 BST)
 
 ### Moveset
 

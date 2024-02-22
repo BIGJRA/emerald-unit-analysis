@@ -4,9 +4,9 @@ Goldeen is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Goldeen: **45** HP / **67** Atk / **60** Def / **35** SpA / **50** SpD / **63** Spe
+Goldeen: **45** HP / **67** Atk / **60** Def / **35** SpA / **50** SpD / **63** Spe (320 BST)
 
-Seaking: **80** HP / **92** Atk / **65** Def / **65** SpA / **80** SpD / **68** Spe
+Seaking: **80** HP / **92** Atk / **65** Def / **65** SpA / **80** SpD / **68** Spe (450 BST)
 
 ### Moveset
 

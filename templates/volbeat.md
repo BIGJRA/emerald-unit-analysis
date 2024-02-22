@@ -4,7 +4,7 @@ Volbeat is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Volbeat: **65** HP / **73** Atk / **55** Def / **47** SpA / **75** SpD / **85** Spe
+Volbeat: **65** HP / **73** Atk / **55** Def / **47** SpA / **75** SpD / **85** Spe (400 BST)
 
 ### Moveset
 

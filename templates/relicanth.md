@@ -4,7 +4,7 @@ Relicanth is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Relicanth: **100** HP / **90** Atk / **130** Def / **45** SpA / **65** SpD / **55** Spe
+Relicanth: **100** HP / **90** Atk / **130** Def / **45** SpA / **65** SpD / **55** Spe (485 BST)
 
 ### Moveset
 

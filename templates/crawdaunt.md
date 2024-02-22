@@ -4,9 +4,9 @@ Corphish is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Corphish: **43** HP / **80** Atk / **65** Def / **50** SpA / **35** SpD / **35** Spe
+Corphish: **43** HP / **80** Atk / **65** Def / **50** SpA / **35** SpD / **35** Spe (308 BST)
 
-Crawdaunt: **63** HP / **120** Atk / **85** Def / **90** SpA / **55** SpD / **55** Spe
+Crawdaunt: **63** HP / **120** Atk / **85** Def / **90** SpA / **55** SpD / **55** Spe (468 BST)
 
 ### Moveset
 

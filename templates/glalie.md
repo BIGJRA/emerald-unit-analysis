@@ -4,9 +4,9 @@ Snorunt is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Snorunt: **50** HP / **50** Atk / **50** Def / **50** SpA / **50** SpD / **50** Spe
+Snorunt: **50** HP / **50** Atk / **50** Def / **50** SpA / **50** SpD / **50** Spe (300 BST)
 
-Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** Spe
+Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** Spe (480 BST)
 
 ### Moveset
 

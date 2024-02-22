@@ -4,7 +4,7 @@ Sableye is first obtained at Granite Cave, between Lv. 9-12, but is not in Ruby 
 
 ### Base Stats
 
-Sableye: **50** HP / **75** Atk / **75** Def / **65** SpA / **65** SpD / **50** Spe
+Sableye: **50** HP / **75** Atk / **75** Def / **65** SpA / **65** SpD / **50** Spe (380 BST)
 
 ### Moveset
 

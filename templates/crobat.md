@@ -4,11 +4,11 @@ Zubat is first obtained at TODO. It's ability is TODO. It evolves at TODO, then 
 
 ### Base Stats
 
-Zubat: **40** HP / **45** Atk / **35** Def / **30** SpA / **40** SpD / **55** Spe
+Zubat: **40** HP / **45** Atk / **35** Def / **30** SpA / **40** SpD / **55** Spe (245 BST)
 
-Golbat: **75** HP / **80** Atk / **70** Def / **65** SpA / **75** SpD / **90** Spe
+Golbat: **75** HP / **80** Atk / **70** Def / **65** SpA / **75** SpD / **90** Spe (455 BST)
 
-Crobat: **85** HP / **90** Atk / **80** Def / **70** SpA / **80** SpD / **130** Spe
+Crobat: **85** HP / **90** Atk / **80** Def / **70** SpA / **80** SpD / **130** Spe (535 BST)
 
 ### Moveset
 

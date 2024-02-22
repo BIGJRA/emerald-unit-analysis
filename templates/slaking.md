@@ -4,11 +4,11 @@ Slakoth is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Slakoth: **60** HP / **60** Atk / **60** Def / **35** SpA / **35** SpD / **30** Spe
+Slakoth: **60** HP / **60** Atk / **60** Def / **35** SpA / **35** SpD / **30** Spe (280 BST)
 
-Vigoroth: **80** HP / **80** Atk / **80** Def / **55** SpA / **55** SpD / **90** Spe
+Vigoroth: **80** HP / **80** Atk / **80** Def / **55** SpA / **55** SpD / **90** Spe (440 BST)
 
-Slaking: **150** HP / **160** Atk / **100** Def / **95** SpA / **65** SpD / **100** Spe
+Slaking: **150** HP / **160** Atk / **100** Def / **95** SpA / **65** SpD / **100** Spe (670 BST)
 
 ### Moveset
 

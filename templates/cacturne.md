@@ -4,9 +4,9 @@ Cacnea is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Cacnea: **50** HP / **85** Atk / **40** Def / **85** SpA / **40** SpD / **35** Spe
+Cacnea: **50** HP / **85** Atk / **40** Def / **85** SpA / **40** SpD / **35** Spe (335 BST)
 
-Cacturne: **70** HP / **115** Atk / **60** Def / **115** SpA / **60** SpD / **55** Spe
+Cacturne: **70** HP / **115** Atk / **60** Def / **115** SpA / **60** SpD / **55** Spe (475 BST)
 
 ### Moveset
 

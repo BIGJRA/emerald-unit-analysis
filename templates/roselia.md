@@ -4,7 +4,7 @@ Roselia is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65** Spe
+Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65** Spe (400 BST)
 
 ### Moveset
 

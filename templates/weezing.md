@@ -4,9 +4,9 @@ Koffing is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Koffing: **40** HP / **65** Atk / **95** Def / **60** SpA / **45** SpD / **35** Spe
+Koffing: **40** HP / **65** Atk / **95** Def / **60** SpA / **45** SpD / **35** Spe (340 BST)
 
-Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60** Spe
+Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60** Spe (490 BST)
 
 ### Moveset
 

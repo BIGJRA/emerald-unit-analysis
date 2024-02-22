@@ -4,9 +4,9 @@ Psyduck is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Psyduck: **50** HP / **52** Atk / **48** Def / **65** SpA / **50** SpD / **55** Spe
+Psyduck: **50** HP / **52** Atk / **48** Def / **65** SpA / **50** SpD / **55** Spe (320 BST)
 
-Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** Spe
+Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** Spe (500 BST)
 
 ### Moveset
 

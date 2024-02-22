@@ -4,9 +4,9 @@ Wingull is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Wingull: **40** HP / **30** Atk / **30** Def / **55** SpA / **30** SpD / **85** Spe
+Wingull: **40** HP / **30** Atk / **30** Def / **55** SpA / **30** SpD / **85** Spe (270 BST)
 
-Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65** Spe
+Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65** Spe (430 BST)
 
 ### Moveset
 

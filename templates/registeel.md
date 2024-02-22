@@ -4,7 +4,7 @@ Registeel is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Registeel: **80** HP / **75** Atk / **150** Def / **75** SpA / **150** SpD / **50** Spe
+Registeel: **80** HP / **75** Atk / **150** Def / **75** SpA / **150** SpD / **50** Spe (580 BST)
 
 ### Moveset
 

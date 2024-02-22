@@ -4,7 +4,7 @@ Mawile is a single stage Pokemon. It is obtainable early in Ruby: in the Granite
 
 ### Base Stats
 
-Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** Spe
+Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** Spe (380 BST)
 
 ### Moveset
 

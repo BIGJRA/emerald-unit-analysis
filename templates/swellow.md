@@ -4,9 +4,9 @@ Taillow is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Taillow: **40** HP / **55** Atk / **30** Def / **30** SpA / **30** SpD / **85** Spe
+Taillow: **40** HP / **55** Atk / **30** Def / **30** SpA / **30** SpD / **85** Spe (270 BST)
 
-Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125** Spe
+Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125** Spe (430 BST)
 
 ### Moveset
 

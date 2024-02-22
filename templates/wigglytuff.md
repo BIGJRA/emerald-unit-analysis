@@ -4,11 +4,11 @@ Igglybuff is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Igglybuff: **90** HP / **30** Atk / **15** Def / **40** SpA / **20** SpD / **15** Spe
+Igglybuff: **90** HP / **30** Atk / **15** Def / **40** SpA / **20** SpD / **15** Spe (210 BST)
 
-Jigglypuff: **115** HP / **45** Atk / **20** Def / **45** SpA / **25** SpD / **20** Spe
+Jigglypuff: **115** HP / **45** Atk / **20** Def / **45** SpA / **25** SpD / **20** Spe (270 BST)
 
-Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **45** Spe
+Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **45** Spe (425 BST)
 
 ### Moveset
 

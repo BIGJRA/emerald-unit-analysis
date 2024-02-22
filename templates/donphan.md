@@ -4,9 +4,9 @@ Phanpy is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Phanpy: **90** HP / **60** Atk / **60** Def / **40** SpA / **40** SpD / **40** Spe
+Phanpy: **90** HP / **60** Atk / **60** Def / **40** SpA / **40** SpD / **40** Spe (330 BST)
 
-Donphan: **90** HP / **120** Atk / **120** Def / **60** SpA / **60** SpD / **50** Spe
+Donphan: **90** HP / **120** Atk / **120** Def / **60** SpA / **60** SpD / **50** Spe (500 BST)
 
 ### Moveset
 

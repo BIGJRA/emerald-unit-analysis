@@ -4,9 +4,9 @@ Natu is first obtained at TODO. It's ability is TODO. It evolves at TODO, then a
 
 ### Base Stats
 
-Natu: **40** HP / **50** Atk / **45** Def / **70** SpA / **45** SpD / **70** Spe
+Natu: **40** HP / **50** Atk / **45** Def / **70** SpA / **45** SpD / **70** Spe (320 BST)
 
-Xatu: **65** HP / **75** Atk / **70** Def / **95** SpA / **70** SpD / **95** Spe
+Xatu: **65** HP / **75** Atk / **70** Def / **95** SpA / **70** SpD / **95** Spe (470 BST)
 
 ### Moveset
 

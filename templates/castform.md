@@ -4,7 +4,7 @@ Castform is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Castform: **70** HP / **70** Atk / **70** Def / **70** SpA / **70** SpD / **70** Spe
+Castform: **70** HP / **70** Atk / **70** Def / **70** SpA / **70** SpD / **70** Spe (420 BST)
 
 ### Moveset
 

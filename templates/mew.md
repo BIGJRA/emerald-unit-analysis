@@ -4,7 +4,7 @@ Mew is first obtained at TODO. It's ability is TODO. It evolves at TODO, then ag
 
 ### Base Stats
 
-Mew: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **100** Spe
+Mew: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **100** Spe (600 BST)
 
 ### Moveset
 

@@ -4,9 +4,9 @@ Magnemite is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Magnemite: **25** HP / **35** Atk / **70** Def / **95** SpA / **55** SpD / **45** Spe
+Magnemite: **25** HP / **35** Atk / **70** Def / **95** SpA / **55** SpD / **45** Spe (325 BST)
 
-Magneton: **50** HP / **60** Atk / **95** Def / **120** SpA / **70** SpD / **70** Spe
+Magneton: **50** HP / **60** Atk / **95** Def / **120** SpA / **70** SpD / **70** Spe (465 BST)
 
 ### Moveset
 

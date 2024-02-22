@@ -4,7 +4,7 @@ Groudon is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Groudon: **100** HP / **150** Atk / **140** Def / **100** SpA / **90** SpD / **90** Spe
+Groudon: **100** HP / **150** Atk / **140** Def / **100** SpA / **90** SpD / **90** Spe (670 BST)
 
 ### Moveset
 

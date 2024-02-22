@@ -4,9 +4,9 @@ Staryu is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Staryu: **30** HP / **45** Atk / **55** Def / **70** SpA / **55** SpD / **85** Spe
+Staryu: **30** HP / **45** Atk / **55** Def / **70** SpA / **55** SpD / **85** Spe (340 BST)
 
-Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115** Spe
+Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115** Spe (520 BST)
 
 ### Moveset
 

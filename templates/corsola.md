@@ -4,7 +4,7 @@ Corsola is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** Spe
+Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** Spe (380 BST)
 
 ### Moveset
 

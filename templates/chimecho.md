@@ -4,7 +4,7 @@ Chimecho is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65** Spe
+Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65** Spe (425 BST)
 
 ### Moveset
 

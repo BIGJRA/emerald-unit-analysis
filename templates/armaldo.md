@@ -4,9 +4,9 @@ Anorith is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Anorith: **45** HP / **95** Atk / **50** Def / **40** SpA / **50** SpD / **75** Spe
+Anorith: **45** HP / **95** Atk / **50** Def / **40** SpA / **50** SpD / **75** Spe (355 BST)
 
-Armaldo: **75** HP / **125** Atk / **100** Def / **70** SpA / **80** SpD / **45** Spe
+Armaldo: **75** HP / **125** Atk / **100** Def / **70** SpA / **80** SpD / **45** Spe (495 BST)
 
 ### Moveset
 

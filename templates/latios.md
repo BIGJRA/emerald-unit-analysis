@@ -4,7 +4,7 @@ Latios is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110** Spe
+Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110** Spe (600 BST)
 
 ### Moveset
 

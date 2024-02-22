@@ -4,11 +4,11 @@ Abra is first obtained at TODO. It's ability is TODO. It evolves at TODO, then a
 
 ### Base Stats
 
-Abra: **25** HP / **20** Atk / **15** Def / **105** SpA / **55** SpD / **90** Spe
+Abra: **25** HP / **20** Atk / **15** Def / **105** SpA / **55** SpD / **90** Spe (310 BST)
 
-Kadabra: **40** HP / **35** Atk / **30** Def / **120** SpA / **70** SpD / **105** Spe
+Kadabra: **40** HP / **35** Atk / **30** Def / **120** SpA / **70** SpD / **105** Spe (400 BST)
 
-Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120** Spe
+Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120** Spe (490 BST)
 
 ### Moveset
 

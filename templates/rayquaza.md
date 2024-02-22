@@ -4,7 +4,7 @@ Rayquaza is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **95** Spe
+Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **95** Spe (680 BST)
 
 ### Moveset
 

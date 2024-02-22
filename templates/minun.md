@@ -4,7 +4,7 @@ Minun is first obtained at TODO. It's ability is TODO. It evolves at TODO, then 
 
 ### Base Stats
 
-Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Spe
+Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Spe (405 BST)
 
 ### Moveset
 

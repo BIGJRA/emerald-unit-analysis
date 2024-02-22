@@ -4,9 +4,9 @@ Nincada is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Nincada: **31** HP / **45** Atk / **90** Def / **30** SpA / **30** SpD / **40** Spe
+Nincada: **31** HP / **45** Atk / **90** Def / **30** SpA / **30** SpD / **40** Spe (266 BST)
 
-Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160** Spe
+Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160** Spe (456 BST)
 
 ### Moveset
 

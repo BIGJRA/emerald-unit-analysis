@@ -4,11 +4,11 @@ Treecko is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Treecko: **40** HP / **45** Atk / **35** Def / **65** SpA / **55** SpD / **70** Spe
+Treecko: **40** HP / **45** Atk / **35** Def / **65** SpA / **55** SpD / **70** Spe (310 BST)
 
-Grovyle: **50** HP / **65** Atk / **45** Def / **85** SpA / **65** SpD / **95** Spe
+Grovyle: **50** HP / **65** Atk / **45** Def / **85** SpA / **65** SpD / **95** Spe (405 BST)
 
-Sceptile: **70** HP / **85** Atk / **65** Def / **105** SpA / **85** SpD / **120** Spe
+Sceptile: **70** HP / **85** Atk / **65** Def / **105** SpA / **85** SpD / **120** Spe (530 BST)
 
 ### Moveset
 

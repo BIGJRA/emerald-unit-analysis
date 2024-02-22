@@ -4,7 +4,7 @@ Deoxys is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150** Spe
+Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150** Spe (600 BST)
 
 ### Moveset
 

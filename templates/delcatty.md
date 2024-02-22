@@ -4,9 +4,9 @@ Skitty is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Skitty: **50** HP / **45** Atk / **45** Def / **35** SpA / **35** SpD / **50** Spe
+Skitty: **50** HP / **45** Atk / **45** Def / **35** SpA / **35** SpD / **50** Spe (260 BST)
 
-Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70** Spe
+Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70** Spe (380 BST)
 
 ### Moveset
 

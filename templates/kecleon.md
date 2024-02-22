@@ -4,7 +4,7 @@ Kecleon is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Kecleon: **60** HP / **90** Atk / **70** Def / **60** SpA / **120** SpD / **40** Spe
+Kecleon: **60** HP / **90** Atk / **70** Def / **60** SpA / **120** SpD / **40** Spe (440 BST)
 
 ### Moveset
 

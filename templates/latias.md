@@ -4,7 +4,7 @@ Latias is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Latias: **80** HP / **80** Atk / **90** Def / **110** SpA / **130** SpD / **110** Spe
+Latias: **80** HP / **80** Atk / **90** Def / **110** SpA / **130** SpD / **110** Spe (600 BST)
 
 ### Moveset
 

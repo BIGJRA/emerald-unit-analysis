@@ -4,11 +4,11 @@ Oddish is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Oddish: **45** HP / **50** Atk / **55** Def / **75** SpA / **65** SpD / **30** Spe
+Oddish: **45** HP / **50** Atk / **55** Def / **75** SpA / **65** SpD / **30** Spe (320 BST)
 
-Gloom: **60** HP / **65** Atk / **70** Def / **85** SpA / **75** SpD / **40** Spe
+Gloom: **60** HP / **65** Atk / **70** Def / **85** SpA / **75** SpD / **40** Spe (395 BST)
 
-Vileplume: **75** HP / **80** Atk / **85** Def / **100** SpA / **90** SpD / **50** Spe
+Vileplume: **75** HP / **80** Atk / **85** Def / **100** SpA / **90** SpD / **50** Spe (480 BST)
 
 ### Moveset
 

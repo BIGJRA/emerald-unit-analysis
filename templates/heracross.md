@@ -4,7 +4,7 @@ Heracross is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Heracross: **80** HP / **125** Atk / **75** Def / **40** SpA / **95** SpD / **85** Spe
+Heracross: **80** HP / **125** Atk / **75** Def / **40** SpA / **95** SpD / **85** Spe (500 BST)
 
 ### Moveset
 

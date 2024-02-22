@@ -4,9 +4,9 @@ Wynaut is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Wynaut: **95** HP / **23** Atk / **48** Def / **23** SpA / **48** SpD / **23** Spe
+Wynaut: **95** HP / **23** Atk / **48** Def / **23** SpA / **48** SpD / **23** Spe (260 BST)
 
-Wobbuffet: **190** HP / **33** Atk / **58** Def / **33** SpA / **58** SpD / **33** Spe
+Wobbuffet: **190** HP / **33** Atk / **58** Def / **33** SpA / **58** SpD / **33** Spe (405 BST)
 
 ### Moveset
 

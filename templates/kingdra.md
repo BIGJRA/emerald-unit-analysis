@@ -4,11 +4,11 @@ Horsea is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Horsea: **30** HP / **40** Atk / **70** Def / **70** SpA / **25** SpD / **60** Spe
+Horsea: **30** HP / **40** Atk / **70** Def / **70** SpA / **25** SpD / **60** Spe (295 BST)
 
-Seadra: **55** HP / **65** Atk / **95** Def / **95** SpA / **45** SpD / **85** Spe
+Seadra: **55** HP / **65** Atk / **95** Def / **95** SpA / **45** SpD / **85** Spe (440 BST)
 
-Kingdra: **75** HP / **95** Atk / **95** Def / **95** SpA / **95** SpD / **85** Spe
+Kingdra: **75** HP / **95** Atk / **95** Def / **95** SpA / **95** SpD / **85** Spe (540 BST)
 
 ### Moveset
 

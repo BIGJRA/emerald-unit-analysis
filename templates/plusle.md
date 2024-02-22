@@ -4,7 +4,7 @@ Plusle is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Plusle: **60** HP / **50** Atk / **40** Def / **85** SpA / **75** SpD / **95** Spe
+Plusle: **60** HP / **50** Atk / **40** Def / **85** SpA / **75** SpD / **95** Spe (405 BST)
 
 ### Moveset
 

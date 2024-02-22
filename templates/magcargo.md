@@ -4,9 +4,9 @@ Slugma is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Slugma: **40** HP / **40** Atk / **40** Def / **70** SpA / **40** SpD / **20** Spe
+Slugma: **40** HP / **40** Atk / **40** Def / **70** SpA / **40** SpD / **20** Spe (250 BST)
 
-Magcargo: **50** HP / **50** Atk / **120** Def / **80** SpA / **80** SpD / **30** Spe
+Magcargo: **50** HP / **50** Atk / **120** Def / **80** SpA / **80** SpD / **30** Spe (410 BST)
 
 ### Moveset
 

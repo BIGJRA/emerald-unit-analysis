@@ -4,9 +4,9 @@ Tentacool is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Tentacool: **40** HP / **40** Atk / **35** Def / **50** SpA / **100** SpD / **70** Spe
+Tentacool: **40** HP / **40** Atk / **35** Def / **50** SpA / **100** SpD / **70** Spe (335 BST)
 
-Tentacruel: **80** HP / **70** Atk / **65** Def / **80** SpA / **120** SpD / **100** Spe
+Tentacruel: **80** HP / **70** Atk / **65** Def / **80** SpA / **120** SpD / **100** Spe (515 BST)
 
 ### Moveset
 

@@ -4,9 +4,9 @@ Makuhita is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Makuhita: **72** HP / **60** Atk / **30** Def / **20** SpA / **30** SpD / **25** Spe
+Makuhita: **72** HP / **60** Atk / **30** Def / **20** SpA / **30** SpD / **25** Spe (237 BST)
 
-Hariyama: **144** HP / **120** Atk / **60** Def / **40** SpA / **60** SpD / **50** Spe
+Hariyama: **144** HP / **120** Atk / **60** Def / **40** SpA / **60** SpD / **50** Spe (474 BST)
 
 ### Moveset
 

@@ -4,9 +4,9 @@ Sandshrew is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Sandshrew: **50** HP / **75** Atk / **85** Def / **20** SpA / **30** SpD / **40** Spe
+Sandshrew: **50** HP / **75** Atk / **85** Def / **20** SpA / **30** SpD / **40** Spe (300 BST)
 
-Sandslash: **75** HP / **100** Atk / **110** Def / **45** SpA / **55** SpD / **65** Spe
+Sandslash: **75** HP / **100** Atk / **110** Def / **45** SpA / **55** SpD / **65** Spe (450 BST)
 
 ### Moveset
 

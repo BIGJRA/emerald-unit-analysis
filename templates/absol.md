@@ -4,7 +4,7 @@ Absol is first obtained at TODO. It's ability is TODO. It evolves at TODO, then 
 
 ### Base Stats
 
-Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** Spe
+Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** Spe (465 BST)
 
 ### Moveset
 

@@ -4,11 +4,11 @@ Ralts is first obtained at TODO. It's ability is TODO. It evolves at TODO, then 
 
 ### Base Stats
 
-Ralts: **28** HP / **25** Atk / **25** Def / **45** SpA / **35** SpD / **40** Spe
+Ralts: **28** HP / **25** Atk / **25** Def / **45** SpA / **35** SpD / **40** Spe (198 BST)
 
-Kirlia: **38** HP / **35** Atk / **35** Def / **65** SpA / **55** SpD / **50** Spe
+Kirlia: **38** HP / **35** Atk / **35** Def / **65** SpA / **55** SpD / **50** Spe (278 BST)
 
-Gardevoir: **68** HP / **65** Atk / **65** Def / **125** SpA / **115** SpD / **80** Spe
+Gardevoir: **68** HP / **65** Atk / **65** Def / **125** SpA / **115** SpD / **80** Spe (518 BST)
 
 ### Moveset
 

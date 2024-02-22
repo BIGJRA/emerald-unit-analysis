@@ -4,7 +4,7 @@ Lunatone is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70** Spe
+Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70** Spe (440 BST)
 
 ### Moveset
 

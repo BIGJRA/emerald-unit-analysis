@@ -4,11 +4,11 @@ Wurmple is first obtained at TODO. It's ability is TODO. It evolves at TODO, the
 
 ### Base Stats
 
-Wurmple: **45** HP / **45** Atk / **35** Def / **20** SpA / **30** SpD / **20** Spe
+Wurmple: **45** HP / **45** Atk / **35** Def / **20** SpA / **30** SpD / **20** Spe (195 BST)
 
-Cascoon: **50** HP / **35** Atk / **55** Def / **25** SpA / **25** SpD / **15** Spe
+Cascoon: **50** HP / **35** Atk / **55** Def / **25** SpA / **25** SpD / **15** Spe (205 BST)
 
-Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** Spe
+Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** Spe (385 BST)
 
 ### Moveset
 

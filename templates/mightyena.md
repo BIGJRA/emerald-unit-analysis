@@ -4,9 +4,9 @@ Poochyena is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Poochyena: **35** HP / **55** Atk / **35** Def / **30** SpA / **30** SpD / **35** Spe
+Poochyena: **35** HP / **55** Atk / **35** Def / **30** SpA / **30** SpD / **35** Spe (220 BST)
 
-Mightyena: **70** HP / **90** Atk / **70** Def / **60** SpA / **60** SpD / **70** Spe
+Mightyena: **70** HP / **90** Atk / **70** Def / **60** SpA / **60** SpD / **70** Spe (420 BST)
 
 ### Moveset
 

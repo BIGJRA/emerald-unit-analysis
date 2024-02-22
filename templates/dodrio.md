@@ -4,9 +4,9 @@ Doduo is first obtained at TODO. It's ability is TODO. It evolves at TODO, then 
 
 ### Base Stats
 
-Doduo: **35** HP / **85** Atk / **45** Def / **35** SpA / **35** SpD / **75** Spe
+Doduo: **35** HP / **85** Atk / **45** Def / **35** SpA / **35** SpD / **75** Spe (310 BST)
 
-Dodrio: **60** HP / **110** Atk / **70** Def / **60** SpA / **60** SpD / **100** Spe
+Dodrio: **60** HP / **110** Atk / **70** Def / **60** SpA / **60** SpD / **100** Spe (460 BST)
 
 ### Moveset
 

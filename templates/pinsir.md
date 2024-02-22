@@ -4,7 +4,7 @@ Pinsir is first obtained at TODO. It's ability is TODO. It evolves at TODO, then
 
 ### Base Stats
 
-Pinsir: **65** HP / **125** Atk / **100** Def / **55** SpA / **70** SpD / **85** Spe
+Pinsir: **65** HP / **125** Atk / **100** Def / **55** SpA / **70** SpD / **85** Spe (500 BST)
 
 ### Moveset
 

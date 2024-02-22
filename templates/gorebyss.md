@@ -4,9 +4,9 @@ Clamperl is first obtained at TODO. It's ability is TODO. It evolves at TODO, th
 
 ### Base Stats
 
-Clamperl: **35** HP / **64** Atk / **85** Def / **74** SpA / **55** SpD / **32** Spe
+Clamperl: **35** HP / **64** Atk / **85** Def / **74** SpA / **55** SpD / **32** Spe (345 BST)
 
-Gorebyss: **55** HP / **84** Atk / **105** Def / **114** SpA / **75** SpD / **52** Spe
+Gorebyss: **55** HP / **84** Atk / **105** Def / **114** SpA / **75** SpD / **52** Spe (485 BST)
 
 ### Moveset
 

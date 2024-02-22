@@ -4,9 +4,9 @@ Electrike is first obtained at TODO. It's ability is TODO. It evolves at TODO, t
 
 ### Base Stats
 
-Electrike: **40** HP / **45** Atk / **40** Def / **65** SpA / **40** SpD / **65** Spe
+Electrike: **40** HP / **45** Atk / **40** Def / **65** SpA / **40** SpD / **65** Spe (295 BST)
 
-Manectric: **70** HP / **75** Atk / **60** Def / **105** SpA / **60** SpD / **105** Spe
+Manectric: **70** HP / **75** Atk / **60** Def / **105** SpA / **60** SpD / **105** Spe (475 BST)
 
 ### Moveset
 
