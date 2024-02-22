@@ -71,7 +71,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Zubat, Golbat, Crobat
 - [ ] Tentacool, Tentacruel
 - [x] Sableye
-- [ ] Mawile
+- [x] Mawile
 - [ ] Aron, Lairon, Aggron
 - [ ] Machop, Machoke, Machamp
 - [ ] Meditite, Medicham
