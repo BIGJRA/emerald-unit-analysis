@@ -74,7 +74,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Mawile
 - [ ] Aron, Lairon, Aggron
 - [ ] Machop, Machoke, Machamp
-- [ ] Meditite, Medicham
+- [x] Meditite, Medicham
 - [ ] Electrike, Manectric
 - [ ] Plusle
 - [ ] Minun
@@ -136,7 +136,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Clamperl, Gorebyss
 - [ ] Relicanth
 - [ ] Corsola
-- [ ] Chinchou, Lanturn
+- [x] Chinchou, Lanturn
 - [ ] Luvdisc
 - [ ] Horsea, Seadra, Kingdra
 - [x] Bagon, Shelgon, Salamence
