@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Shuppet line
 
-Shuppet is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Shuppet is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Shuppet: **44** HP / **75** Atk / **35** Def / **63** SpA / **33** SpD / **45** Spe (295 BST)
+Shuppet: **44** HP / **75** Atk / **35** Def / **63** SpA / **33** SpD / **45** Spe (**295** BST)
 
-Banette: **64** HP / **115** Atk / **65** Def / **83** SpA / **63** SpD / **65** Spe (455 BST)
+Banette: **64** HP / **115** Atk / **65** Def / **83** SpA / **63** SpD / **65** Spe (**455** BST)
 
 ### Moveset
 

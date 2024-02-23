@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Phanpy line
 
-Phanpy is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Phanpy is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Phanpy: **90** HP / **60** Atk / **60** Def / **40** SpA / **40** SpD / **40** Spe (330 BST)
+Phanpy: **90** HP / **60** Atk / **60** Def / **40** SpA / **40** SpD / **40** Spe (**330** BST)
 
-Donphan: **90** HP / **120** Atk / **120** Def / **60** SpA / **60** SpD / **50** Spe (500 BST)
+Donphan: **90** HP / **120** Atk / **120** Def / **60** SpA / **60** SpD / **50** Spe (**500** BST)
 
 ### Moveset
 

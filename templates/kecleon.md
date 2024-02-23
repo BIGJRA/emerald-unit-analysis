@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Kecleon line
 
-Kecleon is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Kecleon is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Kecleon: **60** HP / **90** Atk / **70** Def / **60** SpA / **120** SpD / **40** Spe (440 BST)
+Kecleon: **60** HP / **90** Atk / **70** Def / **60** SpA / **120** SpD / **40** Spe (**440** BST)
 
 ### Moveset
 

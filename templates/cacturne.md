@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Cacnea line
 
-Cacnea is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Cacnea is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Cacnea: **50** HP / **85** Atk / **40** Def / **85** SpA / **40** SpD / **35** Spe (335 BST)
+Cacnea: **50** HP / **85** Atk / **40** Def / **85** SpA / **40** SpD / **35** Spe (**335** BST)
 
-Cacturne: **70** HP / **115** Atk / **60** Def / **115** SpA / **60** SpD / **55** Spe (475 BST)
+Cacturne: **70** HP / **115** Atk / **60** Def / **115** SpA / **60** SpD / **55** Spe (**475** BST)
 
 ### Moveset
 

@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Girafarig line
 
-Girafarig is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Girafarig is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Girafarig: **70** HP / **80** Atk / **65** Def / **90** SpA / **65** SpD / **85** Spe (455 BST)
+Girafarig: **70** HP / **80** Atk / **65** Def / **90** SpA / **65** SpD / **85** Spe (**455** BST)
 
 ### Moveset
 

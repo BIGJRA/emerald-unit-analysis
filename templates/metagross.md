@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Beldum line
 
-Beldum is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Beldum is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Beldum: **40** HP / **55** Atk / **80** Def / **35** SpA / **60** SpD / **30** Spe (300 BST)
+Beldum: **40** HP / **55** Atk / **80** Def / **35** SpA / **60** SpD / **30** Spe (**300** BST)
 
-Metang: **60** HP / **75** Atk / **100** Def / **55** SpA / **80** SpD / **50** Spe (420 BST)
+Metang: **60** HP / **75** Atk / **100** Def / **55** SpA / **80** SpD / **50** Spe (**420** BST)
 
-Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **70** Spe (600 BST)
+Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **70** Spe (**600** BST)
 
 ### Moveset
 

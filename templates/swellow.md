@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Taillow line
 
-Taillow is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Taillow is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Taillow: **40** HP / **55** Atk / **30** Def / **30** SpA / **30** SpD / **85** Spe (270 BST)
+Taillow: **40** HP / **55** Atk / **30** Def / **30** SpA / **30** SpD / **85** Spe (**270** BST)
 
-Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125** Spe (430 BST)
+Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125** Spe (**430** BST)
 
 ### Moveset
 

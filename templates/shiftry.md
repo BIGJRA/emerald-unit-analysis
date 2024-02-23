@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Seedot line
 
-Seedot is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Seedot is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Seedot: **40** HP / **40** Atk / **50** Def / **30** SpA / **30** SpD / **30** Spe (220 BST)
+Seedot: **40** HP / **40** Atk / **50** Def / **30** SpA / **30** SpD / **30** Spe (**220** BST)
 
-Nuzleaf: **70** HP / **70** Atk / **40** Def / **60** SpA / **40** SpD / **60** Spe (340 BST)
+Nuzleaf: **70** HP / **70** Atk / **40** Def / **60** SpA / **40** SpD / **60** Spe (**340** BST)
 
-Shiftry: **90** HP / **100** Atk / **60** Def / **90** SpA / **60** SpD / **80** Spe (480 BST)
+Shiftry: **90** HP / **100** Atk / **60** Def / **90** SpA / **60** SpD / **80** Spe (**480** BST)
 
 ### Moveset
 

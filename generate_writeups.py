@@ -80,14 +80,14 @@ def generate_text(pokemon_names):
     lines = []
     first_mon = pokemon_names[0].capitalize()
     lines.append(f"# Pokemon Emerald Unit Feel Analysis: {first_mon} line\n")
-    lines.append(f"{first_mon} is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at "
+    lines.append(f"{first_mon} is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at "
                  f"TODO.\n")
     lines.append('### Base Stats\n')
     for mon in pokemon_names:
         j = get_json(mon)["stats"]
         total = sum([int(j[stat]) for stat in ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]])
         lines.append(
-            f"{mon.capitalize()}: **{j["HP"]}** HP / **{j["Attack"]}** Atk / **{j["Defense"]}** Def / **{j["Sp. Atk"]}** SpA / **{j["Sp. Def"]}** SpD / **{j["Speed"]}** Spe ({total} BST)\n")
+            f"{mon.capitalize()}: **{j["HP"]}** HP / **{j["Attack"]}** Atk / **{j["Defense"]}** Def / **{j["Sp. Atk"]}** SpA / **{j["Sp. Def"]}** SpD / **{j["Speed"]}** Spe (**{total}** BST)\n")
 
     lines.append('### Moveset\n')
 

@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Skarmory line
 
-Skarmory is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Skarmory is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Skarmory: **65** HP / **80** Atk / **140** Def / **40** SpA / **70** SpD / **70** Spe (465 BST)
+Skarmory: **65** HP / **80** Atk / **140** Def / **40** SpA / **70** SpD / **70** Spe (**465** BST)
 
 ### Moveset
 

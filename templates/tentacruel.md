@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Tentacool line
 
-Tentacool is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Tentacool is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Tentacool: **40** HP / **40** Atk / **35** Def / **50** SpA / **100** SpD / **70** Spe (335 BST)
+Tentacool: **40** HP / **40** Atk / **35** Def / **50** SpA / **100** SpD / **70** Spe (**335** BST)
 
-Tentacruel: **80** HP / **70** Atk / **65** Def / **80** SpA / **120** SpD / **100** Spe (515 BST)
+Tentacruel: **80** HP / **70** Atk / **65** Def / **80** SpA / **120** SpD / **100** Spe (**515** BST)
 
 ### Moveset
 

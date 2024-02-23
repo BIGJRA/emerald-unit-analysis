@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Magikarp line
 
-Magikarp is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Magikarp is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Magikarp: **20** HP / **10** Atk / **55** Def / **15** SpA / **20** SpD / **80** Spe (200 BST)
+Magikarp: **20** HP / **10** Atk / **55** Def / **15** SpA / **20** SpD / **80** Spe (**200** BST)
 
-Gyarados: **95** HP / **125** Atk / **79** Def / **60** SpA / **100** SpD / **81** Spe (540 BST)
+Gyarados: **95** HP / **125** Atk / **79** Def / **60** SpA / **100** SpD / **81** Spe (**540** BST)
 
 ### Moveset
 

@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Deoxys line
 
-Deoxys is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Deoxys is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150** Spe (600 BST)
+Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150** Spe (**600** BST)
 
 ### Moveset
 

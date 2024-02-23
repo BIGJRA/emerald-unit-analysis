@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Surskit line
 
-Surskit is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Surskit is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Surskit: **40** HP / **30** Atk / **32** Def / **50** SpA / **52** SpD / **65** Spe (269 BST)
+Surskit: **40** HP / **30** Atk / **32** Def / **50** SpA / **52** SpD / **65** Spe (**269** BST)
 
-Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60** Spe (414 BST)
+Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60** Spe (**414** BST)
 
 ### Moveset
 

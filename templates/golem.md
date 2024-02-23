@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Geodude line
 
-Geodude is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Geodude is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Geodude: **40** HP / **80** Atk / **100** Def / **30** SpA / **30** SpD / **20** Spe (300 BST)
+Geodude: **40** HP / **80** Atk / **100** Def / **30** SpA / **30** SpD / **20** Spe (**300** BST)
 
-Graveler: **55** HP / **95** Atk / **115** Def / **45** SpA / **45** SpD / **35** Spe (390 BST)
+Graveler: **55** HP / **95** Atk / **115** Def / **45** SpA / **45** SpD / **35** Spe (**390** BST)
 
-Golem: **80** HP / **110** Atk / **130** Def / **55** SpA / **65** SpD / **45** Spe (485 BST)
+Golem: **80** HP / **110** Atk / **130** Def / **55** SpA / **65** SpD / **45** Spe (**485** BST)
 
 ### Moveset
 

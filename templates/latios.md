@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Latios line
 
-Latios is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Latios is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110** Spe (600 BST)
+Latios: **80** HP / **90** Atk / **80** Def / **130** SpA / **110** SpD / **110** Spe (**600** BST)
 
 ### Moveset
 

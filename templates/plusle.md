@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Plusle line
 
-Plusle is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Plusle is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Plusle: **60** HP / **50** Atk / **40** Def / **85** SpA / **75** SpD / **95** Spe (405 BST)
+Plusle: **60** HP / **50** Atk / **40** Def / **85** SpA / **75** SpD / **95** Spe (**405** BST)
 
 ### Moveset
 

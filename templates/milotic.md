@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Feebas line
 
-Feebas is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Feebas is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Feebas: **20** HP / **15** Atk / **20** Def / **10** SpA / **55** SpD / **80** Spe (200 BST)
+Feebas: **20** HP / **15** Atk / **20** Def / **10** SpA / **55** SpD / **80** Spe (**200** BST)
 
-Milotic: **95** HP / **60** Atk / **79** Def / **100** SpA / **125** SpD / **81** Spe (540 BST)
+Milotic: **95** HP / **60** Atk / **79** Def / **100** SpA / **125** SpD / **81** Spe (**540** BST)
 
 ### Moveset
 

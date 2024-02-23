@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Castform line
 
-Castform is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Castform is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Castform: **70** HP / **70** Atk / **70** Def / **70** SpA / **70** SpD / **70** Spe (420 BST)
+Castform: **70** HP / **70** Atk / **70** Def / **70** SpA / **70** SpD / **70** Spe (**420** BST)
 
 ### Moveset
 

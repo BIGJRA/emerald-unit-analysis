@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Rhyhorn line
 
-Rhyhorn is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Rhyhorn is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Rhyhorn: **80** HP / **85** Atk / **95** Def / **30** SpA / **30** SpD / **25** Spe (345 BST)
+Rhyhorn: **80** HP / **85** Atk / **95** Def / **30** SpA / **30** SpD / **25** Spe (**345** BST)
 
-Rhydon: **105** HP / **130** Atk / **120** Def / **45** SpA / **45** SpD / **40** Spe (485 BST)
+Rhydon: **105** HP / **130** Atk / **120** Def / **45** SpA / **45** SpD / **40** Spe (**485** BST)
 
 ### Moveset
 

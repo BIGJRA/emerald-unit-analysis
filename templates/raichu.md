@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Pichu line
 
-Pichu is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Pichu is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Pichu: **20** HP / **40** Atk / **15** Def / **35** SpA / **35** SpD / **60** Spe (205 BST)
+Pichu: **20** HP / **40** Atk / **15** Def / **35** SpA / **35** SpD / **60** Spe (**205** BST)
 
-Pikachu: **35** HP / **55** Atk / **30** Def / **50** SpA / **40** SpD / **90** Spe (300 BST)
+Pikachu: **35** HP / **55** Atk / **30** Def / **50** SpA / **40** SpD / **90** Spe (**300** BST)
 
-Raichu: **60** HP / **90** Atk / **55** Def / **90** SpA / **80** SpD / **100** Spe (475 BST)
+Raichu: **60** HP / **90** Atk / **55** Def / **90** SpA / **80** SpD / **100** Spe (**475** BST)
 
 ### Moveset
 

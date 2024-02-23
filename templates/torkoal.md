@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Torkoal line
 
-Torkoal is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Torkoal is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Torkoal: **70** HP / **85** Atk / **140** Def / **85** SpA / **70** SpD / **20** Spe (470 BST)
+Torkoal: **70** HP / **85** Atk / **140** Def / **85** SpA / **70** SpD / **20** Spe (**470** BST)
 
 ### Moveset
 

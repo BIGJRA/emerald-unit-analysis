@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Absol line
 
-Absol is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Absol is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** Spe (465 BST)
+Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** Spe (**465** BST)
 
 ### Moveset
 

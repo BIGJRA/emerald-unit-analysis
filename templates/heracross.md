@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Heracross line
 
-Heracross is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Heracross is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Heracross: **80** HP / **125** Atk / **75** Def / **40** SpA / **95** SpD / **85** Spe (500 BST)
+Heracross: **80** HP / **125** Atk / **75** Def / **40** SpA / **95** SpD / **85** Spe (**500** BST)
 
 ### Moveset
 

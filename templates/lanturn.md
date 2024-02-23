@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Chinchou line
 
-Chinchou is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Chinchou is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Chinchou: **75** HP / **38** Atk / **38** Def / **56** SpA / **56** SpD / **67** Spe (330 BST)
+Chinchou: **75** HP / **38** Atk / **38** Def / **56** SpA / **56** SpD / **67** Spe (**330** BST)
 
-Lanturn: **125** HP / **58** Atk / **58** Def / **76** SpA / **76** SpD / **67** Spe (460 BST)
+Lanturn: **125** HP / **58** Atk / **58** Def / **76** SpA / **76** SpD / **67** Spe (**460** BST)
 
 ### Moveset
 

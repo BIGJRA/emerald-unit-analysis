@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Mawile line
 
-Mawile is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Mawile is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** Spe (380 BST)
+Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** Spe (**380** BST)
 
 ### Moveset
 

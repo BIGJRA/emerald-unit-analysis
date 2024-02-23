@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Nincada line
 
-Nincada is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Nincada is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Nincada: **31** HP / **45** Atk / **90** Def / **30** SpA / **30** SpD / **40** Spe (266 BST)
+Nincada: **31** HP / **45** Atk / **90** Def / **30** SpA / **30** SpD / **40** Spe (**266** BST)
 
-Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160** Spe (456 BST)
+Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160** Spe (**456** BST)
 
 ### Moveset
 

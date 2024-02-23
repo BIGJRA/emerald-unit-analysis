@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Voltorb line
 
-Voltorb is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Voltorb is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Voltorb: **40** HP / **30** Atk / **50** Def / **55** SpA / **55** SpD / **100** Spe (330 BST)
+Voltorb: **40** HP / **30** Atk / **50** Def / **55** SpA / **55** SpD / **100** Spe (**330** BST)
 
-Electrode: **60** HP / **50** Atk / **70** Def / **80** SpA / **80** SpD / **140** Spe (480 BST)
+Electrode: **60** HP / **50** Atk / **70** Def / **80** SpA / **80** SpD / **140** Spe (**480** BST)
 
 ### Moveset
 

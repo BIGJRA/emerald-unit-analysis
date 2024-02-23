@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Relicanth line
 
-Relicanth is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Relicanth is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Relicanth: **100** HP / **90** Atk / **130** Def / **45** SpA / **65** SpD / **55** Spe (485 BST)
+Relicanth: **100** HP / **90** Atk / **130** Def / **45** SpA / **65** SpD / **55** Spe (**485** BST)
 
 ### Moveset
 

@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Machop line
 
-Machop is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Machop is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Machop: **70** HP / **80** Atk / **50** Def / **35** SpA / **35** SpD / **35** Spe (305 BST)
+Machop: **70** HP / **80** Atk / **50** Def / **35** SpA / **35** SpD / **35** Spe (**305** BST)
 
-Machoke: **80** HP / **100** Atk / **70** Def / **50** SpA / **60** SpD / **45** Spe (405 BST)
+Machoke: **80** HP / **100** Atk / **70** Def / **50** SpA / **60** SpD / **45** Spe (**405** BST)
 
-Machamp: **90** HP / **130** Atk / **80** Def / **65** SpA / **85** SpD / **55** Spe (505 BST)
+Machamp: **90** HP / **130** Atk / **80** Def / **65** SpA / **85** SpD / **55** Spe (**505** BST)
 
 ### Moveset
 

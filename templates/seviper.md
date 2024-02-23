@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Seviper line
 
-Seviper is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Seviper is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65** Spe (458 BST)
+Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65** Spe (**458** BST)
 
 ### Moveset
 

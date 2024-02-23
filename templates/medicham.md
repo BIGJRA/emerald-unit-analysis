@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Meditite line
 
-Meditite is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Meditite is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Meditite: **30** HP / **40** Atk / **55** Def / **40** SpA / **55** SpD / **60** Spe (280 BST)
+Meditite: **30** HP / **40** Atk / **55** Def / **40** SpA / **55** SpD / **60** Spe (**280** BST)
 
-Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80** Spe (410 BST)
+Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80** Spe (**410** BST)
 
 ### Moveset
 

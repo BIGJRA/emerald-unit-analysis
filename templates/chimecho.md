@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Chimecho line
 
-Chimecho is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Chimecho is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65** Spe (425 BST)
+Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65** Spe (**425** BST)
 
 ### Moveset
 

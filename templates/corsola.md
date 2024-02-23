@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Corsola line
 
-Corsola is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Corsola is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** Spe (380 BST)
+Corsola: **55** HP / **55** Atk / **85** Def / **65** SpA / **85** SpD / **35** Spe (**380** BST)
 
 ### Moveset
 

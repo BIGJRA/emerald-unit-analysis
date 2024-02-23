@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Barboach line
 
-Barboach is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Barboach is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Barboach: **50** HP / **48** Atk / **43** Def / **46** SpA / **41** SpD / **60** Spe (288 BST)
+Barboach: **50** HP / **48** Atk / **43** Def / **46** SpA / **41** SpD / **60** Spe (**288** BST)
 
-Whiscash: **110** HP / **78** Atk / **73** Def / **76** SpA / **71** SpD / **60** Spe (468 BST)
+Whiscash: **110** HP / **78** Atk / **73** Def / **76** SpA / **71** SpD / **60** Spe (**468** BST)
 
 ### Moveset
 

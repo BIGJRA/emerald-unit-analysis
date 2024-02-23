@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Zangoose line
 
-Zangoose is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Zangoose is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Zangoose: **73** HP / **115** Atk / **60** Def / **60** SpA / **60** SpD / **90** Spe (458 BST)
+Zangoose: **73** HP / **115** Atk / **60** Def / **60** SpA / **60** SpD / **90** Spe (**458** BST)
 
 ### Moveset
 

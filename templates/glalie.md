@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Snorunt line
 
-Snorunt is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Snorunt is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Snorunt: **50** HP / **50** Atk / **50** Def / **50** SpA / **50** SpD / **50** Spe (300 BST)
+Snorunt: **50** HP / **50** Atk / **50** Def / **50** SpA / **50** SpD / **50** Spe (**300** BST)
 
-Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** Spe (480 BST)
+Glalie: **80** HP / **80** Atk / **80** Def / **80** SpA / **80** SpD / **80** Spe (**480** BST)
 
 ### Moveset
 

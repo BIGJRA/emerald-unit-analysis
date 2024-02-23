@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Rayquaza line
 
-Rayquaza is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Rayquaza is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **95** Spe (680 BST)
+Rayquaza: **105** HP / **150** Atk / **90** Def / **150** SpA / **90** SpD / **95** Spe (**680** BST)
 
 ### Moveset
 

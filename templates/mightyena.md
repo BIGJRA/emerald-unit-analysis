@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Poochyena line
 
-Poochyena is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Poochyena is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Poochyena: **35** HP / **55** Atk / **35** Def / **30** SpA / **30** SpD / **35** Spe (220 BST)
+Poochyena: **35** HP / **55** Atk / **35** Def / **30** SpA / **30** SpD / **35** Spe (**220** BST)
 
-Mightyena: **70** HP / **90** Atk / **70** Def / **60** SpA / **60** SpD / **70** Spe (420 BST)
+Mightyena: **70** HP / **90** Atk / **70** Def / **60** SpA / **60** SpD / **70** Spe (**420** BST)
 
 ### Moveset
 

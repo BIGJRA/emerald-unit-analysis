@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Clamperl line
 
-Clamperl is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Clamperl is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Clamperl: **35** HP / **64** Atk / **85** Def / **74** SpA / **55** SpD / **32** Spe (345 BST)
+Clamperl: **35** HP / **64** Atk / **85** Def / **74** SpA / **55** SpD / **32** Spe (**345** BST)
 
-Huntail: **55** HP / **104** Atk / **105** Def / **94** SpA / **75** SpD / **52** Spe (485 BST)
+Huntail: **55** HP / **104** Atk / **105** Def / **94** SpA / **75** SpD / **52** Spe (**485** BST)
 
 ### Moveset
 

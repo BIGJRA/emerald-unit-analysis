@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Carvanha line
 
-Carvanha is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Carvanha is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Carvanha: **45** HP / **90** Atk / **20** Def / **65** SpA / **20** SpD / **65** Spe (305 BST)
+Carvanha: **45** HP / **90** Atk / **20** Def / **65** SpA / **20** SpD / **65** Spe (**305** BST)
 
-Sharpedo: **70** HP / **120** Atk / **40** Def / **95** SpA / **40** SpD / **95** Spe (460 BST)
+Sharpedo: **70** HP / **120** Atk / **40** Def / **95** SpA / **40** SpD / **95** Spe (**460** BST)
 
 ### Moveset
 

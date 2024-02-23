@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Mew line
 
-Mew is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Mew is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Mew: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **100** Spe (600 BST)
+Mew: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **100** Spe (**600** BST)
 
 ### Moveset
 

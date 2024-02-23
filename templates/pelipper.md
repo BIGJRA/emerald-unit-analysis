@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Wingull line
 
-Wingull is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Wingull is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Wingull: **40** HP / **30** Atk / **30** Def / **55** SpA / **30** SpD / **85** Spe (270 BST)
+Wingull: **40** HP / **30** Atk / **30** Def / **55** SpA / **30** SpD / **85** Spe (**270** BST)
 
-Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65** Spe (430 BST)
+Pelipper: **60** HP / **50** Atk / **100** Def / **85** SpA / **70** SpD / **65** Spe (**430** BST)
 
 ### Moveset
 

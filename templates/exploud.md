@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Whismur line
 
-Whismur is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Whismur is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Whismur: **64** HP / **51** Atk / **23** Def / **51** SpA / **23** SpD / **28** Spe (240 BST)
+Whismur: **64** HP / **51** Atk / **23** Def / **51** SpA / **23** SpD / **28** Spe (**240** BST)
 
-Loudred: **84** HP / **71** Atk / **43** Def / **71** SpA / **43** SpD / **48** Spe (360 BST)
+Loudred: **84** HP / **71** Atk / **43** Def / **71** SpA / **43** SpD / **48** Spe (**360** BST)
 
-Exploud: **104** HP / **91** Atk / **63** Def / **91** SpA / **63** SpD / **68** Spe (480 BST)
+Exploud: **104** HP / **91** Atk / **63** Def / **91** SpA / **63** SpD / **68** Spe (**480** BST)
 
 ### Moveset
 

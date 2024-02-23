@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Baltoy line
 
-Baltoy is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Baltoy is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Baltoy: **40** HP / **40** Atk / **55** Def / **40** SpA / **70** SpD / **55** Spe (300 BST)
+Baltoy: **40** HP / **40** Atk / **55** Def / **40** SpA / **70** SpD / **55** Spe (**300** BST)
 
-Claydol: **60** HP / **70** Atk / **105** Def / **70** SpA / **120** SpD / **75** Spe (500 BST)
+Claydol: **60** HP / **70** Atk / **105** Def / **70** SpA / **120** SpD / **75** Spe (**500** BST)
 
 ### Moveset
 

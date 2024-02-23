@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Shroomish line
 
-Shroomish is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Shroomish is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Shroomish: **60** HP / **40** Atk / **60** Def / **40** SpA / **60** SpD / **35** Spe (295 BST)
+Shroomish: **60** HP / **40** Atk / **60** Def / **40** SpA / **60** SpD / **35** Spe (**295** BST)
 
-Breloom: **60** HP / **130** Atk / **80** Def / **60** SpA / **60** SpD / **70** Spe (460 BST)
+Breloom: **60** HP / **130** Atk / **80** Def / **60** SpA / **60** SpD / **70** Spe (**460** BST)
 
 ### Moveset
 

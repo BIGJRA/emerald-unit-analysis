@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Makuhita line
 
-Makuhita is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Makuhita is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Makuhita: **72** HP / **60** Atk / **30** Def / **20** SpA / **30** SpD / **25** Spe (237 BST)
+Makuhita: **72** HP / **60** Atk / **30** Def / **20** SpA / **30** SpD / **25** Spe (**237** BST)
 
-Hariyama: **144** HP / **120** Atk / **60** Def / **40** SpA / **60** SpD / **50** Spe (474 BST)
+Hariyama: **144** HP / **120** Atk / **60** Def / **40** SpA / **60** SpD / **50** Spe (**474** BST)
 
 ### Moveset
 

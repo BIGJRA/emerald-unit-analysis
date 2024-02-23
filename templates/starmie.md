@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Staryu line
 
-Staryu is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Staryu is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Staryu: **30** HP / **45** Atk / **55** Def / **70** SpA / **55** SpD / **85** Spe (340 BST)
+Staryu: **30** HP / **45** Atk / **55** Def / **70** SpA / **55** SpD / **85** Spe (**340** BST)
 
-Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115** Spe (520 BST)
+Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115** Spe (**520** BST)
 
 ### Moveset
 

@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Duskull line
 
-Duskull is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Duskull is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Duskull: **20** HP / **40** Atk / **90** Def / **30** SpA / **90** SpD / **25** Spe (295 BST)
+Duskull: **20** HP / **40** Atk / **90** Def / **30** SpA / **90** SpD / **25** Spe (**295** BST)
 
-Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25** Spe (455 BST)
+Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25** Spe (**455** BST)
 
 ### Moveset
 

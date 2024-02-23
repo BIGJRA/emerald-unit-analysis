@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Gulpin line
 
-Gulpin is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Gulpin is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Gulpin: **70** HP / **43** Atk / **53** Def / **43** SpA / **53** SpD / **40** Spe (302 BST)
+Gulpin: **70** HP / **43** Atk / **53** Def / **43** SpA / **53** SpD / **40** Spe (**302** BST)
 
-Swalot: **100** HP / **73** Atk / **83** Def / **73** SpA / **83** SpD / **55** Spe (467 BST)
+Swalot: **100** HP / **73** Atk / **83** Def / **73** SpA / **83** SpD / **55** Spe (**467** BST)
 
 ### Moveset
 

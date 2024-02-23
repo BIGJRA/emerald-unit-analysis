@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Roselia line
 
-Roselia is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Roselia is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65** Spe (400 BST)
+Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65** Spe (**400** BST)
 
 ### Moveset
 

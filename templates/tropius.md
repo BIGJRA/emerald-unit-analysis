@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Tropius line
 
-Tropius is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Tropius is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Tropius: **99** HP / **68** Atk / **83** Def / **72** SpA / **87** SpD / **51** Spe (460 BST)
+Tropius: **99** HP / **68** Atk / **83** Def / **72** SpA / **87** SpD / **51** Spe (**460** BST)
 
 ### Moveset
 

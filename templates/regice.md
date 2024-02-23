@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Regice line
 
-Regice is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Regice is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Regice: **80** HP / **50** Atk / **100** Def / **100** SpA / **200** SpD / **50** Spe (580 BST)
+Regice: **80** HP / **50** Atk / **100** Def / **100** SpA / **200** SpD / **50** Spe (**580** BST)
 
 ### Moveset
 

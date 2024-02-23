@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Spinda line
 
-Spinda is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Spinda is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Spinda: **60** HP / **60** Atk / **60** Def / **60** SpA / **60** SpD / **60** Spe (360 BST)
+Spinda: **60** HP / **60** Atk / **60** Def / **60** SpA / **60** SpD / **60** Spe (**360** BST)
 
 ### Moveset
 

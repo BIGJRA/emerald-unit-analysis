@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Registeel line
 
-Registeel is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Registeel is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Registeel: **80** HP / **75** Atk / **150** Def / **75** SpA / **150** SpD / **50** Spe (580 BST)
+Registeel: **80** HP / **75** Atk / **150** Def / **75** SpA / **150** SpD / **50** Spe (**580** BST)
 
 ### Moveset
 

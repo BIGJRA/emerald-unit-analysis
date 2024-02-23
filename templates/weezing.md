@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Koffing line
 
-Koffing is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Koffing is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Koffing: **40** HP / **65** Atk / **95** Def / **60** SpA / **45** SpD / **35** Spe (340 BST)
+Koffing: **40** HP / **65** Atk / **95** Def / **60** SpA / **45** SpD / **35** Spe (**340** BST)
 
-Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60** Spe (490 BST)
+Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60** Spe (**490** BST)
 
 ### Moveset
 

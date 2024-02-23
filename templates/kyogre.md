@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Kyogre line
 
-Kyogre is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Kyogre is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Kyogre: **100** HP / **100** Atk / **90** Def / **150** SpA / **140** SpD / **90** Spe (670 BST)
+Kyogre: **100** HP / **100** Atk / **90** Def / **150** SpA / **140** SpD / **90** Spe (**670** BST)
 
 ### Moveset
 

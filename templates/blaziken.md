@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Torchic line
 
-Torchic is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Torchic is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Torchic: **45** HP / **60** Atk / **40** Def / **70** SpA / **50** SpD / **45** Spe (310 BST)
+Torchic: **45** HP / **60** Atk / **40** Def / **70** SpA / **50** SpD / **45** Spe (**310** BST)
 
-Combusken: **60** HP / **85** Atk / **60** Def / **85** SpA / **60** SpD / **55** Spe (405 BST)
+Combusken: **60** HP / **85** Atk / **60** Def / **85** SpA / **60** SpD / **55** Spe (**405** BST)
 
-Blaziken: **80** HP / **120** Atk / **70** Def / **110** SpA / **70** SpD / **80** Spe (530 BST)
+Blaziken: **80** HP / **120** Atk / **70** Def / **110** SpA / **70** SpD / **80** Spe (**530** BST)
 
 ### Moveset
 

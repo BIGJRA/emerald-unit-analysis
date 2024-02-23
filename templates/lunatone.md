@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Lunatone line
 
-Lunatone is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Lunatone is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70** Spe (440 BST)
+Lunatone: **70** HP / **55** Atk / **65** Def / **95** SpA / **85** SpD / **70** Spe (**440** BST)
 
 ### Moveset
 

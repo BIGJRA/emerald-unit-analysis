@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Numel line
 
-Numel is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Numel is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Numel: **60** HP / **60** Atk / **40** Def / **65** SpA / **45** SpD / **35** Spe (305 BST)
+Numel: **60** HP / **60** Atk / **40** Def / **65** SpA / **45** SpD / **35** Spe (**305** BST)
 
-Camerupt: **70** HP / **100** Atk / **70** Def / **105** SpA / **75** SpD / **40** Spe (460 BST)
+Camerupt: **70** HP / **100** Atk / **70** Def / **105** SpA / **75** SpD / **40** Spe (**460** BST)
 
 ### Moveset
 

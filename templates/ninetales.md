@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Vulpix line
 
-Vulpix is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Vulpix is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Vulpix: **38** HP / **41** Atk / **40** Def / **50** SpA / **65** SpD / **65** Spe (299 BST)
+Vulpix: **38** HP / **41** Atk / **40** Def / **50** SpA / **65** SpD / **65** Spe (**299** BST)
 
-Ninetales: **73** HP / **76** Atk / **75** Def / **81** SpA / **100** SpD / **100** Spe (505 BST)
+Ninetales: **73** HP / **76** Atk / **75** Def / **81** SpA / **100** SpD / **100** Spe (**505** BST)
 
 ### Moveset
 

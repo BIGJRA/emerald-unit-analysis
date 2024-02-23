@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Psyduck line
 
-Psyduck is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Psyduck is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Psyduck: **50** HP / **52** Atk / **48** Def / **65** SpA / **50** SpD / **55** Spe (320 BST)
+Psyduck: **50** HP / **52** Atk / **48** Def / **65** SpA / **50** SpD / **55** Spe (**320** BST)
 
-Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** Spe (500 BST)
+Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** Spe (**500** BST)
 
 ### Moveset
 

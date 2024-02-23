@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Swablu line
 
-Swablu is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Swablu is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Swablu: **45** HP / **40** Atk / **60** Def / **40** SpA / **75** SpD / **50** Spe (310 BST)
+Swablu: **45** HP / **40** Atk / **60** Def / **40** SpA / **75** SpD / **50** Spe (**310** BST)
 
-Altaria: **75** HP / **70** Atk / **90** Def / **70** SpA / **105** SpD / **80** Spe (490 BST)
+Altaria: **75** HP / **70** Atk / **90** Def / **70** SpA / **105** SpD / **80** Spe (**490** BST)
 
 ### Moveset
 

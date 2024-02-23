@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Sableye line
 
-Sableye is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Sableye is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Sableye: **50** HP / **75** Atk / **75** Def / **65** SpA / **65** SpD / **50** Spe (380 BST)
+Sableye: **50** HP / **75** Atk / **75** Def / **65** SpA / **65** SpD / **50** Spe (**380** BST)
 
 ### Moveset
 

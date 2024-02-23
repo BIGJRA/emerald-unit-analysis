@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Aron line
 
-Aron is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Aron is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Aron: **50** HP / **70** Atk / **100** Def / **40** SpA / **40** SpD / **30** Spe (330 BST)
+Aron: **50** HP / **70** Atk / **100** Def / **40** SpA / **40** SpD / **30** Spe (**330** BST)
 
-Lairon: **60** HP / **90** Atk / **140** Def / **50** SpA / **50** SpD / **40** Spe (430 BST)
+Lairon: **60** HP / **90** Atk / **140** Def / **50** SpA / **50** SpD / **40** Spe (**430** BST)
 
-Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50** Spe (530 BST)
+Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50** Spe (**530** BST)
 
 ### Moveset
 

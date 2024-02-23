@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Nosepass line
 
-Nosepass is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Nosepass is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30** Spe (375 BST)
+Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30** Spe (**375** BST)
 
 ### Moveset
 

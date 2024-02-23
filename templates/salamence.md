@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Bagon line
 
-Bagon is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Bagon is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Bagon: **45** HP / **75** Atk / **60** Def / **40** SpA / **30** SpD / **50** Spe (300 BST)
+Bagon: **45** HP / **75** Atk / **60** Def / **40** SpA / **30** SpD / **50** Spe (**300** BST)
 
-Shelgon: **65** HP / **95** Atk / **100** Def / **60** SpA / **50** SpD / **50** Spe (420 BST)
+Shelgon: **65** HP / **95** Atk / **100** Def / **60** SpA / **50** SpD / **50** Spe (**420** BST)
 
-Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **100** Spe (600 BST)
+Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **100** Spe (**600** BST)
 
 ### Moveset
 

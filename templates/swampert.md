@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Mudkip line
 
-Mudkip is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Mudkip is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Mudkip: **50** HP / **70** Atk / **50** Def / **50** SpA / **50** SpD / **40** Spe (310 BST)
+Mudkip: **50** HP / **70** Atk / **50** Def / **50** SpA / **50** SpD / **40** Spe (**310** BST)
 
-Marshtomp: **70** HP / **85** Atk / **70** Def / **60** SpA / **70** SpD / **50** Spe (405 BST)
+Marshtomp: **70** HP / **85** Atk / **70** Def / **60** SpA / **70** SpD / **50** Spe (**405** BST)
 
-Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60** Spe (535 BST)
+Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60** Spe (**535** BST)
 
 ### Moveset
 

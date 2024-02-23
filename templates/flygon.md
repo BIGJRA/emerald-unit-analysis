@@ -1,14 +1,14 @@
 # Pokemon Emerald Unit Feel Analysis: Trapinch line
 
-Trapinch is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Trapinch is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Trapinch: **45** HP / **100** Atk / **45** Def / **45** SpA / **45** SpD / **10** Spe (290 BST)
+Trapinch: **45** HP / **100** Atk / **45** Def / **45** SpA / **45** SpD / **10** Spe (**290** BST)
 
-Vibrava: **50** HP / **70** Atk / **50** Def / **50** SpA / **50** SpD / **70** Spe (340 BST)
+Vibrava: **50** HP / **70** Atk / **50** Def / **50** SpA / **50** SpD / **70** Spe (**340** BST)
 
-Flygon: **80** HP / **100** Atk / **80** Def / **80** SpA / **80** SpD / **100** Spe (520 BST)
+Flygon: **80** HP / **100** Atk / **80** Def / **80** SpA / **80** SpD / **100** Spe (**520** BST)
 
 ### Moveset
 

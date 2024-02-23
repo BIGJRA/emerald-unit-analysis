@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Pinsir line
 
-Pinsir is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Pinsir is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Pinsir: **65** HP / **125** Atk / **100** Def / **55** SpA / **70** SpD / **85** Spe (500 BST)
+Pinsir: **65** HP / **125** Atk / **100** Def / **55** SpA / **70** SpD / **85** Spe (**500** BST)
 
 ### Moveset
 

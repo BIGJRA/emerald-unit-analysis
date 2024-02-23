@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Latias line
 
-Latias is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Latias is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Latias: **80** HP / **80** Atk / **90** Def / **110** SpA / **130** SpD / **110** Spe (600 BST)
+Latias: **80** HP / **80** Atk / **90** Def / **110** SpA / **130** SpD / **110** Spe (**600** BST)
 
 ### Moveset
 

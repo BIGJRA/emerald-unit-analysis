@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Minun line
 
-Minun is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Minun is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Spe (405 BST)
+Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Spe (**405** BST)
 
 ### Moveset
 

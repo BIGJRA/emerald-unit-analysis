@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Skitty line
 
-Skitty is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Skitty is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Skitty: **50** HP / **45** Atk / **45** Def / **35** SpA / **35** SpD / **50** Spe (260 BST)
+Skitty: **50** HP / **45** Atk / **45** Def / **35** SpA / **35** SpD / **50** Spe (**260** BST)
 
-Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70** Spe (380 BST)
+Delcatty: **70** HP / **65** Atk / **65** Def / **55** SpA / **55** SpD / **70** Spe (**380** BST)
 
 ### Moveset
 

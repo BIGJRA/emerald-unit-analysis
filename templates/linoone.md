@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Zigzagoon line
 
-Zigzagoon is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Zigzagoon is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Zigzagoon: **38** HP / **30** Atk / **41** Def / **30** SpA / **41** SpD / **60** Spe (240 BST)
+Zigzagoon: **38** HP / **30** Atk / **41** Def / **30** SpA / **41** SpD / **60** Spe (**240** BST)
 
-Linoone: **78** HP / **70** Atk / **61** Def / **50** SpA / **61** SpD / **100** Spe (420 BST)
+Linoone: **78** HP / **70** Atk / **61** Def / **50** SpA / **61** SpD / **100** Spe (**420** BST)
 
 ### Moveset
 

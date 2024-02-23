@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Lileep line
 
-Lileep is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Lileep is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Lileep: **66** HP / **41** Atk / **77** Def / **61** SpA / **87** SpD / **23** Spe (355 BST)
+Lileep: **66** HP / **41** Atk / **77** Def / **61** SpA / **87** SpD / **23** Spe (**355** BST)
 
-Cradily: **86** HP / **81** Atk / **97** Def / **81** SpA / **107** SpD / **43** Spe (495 BST)
+Cradily: **86** HP / **81** Atk / **97** Def / **81** SpA / **107** SpD / **43** Spe (**495** BST)
 
 ### Moveset
 

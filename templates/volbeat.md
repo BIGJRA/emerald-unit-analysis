@@ -1,10 +1,10 @@
 # Pokemon Emerald Unit Feel Analysis: Volbeat line
 
-Volbeat is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Volbeat is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Volbeat: **65** HP / **73** Atk / **55** Def / **47** SpA / **75** SpD / **85** Spe (400 BST)
+Volbeat: **65** HP / **73** Atk / **55** Def / **47** SpA / **75** SpD / **85** Spe (**400** BST)
 
 ### Moveset
 

@@ -1,12 +1,12 @@
 # Pokemon Emerald Unit Feel Analysis: Spoink line
 
-Spoink is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Spoink is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
-Spoink: **60** HP / **25** Atk / **35** Def / **70** SpA / **80** SpD / **60** Spe (330 BST)
+Spoink: **60** HP / **25** Atk / **35** Def / **70** SpA / **80** SpD / **60** Spe (**330** BST)
 
-Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80** Spe (470 BST)
+Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80** Spe (**470** BST)
 
 ### Moveset
 
