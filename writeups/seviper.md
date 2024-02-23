@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Seviper line
 
-Seviper is first obtained at Route 114 at Lv. 15 - 17, but is not available in Ruby. Its ability is Shed Skin.
+Seviper is first obtained at Route 114 at Lv. 15 - 17, but is not available in Ruby. It is a single stage Poison type with ability Shed Skin.
 
 ### Base Stats
 

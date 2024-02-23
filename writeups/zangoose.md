@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Zangoose line
 
-Zangoose is a single-stage Pokemon, first obtained on Route 114 at Lv. 17-19, but only in Ruby. It's ability is Immunity.
+Zangoose is a single-stage Normal type Pokemon, first obtained on Route 114 at Lv. 17-19, but only in Ruby. It's ability is Immunity.
 
 ### Base Stats
 

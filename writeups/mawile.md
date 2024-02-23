@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Mawile line
 
-Mawile is a single stage Pokemon. It is obtainable early in Ruby: in the Granite Cave at Lv. 9-12. It is also available in Emerald, but only in Victory Road (Lv. 44 at most) right before the end of the game. It's abilities are Intimidate and Hyper Cutter.
+Mawile is a single stage Steel type Pokemon. It is obtainable early in Ruby: in the Granite Cave at Lv. 9-12. It is also available in Emerald, but only in Victory Road (Lv. 44 at most) right before the end of the game. It's abilities are Intimidate and Hyper Cutter.
 
 ### Base Stats
 

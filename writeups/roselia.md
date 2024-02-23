@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Roselia line
 
-Roselia is first obtained at Lv. 13-14 on Route 117, but not in Emerald. Its ability is Natural Cure or Poison Point. In this generation, it doesn't evolve.
+Roselia is a Grass/Poison Pokemon, first obtained at Lv. 13-14 on Route 117, but not in Emerald. Its ability is Natural Cure or Poison Point. In this generation, it doesn't evolve.
 
 ### Base Stats
 
