@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Doduo line
 
-Doduo is first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Doduo is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 

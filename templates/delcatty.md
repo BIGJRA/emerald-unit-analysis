@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Skitty line
 
-Skitty is first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Skitty is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 

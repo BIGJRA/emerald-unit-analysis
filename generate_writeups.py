@@ -80,7 +80,7 @@ def generate_text(pokemon_names):
     lines = []
     first_mon = pokemon_names[0].capitalize()
     lines.append(f"# Pokemon Emerald Unit Feel Analysis: {first_mon} line\n")
-    lines.append(f"{first_mon} is first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at "
+    lines.append(f"{first_mon} is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at "
                  f"TODO.\n")
     lines.append('### Base Stats\n')
     for mon in pokemon_names:

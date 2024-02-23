@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Zigzagoon line
 
-Zigzagoon is first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Zigzagoon is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 

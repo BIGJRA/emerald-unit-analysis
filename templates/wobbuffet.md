@@ -1,6 +1,6 @@
 # Pokemon Emerald Unit Feel Analysis: Wynaut line
 
-Wynaut is first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
+Wynaut is a TODO type Pokemon, first obtained at TODO. It's ability is TODO. It evolves at TODO, then again at TODO.
 
 ### Base Stats
 
