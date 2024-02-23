@@ -4,7 +4,7 @@ Roselia is a Grass/Poison Pokemon, first obtained at Lv. 13-14 on Route 117, but
 
 ### Base Stats
 
-Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65** Spe (400 BST)
+Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65** Spe (**400** BST)
 
 ### Moveset
 

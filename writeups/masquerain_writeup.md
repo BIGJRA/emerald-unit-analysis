@@ -6,9 +6,9 @@ Surskit's typing is Bug/Water and its ability is _Swift Swim_. It evolves at Lv.
 
 ### Base Stats
 
-Surskit: **40** HP / **30** Atk / **32** Def / **50** SpA / **52** SpD / **65** Spe (269 BST)
+Surskit: **40** HP / **30** Atk / **32** Def / **50** SpA / **52** SpD / **65** Spe (**269** BST)
 
-Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60** Spe (414 BST)
+Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60** Spe (**414** BST)
 
 ### Moveset
 

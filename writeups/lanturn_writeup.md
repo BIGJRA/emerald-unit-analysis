@@ -4,9 +4,9 @@ Chinchou is a Water/Electric type Pokemon first obtained underwater, between Lv.
 
 ### Base Stats
 
-Chinchou: **75** HP / **38** Atk / **38** Def / **56** SpA / **56** SpD / **67** Spe (330 BST)
+Chinchou: **75** HP / **38** Atk / **38** Def / **56** SpA / **56** SpD / **67** Spe (**330** BST)
 
-Lanturn: **125** HP / **58** Atk / **58** Def / **76** SpA / **76** SpD / **67** Spe (460 BST)
+Lanturn: **125** HP / **58** Atk / **58** Def / **76** SpA / **76** SpD / **67** Spe (**460** BST)
 
 ### Moveset
 

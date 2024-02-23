@@ -4,11 +4,11 @@ Mudkip is a starter obtained at Lv. 5 on Route 101, at Level 5. It is a Water ty
 
 ### Base Stats
 
-Mudkip: **50** HP / **70** Atk / **50** Def / **50** SpA / **50** SpD / **40** Spe (310 BST)
+Mudkip: **50** HP / **70** Atk / **50** Def / **50** SpA / **50** SpD / **40** Spe (**310** BST)
 
-Marshtomp: **70** HP / **85** Atk / **70** Def / **60** SpA / **70** SpD / **50** Spe (405 BST)
+Marshtomp: **70** HP / **85** Atk / **70** Def / **60** SpA / **70** SpD / **50** Spe (**405** BST)
 
-Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60** Spe (535 BST)
+Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60** Spe (**535** BST)
 
 ### Moveset
 
