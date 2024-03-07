@@ -148,5 +148,3 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Kyogre
 - [ ] Groudon
 - [ ] Rayquaza
-- [ ] Jirachi
-- [ ] Deoxys
