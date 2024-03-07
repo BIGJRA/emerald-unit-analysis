@@ -76,8 +76,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Machop, Machoke, Machamp
 - [x] Meditite, Medicham
 - [ ] Electrike, Manectric
-- [ ] Plusle
-- [ ] Minun
+- [x] Plusle / Minun
 - [ ] Magnemite, Magneton
 - [ ] Voltorb, Electrode
 - [ ] Volbeat
