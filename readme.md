@@ -49,7 +49,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Zigzagoon, Linoone
 - [ ] Wurmple, Silcoon, Beautifly
 - [ ] Wurmple, Cascoon, Dustox
-- [ ] Lotad, Lombre, Ludicolo
+- [x] Lotad, Lombre, Ludicolo
 - [ ] Seedot, Nuzleaf, Shiftry
 - [x] Taillow, Swellow
 - [ ] Wingull, Pelipper
@@ -68,7 +68,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Geodude, Graveler, Golem
 - [ ] Nosepass
 - [ ] Skitty, Delcatty
-- [ ] Zubat, Golbat, Crobat
+- [x] Zubat, Golbat, Crobat
 - [ ] Tentacool, Tentacruel
 - [x] Sableye
 - [x] Mawile
@@ -136,7 +136,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Relicanth
 - [ ] Corsola
 - [x] Chinchou, Lanturn
-- [ ] Luvdisc
+- [x] Luvdisc
 - [ ] Horsea, Seadra, Kingdra
 - [x] Bagon, Shelgon, Salamence
 - [ ] Beldum, Metang, Metagross
