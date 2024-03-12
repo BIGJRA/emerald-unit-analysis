@@ -61,6 +61,5 @@ Sableye: **50** HP / **75** Atk / **75** Def / **65** SpA / **65** SpD / **50** 
 |TM03       |Water Pulse |Water   |60   |100%    |20 |                         |
 |Lv. 45     |Mean Look   |Normal  |--   |--%     |5  |                         |
 |TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

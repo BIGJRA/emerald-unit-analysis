@@ -53,6 +53,5 @@ Chimecho: **65** HP / **50** Atk / **70** Def / **95** SpA / **80** SpD / **65**
 |TM18       |Rain Dance  |Water   |--   |--%     |5  |                         |
 |Lv. 46     |Psychic     |Psychic |90   |100%    |10 |                         |
 |TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

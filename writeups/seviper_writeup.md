@@ -49,7 +49,6 @@ Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65*
 | TM26        | Earthquake   | Ground   | 100   | 100%     | 10 |                    |
 | Lv. 43      | Haze         | Ice      | --    | --%      | 30 |                    |
 | TM23        | Iron Tail    | Steel    | 100   | 75%      | 15 |                    |
-| TM49        | Snatch       | Dark     | --    | --%      | 10 |                    |
 
 ### Analysis
 

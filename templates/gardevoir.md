@@ -57,7 +57,6 @@ Gardevoir: **68** HP / **65** Atk / **65** Def / **125** SpA / **115** SpD / **8
 |Lv. 36 / Lv. 40 / Lv. 42|Future Sight|Psychic |80   |90%     |15 |                         |
 |TM29                    |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 41 / Lv. 47 / Lv. 51|Hypnosis    |Psychic |--   |60%     |20 |                         |
-|TM49                    |Snatch      |Dark    |--   |--%     |10 |                         |
 |Lv. 46 / Lv. 54 / Lv. 60|Dream Eater |Psychic |100  |100%    |15 |                         |
 
 ### Analysis

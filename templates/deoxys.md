@@ -65,6 +65,5 @@ Deoxys: **50** HP / **150** Atk / **50** Def / **150** SpA / **50** SpD / **150*
 |Lv. 45     |Psycho Boost|Psychic |140  |90%     |5  |                         |
 |TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 50     |Hyper Beam  |Normal  |150  |90%     |5  |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

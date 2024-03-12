@@ -50,6 +50,5 @@ Huntail: **55** HP / **104** Atk / **105** Def / **94** SpA / **75** SpD / **52*
 |HM07       |Waterfall   |Water  |80   |100%    |15 |                         |
 |TM03       |Water Pulse |Water  |60   |100%    |20 |                         |
 |-- / Lv. 50|Hydro Pump  |Water  |120  |80%     |5  |                         |
-|-- / TM49  |Snatch      |Dark   |--   |--%     |10 |                         |
 
 ### Analysis

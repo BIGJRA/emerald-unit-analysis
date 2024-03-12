@@ -57,7 +57,6 @@ Spinda: **60** HP / **60** Atk / **60** Def / **60** SpA / **60** SpD / **60** S
 |Lv. 45     |Double-Edge |Normal  |120  |100%    |15 |                         |
 |TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 49     |Flail       |Normal  |--   |100%    |15 |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 |Lv. 56     |Thrash      |Normal  |90   |100%    |20 |                         |
 
 ### Analysis

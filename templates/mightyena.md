@@ -52,6 +52,5 @@ Mightyena: **70** HP / **90** Atk / **70** Def / **60** SpA / **60** SpD / **70*
 |TM23           |Iron Tail   |Steel   |100  |75%     |15 |                         |
 |Lv. 41 / Lv. 47|Crunch      |Dark    |80   |100%    |15 |                         |
 |Lv. 45 / Lv. 52|Thief       |Dark    |40   |100%    |10 |                         |
-|TM49           |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

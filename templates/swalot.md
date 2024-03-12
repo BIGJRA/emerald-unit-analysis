@@ -57,6 +57,5 @@ Swalot: **100** HP / **73** Atk / **83** Def / **73** SpA / **83** SpD / **55** 
 |TM18           |Rain Dance  |Water   |--   |--%     |5  |                         |
 |TM03           |Water Pulse |Water   |60   |100%    |20 |                         |
 |Lv. 39 / Lv. 48|Sludge Bomb |Poison  |90   |100%    |10 |                         |
-|TM49           |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

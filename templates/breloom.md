@@ -60,6 +60,5 @@ Breloom: **60** HP / **130** Atk / **80** Def / **60** SpA / **60** SpD / **70**
 |-- / Lv. 45|Mind Reader |Normal  |--   |100%    |5  |                         |
 |-- / Lv. 54|DynamicPunch|Fighting|100  |50%     |5  |                         |
 |Lv. 54 / --|Spore       |Grass   |--   |100%    |15 |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

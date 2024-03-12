@@ -64,6 +64,5 @@ Absol: **65** HP / **130** Atk / **60** Def / **75** SpA / **60** SpD / **75** S
 |TM03       |Water Pulse |Water   |60   |100%    |20 |                         |
 |TM23       |Iron Tail   |Steel   |100  |75%     |15 |                         |
 |Lv. 46     |Perish Song |Normal  |--   |--%     |5  |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

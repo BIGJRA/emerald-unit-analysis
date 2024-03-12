@@ -68,6 +68,5 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 |-- / Lv. 44 / --     |Hyper Voice |Normal  |90   |100%    |10 |                         |
 |TM29                 |Psychic     |Psychic |90   |100%    |10 |                         |
 |-- / Lv. 49 / --     |Double-Edge |Normal  |120  |100%    |15 |                         |
-|-- / TM49 / TM49     |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

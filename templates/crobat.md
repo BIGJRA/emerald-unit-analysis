@@ -52,7 +52,6 @@ Crobat: **85** HP / **90** Atk / **80** Def / **70** SpA / **80** SpD / **130** 
 |TM18                    |Rain Dance  |Water  |--   |--%     |5  |                         |
 |Lv. 36 / Lv. 42 / Lv. 42|Mean Look   |Normal |--   |--%     |5  |                         |
 |Lv. 41 / Lv. 49 / Lv. 49|Poison Fang |Poison |50   |100%    |15 |                         |
-|TM49                    |Snatch      |Dark   |--   |--%     |10 |                         |
 |Lv. 46 / Lv. 56 / Lv. 56|Haze        |Ice    |--   |--%     |30 |                         |
 
 ### Analysis

@@ -57,6 +57,5 @@ Grumpig: **80** HP / **45** Atk / **65** Def / **90** SpA / **110** SpD / **80**
 |TM23           |Iron Tail   |Steel   |100  |75%     |15 |                         |
 |TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 43 / Lv. 55|Bounce      |Flying  |85   |85%     |5  |                         |
-|TM49           |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

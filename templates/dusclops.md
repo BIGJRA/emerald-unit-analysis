@@ -62,7 +62,6 @@ Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25
 |-- / TM26      |Earthquake  |Ground  |100  |100%    |10 |                         |
 |TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 45 / Lv. 51|Mean Look   |Normal  |--   |--%     |5  |                         |
-|TM49           |Snatch      |Dark    |--   |--%     |10 |                         |
 |Lv. 49 / Lv. 58|Future Sight|Psychic |80   |90%     |15 |                         |
 
 ### Analysis

@@ -62,6 +62,5 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 |-- / Lv. 43 / Lv. 43|Trick       |Psychic |--   |100%    |10 |                         |
 |TM23                |Iron Tail   |Steel   |100  |75%     |15 |                         |
 |TM29                |Psychic     |Psychic |90   |100%    |10 |                         |
-|TM49                |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

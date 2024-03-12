@@ -69,6 +69,5 @@ Kecleon: **60** HP / **90** Atk / **70** Def / **60** SpA / **120** SpD / **40**
 |TM03       |Water Pulse |Water   |60   |100%    |20 |                         |
 |TM23       |Iron Tail   |Steel   |100  |75%     |15 |                         |
 |Lv. 49     |AncientPower|Rock    |60   |100%    |5  |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis

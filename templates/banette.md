@@ -54,7 +54,6 @@ Banette: **64** HP / **115** Atk / **65** Def / **83** SpA / **63** SpD / **65**
 |TM29           |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 44 / Lv. 48|Shadow Ball |Ghost   |80   |100%    |15 |                         |
 |Lv. 49 / Lv. 55|Snatch      |Dark    |--   |--%     |10 |                         |
-|TM49           |Snatch      |Dark    |--   |--%     |10 |                         |
 |Lv. 56 / Lv. 64|Grudge      |Ghost   |--   |--%     |5  |                         |
 
 ### Analysis

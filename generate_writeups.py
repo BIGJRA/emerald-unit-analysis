@@ -144,6 +144,7 @@ def get_learnset_and_move_data(pokemon_names):
             learn_str = entries[0][1]
         else:
             learn_str = ' / '.join([e[1] if e is not None else '--' for e in entries])
+        if "TM49" in learn_str: continue # skip Snatch, which is postgame
         score = max([e[0] if e is not None else -1 for e in entries])
 
         acq_list.append((score, move, learn_str))

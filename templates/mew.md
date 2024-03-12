@@ -87,6 +87,5 @@ Mew: **100** HP / **100** Atk / **100** Def / **100** SpA / **100** SpD / **100*
 |TM02       |Dragon Claw |Dragon  |80   |100%    |15 |                         |
 |TM29       |Psychic     |Psychic |90   |100%    |10 |                         |
 |Lv. 50     |AncientPower|Rock    |60   |100%    |5  |                         |
-|TM49       |Snatch      |Dark    |--   |--%     |10 |                         |
 
 ### Analysis
