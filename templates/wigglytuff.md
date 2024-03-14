@@ -43,6 +43,8 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 |TM06                 |Toxic       |Poison  |--   |85%     |10 |                         |
 |TM42                 |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / TM01 / TM01     |Focus Punch |Fighting|150  |100%    |20 |                         |
+|-- / TM13 / TM13     |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|-- / TM24 / TM24     |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor                |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM11                 |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |-- / Lv. 34 / --     |Body Slam   |Normal  |85   |100%    |15 |                         |

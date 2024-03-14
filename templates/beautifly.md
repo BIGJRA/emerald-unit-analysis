@@ -31,6 +31,7 @@ Beautifly: **60** HP / **70** Atk / **50** Def / **90** SpA / **50** SpD / **65*
 |-- / -- / Lv. 24|Mega Drain  |Grass  |40   |100%    |10 |                         |
 |-- / -- / TM43  |Secret Power|Normal |70   |100%    |20 |                         |
 |-- / -- / TM10  |Hidden Power|Normal |--   |100%    |15 |                         |
+|-- / -- / TM32  |Double Team |Normal |--   |--%     |15 |                         |
 |-- / -- / Lv. 27|Whirlwind   |Normal |--   |100%    |20 |                         |
 |-- / -- / Tutor |Mimic       |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
@@ -52,5 +53,6 @@ Beautifly: **60** HP / **70** Atk / **50** Def / **90** SpA / **50** SpD / **65*
 |-- / -- / Lv. 38|Giga Drain  |Grass  |60   |100%    |5  |                         |
 |-- / -- / TM21  |Frustration |Normal |--   |100%    |20 |                         |
 |-- / -- / Tutor |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
+|-- / -- / TM29  |Psychic     |Psychic|90   |100%    |10 |                         |
 
 ### Analysis

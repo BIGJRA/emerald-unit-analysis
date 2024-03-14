@@ -51,6 +51,7 @@ Gorebyss: **55** HP / **84** Atk / **105** Def / **114** SpA / **75** SpD / **52
 |-- / Lv. 43|Baton Pass  |Normal |--   |--%     |40 |                         |
 |HM07       |Waterfall   |Water  |80   |100%    |15 |                         |
 |TM03       |Water Pulse |Water  |60   |100%    |20 |                         |
+|-- / TM29  |Psychic     |Psychic|90   |100%    |10 |                         |
 |-- / Lv. 50|Hydro Pump  |Water  |120  |80%     |5  |                         |
 
 ### Analysis

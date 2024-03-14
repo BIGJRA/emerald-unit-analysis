@@ -27,6 +27,7 @@ Gyarados: **95** HP / **125** Atk / **79** Def / **60** SpA / **100** SpD / **81
 |-- / HM04  |Strength    |Normal  |80   |100%    |15 |                         |
 |-- / TM43  |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / TM10  |Hidden Power|Normal  |--   |100%    |15 |                         |
+|-- / TM32  |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 25|Dragon Rage |Dragon  |--   |100%    |10 |                         |
 |-- / TM05  |Roar        |Normal  |--   |100%    |20 |                         |
 |-- / Tutor |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
@@ -37,6 +38,8 @@ Gyarados: **95** HP / **125** Atk / **79** Def / **60** SpA / **100** SpD / **81
 |-- / Lv. 30|Leer        |Normal  |--   |100%    |30 |                         |
 |-- / TM42  |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / HM03  |Surf        |Water   |95   |100%    |15 |                         |
+|-- / TM13  |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|-- / TM24  |Thunderbolt |Electric|95   |100%    |15 |                         |
 |-- / Tutor |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |-- / TM12  |Taunt       |Dark    |--   |100%    |20 |                         |
 |-- / Lv. 35|Twister     |Dragon  |40   |100%    |20 |                         |

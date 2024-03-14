@@ -48,6 +48,8 @@ Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50**
 |TM42                    |Facade      |Normal  |70   |100%    |20 |                         |
 |-- / -- / HM03          |Surf        |Water   |95   |100%    |15 |                         |
 |-- / -- / TM01          |Focus Punch |Fighting|150  |100%    |20 |                         |
+|-- / -- / TM13          |Ice Beam    |Ice     |95   |100%    |10 |                         |
+|-- / -- / TM24          |Thunderbolt |Electric|95   |100%    |15 |                         |
 |Tutor                   |Sleep Talk  |Normal  |--   |--%     |10 |Emerald only             |
 |TM11                    |Sunny Day   |Fire    |--   |--%     |5  |                         |
 |TM40                    |Aerial Ace  |Flying  |60   |--%     |20 |                         |

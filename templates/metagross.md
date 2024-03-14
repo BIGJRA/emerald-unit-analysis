@@ -29,6 +29,7 @@ Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **7
 |-- / HM04 / HM04    |Strength    |Normal  |80   |100%    |15 |                         |
 |-- / TM43 / TM43    |Secret Power|Normal  |70   |100%    |20 |                         |
 |-- / TM10 / TM10    |Hidden Power|Normal  |--   |100%    |15 |                         |
+|-- / TM32 / TM32    |Double Team |Normal  |--   |--%     |15 |                         |
 |-- / Lv. 26 / Lv. 26|Scary Face  |Normal  |--   |90%     |10 |                         |
 |-- / Tutor / Tutor  |Mimic       |Normal  |--   |--%     |10 |Emerald only             |
 |-- / TM27 / TM27    |Return      |Normal  |--   |100%    |20 |                         |
@@ -56,6 +57,7 @@ Metagross: **80** HP / **135** Atk / **130** Def / **95** SpA / **90** SpD / **7
 |-- / TM18 / TM18    |Rain Dance  |Water   |--   |--%     |5  |                         |
 |-- / TM26 / TM26    |Earthquake  |Ground  |100  |100%    |10 |                         |
 |-- / Lv. 44 / Lv. 44|Iron Defense|Steel   |--   |--%     |15 |                         |
+|-- / TM29 / TM29    |Psychic     |Psychic |90   |100%    |10 |                         |
 |-- / Lv. 50 / Lv. 55|Meteor Mash |Steel   |100  |85%     |10 |                         |
 |-- / Lv. 56 / Lv. 66|Agility     |Psychic |--   |--%     |30 |                         |
 |-- / Lv. 62 / Lv. 77|Hyper Beam  |Normal  |150  |90%     |5  |                         |

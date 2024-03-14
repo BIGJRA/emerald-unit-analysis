@@ -148,8 +148,10 @@ def get_learnset_and_move_data(pokemon_names):
         score = max([e[0] if e is not None else -1 for e in entries])
 
         acq_list.append((score, move, learn_str))
-        if learn_str in TM_SPLITS:
-            acq_list.append((TM_SPLITS[learn_str], move, learn_str))
+
+        for entry in set(entries):
+            if entry is not None and entry[1] in TM_SPLITS:
+                acq_list.append((TM_SPLITS[entry[1]], move, learn_str))
     acq_list.sort()
     return acq_list, move_data
 

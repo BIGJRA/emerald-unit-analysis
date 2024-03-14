@@ -31,6 +31,7 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 |-- / -- / Lv. 24|Psybeam     |Psychic|65   |100%    |20 |                         |
 |-- / -- / TM43  |Secret Power|Normal |70   |100%    |20 |                         |
 |-- / -- / TM10  |Hidden Power|Normal |--   |100%    |15 |                         |
+|-- / -- / TM32  |Double Team |Normal |--   |--%     |15 |                         |
 |-- / -- / Lv. 27|Whirlwind   |Normal |--   |100%    |20 |                         |
 |-- / -- / Tutor |Mimic       |Normal |--   |--%     |10 |Emerald only             |
 |-- / -- / TM27  |Return      |Normal |--   |100%    |20 |                         |
@@ -53,5 +54,6 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 |-- / -- / Lv. 38|Toxic       |Poison |--   |85%     |10 |                         |
 |-- / -- / TM21  |Frustration |Normal |--   |100%    |20 |                         |
 |-- / -- / Tutor |Double-Edge |Normal |120  |100%    |15 |Emerald only             |
+|-- / -- / TM29  |Psychic     |Psychic|90   |100%    |10 |                         |
 
 ### Analysis
