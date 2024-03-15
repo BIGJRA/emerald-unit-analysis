@@ -53,5 +53,6 @@
         "Sp. Atk": "25",
         "Sp. Def": "25",
         "Speed": "15"
-    }
+    },
+    "dex_number": 15
 }

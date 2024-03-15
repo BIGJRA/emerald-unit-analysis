@@ -200,4 +200,3 @@ Groudon
 Rayquaza
 Jirachi
 Deoxys
-Mew

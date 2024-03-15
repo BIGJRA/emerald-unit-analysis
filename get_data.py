@@ -119,21 +119,21 @@ def extractStatData(pokemon_name):
         data[h_text.split(':')[0]] = h_text.split(':')[1]
     return data
 
-def extractAllData(pokemon_name, gen_number=3):
+def extractAllData(pokemon_name, gen_number=3, dex_number = None):
     moves = extractMoveData(pokemon_name, gen_number=gen_number)
     stats = extractStatData(pokemon_name)
-    data = {"moves": moves, "stats": stats}
+    data = {"moves": moves, "stats": stats, "dex_number": dex_number}
     with open(getJSONDataFilepath(pokemon_name, gen_number), 'w') as f:
         f.write(simplejson.dumps(data, indent=4))
 
 if __name__ == '__main__':
     with open('mons.txt') as f:
         mons = f.read().split('\n')
-    for mon in mons:
+    for num, mon in enumerate(mons):
         print(f"Getting data for {mon}...")
         #if mon != "Kyogre": continue
         saveMoveContents(mon)
         saveMainContents(mon)
-        extractAllData(mon)
+        extractAllData(mon, dex_number=num + 1)
         print(f"Completed getting data for {mon}!")
 

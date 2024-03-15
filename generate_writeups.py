@@ -76,12 +76,14 @@ TUTOR_SCORES = {
 }
 TM_SPLITS = {"TM13": 31.4, "TM24": 31.5, "TM32": 24.4, "TM29": 46.1}
 
+
 def generate_text(pokemon_names):
     lines = []
     first_mon = pokemon_names[0].capitalize()
     lines.append(f"# Pokemon Emerald Unit Feel Analysis: {first_mon} line\n")
-    lines.append(f"{first_mon} is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at "
-                 f"TODO.\n")
+    lines.append(
+        f"{first_mon} is a TODO type Pokemon, first obtained at TODO. Its ability is TODO. It evolves at TODO, then again at "
+        f"TODO.\n")
     lines.append('### Base Stats\n')
     for mon in pokemon_names:
         j = get_json(mon)["stats"]
@@ -101,7 +103,8 @@ def generate_text(pokemon_names):
         type, pwr, acc, pp = data[n]["Type"], data[n]["Pwr"], data[n]["Acc"], data[n]["PP"]
         notes = ''
         if 'Tutor' in move[2]: notes = "Emerald only"
-        if any(TM in move[2] for TM in TM_SPLITS | {"TM35": 20.5}) and 20 < score < 21: # Checks for specifically game corner stuff:
+        if any(TM in move[2] for TM in
+               TM_SPLITS | {"TM35": 20.5}) and 20 < score < 21:  # Checks for specifically game corner stuff:
             notes = 'Buy at Game Corner'
         for idx, thing in enumerate([f'{move[2]}', f'{n}', f'{type}', f'{pwr}', f'{acc}', f'{pp}', f'{notes}']):
             move_lines[idx].append(thing)
@@ -144,7 +147,7 @@ def get_learnset_and_move_data(pokemon_names):
             learn_str = entries[0][1]
         else:
             learn_str = ' / '.join([e[1] if e is not None else '--' for e in entries])
-        if "TM49" in learn_str: continue # skip Snatch, which is postgame
+        if "TM49" in learn_str: continue  # skip Snatch, which is postgame
         score = max([e[0] if e is not None else -1 for e in entries])
 
         acq_list.append((score, move, learn_str))
@@ -162,9 +165,13 @@ def get_json(pokemon_name):
     return j
 
 
+def get_dex_number_string(pokemon_names):
+    return str(get_json(pokemon_names[-1])["dex_number"]).rjust(3, '0')
+
+
 def write_analysis(text, pokemon_names):
     hi = pokemon_names[-1].lower()
-    with open(path.join('templates', f'{hi}.md'), 'w+') as f:
+    with open(path.join('templates', f'{get_dex_number_string(pokemon_names)}_{hi}.md'), 'w+') as f:
         f.write(text)
 
 

@@ -91,193 +91,193 @@
             "LearnType": "LevelingUp"
         },
         {
-            "TM": "TM03",
-            "Move": "Water Pulse",
-            "Type": "Water",
-            "Pwr": "60",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM03",
+            "Type": "Water Pulse",
+            "Pwr": "Water",
+            "Acc": "60",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM06",
-            "Move": "Toxic",
-            "Type": "Poison",
-            "Pwr": "--",
-            "Acc": "85%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM06",
+            "Type": "Toxic",
+            "Pwr": "Poison",
+            "Acc": "--",
+            "PP": "85%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM07",
-            "Move": "Hail",
-            "Type": "Ice",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM07",
+            "Type": "Hail",
+            "Pwr": "Ice",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM10",
-            "Move": "Hidden Power",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM10",
+            "Type": "Hidden Power",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM12",
-            "Move": "Taunt",
-            "Type": "Dark",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM12",
+            "Type": "Taunt",
+            "Pwr": "Dark",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM13",
-            "Move": "Ice Beam",
-            "Type": "Ice",
-            "Pwr": "95",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM13",
+            "Type": "Ice Beam",
+            "Pwr": "Ice",
+            "Acc": "95",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM14",
-            "Move": "Blizzard",
-            "Type": "Ice",
-            "Pwr": "120",
-            "Acc": "70%",
-            "PP": "5",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM14",
+            "Type": "Blizzard",
+            "Pwr": "Ice",
+            "Acc": "120",
+            "PP": "70%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM17",
-            "Move": "Protect",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM17",
+            "Type": "Protect",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM18",
-            "Move": "Rain Dance",
-            "Type": "Water",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "5",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM18",
+            "Type": "Rain Dance",
+            "Pwr": "Water",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM21",
-            "Move": "Frustration",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM21",
+            "Type": "Frustration",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM27",
-            "Move": "Return",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM27",
+            "Type": "Return",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM32",
-            "Move": "Double Team",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM32",
+            "Type": "Double Team",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM41",
-            "Move": "Torment",
-            "Type": "Dark",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM41",
+            "Type": "Torment",
+            "Pwr": "Dark",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM42",
-            "Move": "Facade",
-            "Type": "Normal",
-            "Pwr": "70",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM42",
+            "Type": "Facade",
+            "Pwr": "Normal",
+            "Acc": "70",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM43",
-            "Move": "Secret Power",
-            "Type": "Normal",
-            "Pwr": "70",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM43",
+            "Type": "Secret Power",
+            "Pwr": "Normal",
+            "Acc": "70",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM44",
-            "Move": "Rest",
-            "Type": "Psychic",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM44",
+            "Type": "Rest",
+            "Pwr": "Psychic",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM45",
-            "Move": "Attract",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM45",
+            "Type": "Attract",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM46",
-            "Move": "Thief",
-            "Type": "Dark",
-            "Pwr": "40",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM46",
+            "Type": "Thief",
+            "Pwr": "Dark",
+            "Acc": "40",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "HM03",
-            "Move": "Surf",
-            "Type": "Water",
-            "Pwr": "95",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM03",
+            "Type": "Surf",
+            "Pwr": "Water",
+            "Acc": "95",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "HM07",
-            "Move": "Waterfall",
-            "Type": "Water",
-            "Pwr": "80",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM07",
+            "Type": "Waterfall",
+            "Pwr": "Water",
+            "Acc": "80",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "HM08",
-            "Move": "Dive",
-            "Type": "Water",
-            "Pwr": "60",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM08",
+            "Type": "Dive",
+            "Pwr": "Water",
+            "Acc": "60",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
             "Father": "",
@@ -413,5 +413,6 @@
         "Sp. Atk": "65",
         "Sp. Def": "20",
         "Speed": "65"
-    }
+    },
+    "dex_number": 97
 }

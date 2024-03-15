@@ -100,337 +100,337 @@
             "LearnType": "LevelingUp"
         },
         {
-            "TM": "TM02",
-            "Move": "Dragon Claw",
-            "Type": "Dragon",
-            "Pwr": "80",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM02",
+            "Type": "Dragon Claw",
+            "Pwr": "Dragon",
+            "Acc": "80",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM03",
-            "Move": "Water Pulse",
-            "Type": "Water",
-            "Pwr": "60",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM03",
+            "Type": "Water Pulse",
+            "Pwr": "Water",
+            "Acc": "60",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM04",
-            "Move": "Calm Mind",
+            "TM": "",
+            "Move": "TM04",
+            "Type": "Calm Mind",
+            "Pwr": "Psychic",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM05",
+            "Type": "Roar",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM06",
+            "Type": "Toxic",
+            "Pwr": "Poison",
+            "Acc": "--",
+            "PP": "85%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM10",
+            "Type": "Hidden Power",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM11",
+            "Type": "Sunny Day",
+            "Pwr": "Fire",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM13",
+            "Type": "Ice Beam",
+            "Pwr": "Ice",
+            "Acc": "95",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM15",
+            "Type": "Hyper Beam",
+            "Pwr": "Normal",
+            "Acc": "150",
+            "PP": "90%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM16",
+            "Type": "Light Screen",
+            "Pwr": "Psychic",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM17",
+            "Type": "Protect",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM18",
+            "Type": "Rain Dance",
+            "Pwr": "Water",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM20",
+            "Type": "Safeguard",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM21",
+            "Type": "Frustration",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM22",
+            "Type": "SolarBeam",
+            "Pwr": "Grass",
+            "Acc": "120",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM24",
+            "Type": "Thunderbolt",
+            "Pwr": "Electric",
+            "Acc": "95",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM25",
+            "Type": "Thunder",
+            "Pwr": "Electric",
+            "Acc": "120",
+            "PP": "70%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM26",
+            "Type": "Earthquake",
+            "Pwr": "Ground",
+            "Acc": "100",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM27",
+            "Type": "Return",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
+        },
+        {
+            "TM": "",
+            "Move": "TM29",
             "Type": "Psychic",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "Pwr": "Psychic",
+            "Acc": "90",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM05",
-            "Move": "Roar",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM30",
+            "Type": "Shadow Ball",
+            "Pwr": "Ghost",
+            "Acc": "80",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM06",
-            "Move": "Toxic",
-            "Type": "Poison",
-            "Pwr": "--",
-            "Acc": "85%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM32",
+            "Type": "Double Team",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM10",
-            "Move": "Hidden Power",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM33",
+            "Type": "Reflect",
+            "Pwr": "Psychic",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM11",
-            "Move": "Sunny Day",
-            "Type": "Fire",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "5",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM34",
+            "Type": "Shock Wave",
+            "Pwr": "Electric",
+            "Acc": "60",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM13",
-            "Move": "Ice Beam",
-            "Type": "Ice",
-            "Pwr": "95",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM37",
+            "Type": "Sandstorm",
+            "Pwr": "Rock",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM15",
-            "Move": "Hyper Beam",
-            "Type": "Normal",
-            "Pwr": "150",
-            "Acc": "90%",
-            "PP": "5",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM40",
+            "Type": "Aerial Ace",
+            "Pwr": "Flying",
+            "Acc": "60",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM16",
-            "Move": "Light Screen",
-            "Type": "Psychic",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "30",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM42",
+            "Type": "Facade",
+            "Pwr": "Normal",
+            "Acc": "70",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM17",
-            "Move": "Protect",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM43",
+            "Type": "Secret Power",
+            "Pwr": "Normal",
+            "Acc": "70",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM18",
-            "Move": "Rain Dance",
-            "Type": "Water",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "5",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM44",
+            "Type": "Rest",
+            "Pwr": "Psychic",
+            "Acc": "--",
+            "PP": "--%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM20",
-            "Move": "Safeguard",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "25",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM45",
+            "Type": "Attract",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM21",
-            "Move": "Frustration",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "TM47",
+            "Type": "Steel Wing",
+            "Pwr": "Steel",
+            "Acc": "70",
+            "PP": "90%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM22",
-            "Move": "SolarBeam",
-            "Type": "Grass",
-            "Pwr": "120",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM01",
+            "Type": "Cut",
+            "Pwr": "Normal",
+            "Acc": "50",
+            "PP": "95%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM24",
-            "Move": "Thunderbolt",
-            "Type": "Electric",
-            "Pwr": "95",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM02",
+            "Type": "Fly",
+            "Pwr": "Flying",
+            "Acc": "70",
+            "PP": "95%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM25",
-            "Move": "Thunder",
-            "Type": "Electric",
-            "Pwr": "120",
-            "Acc": "70%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM03",
+            "Type": "Surf",
+            "Pwr": "Water",
+            "Acc": "95",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM26",
-            "Move": "Earthquake",
-            "Type": "Ground",
-            "Pwr": "100",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM05",
+            "Type": "Flash",
+            "Pwr": "Normal",
+            "Acc": "--",
+            "PP": "70%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM27",
-            "Move": "Return",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM07",
+            "Type": "Waterfall",
+            "Pwr": "Water",
+            "Acc": "80",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
-            "TM": "TM29",
-            "Move": "Psychic",
-            "Type": "Psychic",
-            "Pwr": "90",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM30",
-            "Move": "Shadow Ball",
-            "Type": "Ghost",
-            "Pwr": "80",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM32",
-            "Move": "Double Team",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "15",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM33",
-            "Move": "Reflect",
-            "Type": "Psychic",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "20",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM34",
-            "Move": "Shock Wave",
-            "Type": "Electric",
-            "Pwr": "60",
-            "Acc": "--%",
-            "PP": "20",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM37",
-            "Move": "Sandstorm",
-            "Type": "Rock",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "10",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM40",
-            "Move": "Aerial Ace",
-            "Type": "Flying",
-            "Pwr": "60",
-            "Acc": "--%",
-            "PP": "20",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM42",
-            "Move": "Facade",
-            "Type": "Normal",
-            "Pwr": "70",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM43",
-            "Move": "Secret Power",
-            "Type": "Normal",
-            "Pwr": "70",
-            "Acc": "100%",
-            "PP": "20",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM44",
-            "Move": "Rest",
-            "Type": "Psychic",
-            "Pwr": "--",
-            "Acc": "--%",
-            "PP": "10",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM45",
-            "Move": "Attract",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "TM47",
-            "Move": "Steel Wing",
-            "Type": "Steel",
-            "Pwr": "70",
-            "Acc": "90%",
-            "PP": "25",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "HM01",
-            "Move": "Cut",
-            "Type": "Normal",
-            "Pwr": "50",
-            "Acc": "95%",
-            "PP": "30",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "HM02",
-            "Move": "Fly",
-            "Type": "Flying",
-            "Pwr": "70",
-            "Acc": "95%",
-            "PP": "15",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "HM03",
-            "Move": "Surf",
-            "Type": "Water",
-            "Pwr": "95",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "HM05",
-            "Move": "Flash",
-            "Type": "Normal",
-            "Pwr": "--",
-            "Acc": "70%",
-            "PP": "20",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "HM07",
-            "Move": "Waterfall",
-            "Type": "Water",
-            "Pwr": "80",
-            "Acc": "100%",
-            "PP": "15",
-            "LearnType": "TmHm"
-        },
-        {
-            "TM": "HM08",
-            "Move": "Dive",
-            "Type": "Water",
-            "Pwr": "60",
-            "Acc": "100%",
-            "PP": "10",
-            "LearnType": "TmHm"
+            "TM": "",
+            "Move": "HM08",
+            "Type": "Dive",
+            "Pwr": "Water",
+            "Acc": "60",
+            "PP": "100%",
+            "LearnType": "Tm.2Fhm"
         },
         {
             "Game": "FRLGEXD",
@@ -575,5 +575,6 @@
         "Sp. Atk": "130",
         "Sp. Def": "110",
         "Speed": "110"
-    }
+    },
+    "dex_number": 197
 }
