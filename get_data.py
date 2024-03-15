@@ -42,6 +42,7 @@ def extractMoveData(pokemon_name, gen_number=3):
         title_text = title_block.findNext('span').get('id')
         title_text = ''.join(x for x in title_text.title() if not x in (' ', '_', '/'))
         title_text = title_text[2:] if title_text[:2] in ["By"] else title_text
+        title_text = title_text.replace("Tm.2Fhm", "TmHm") # hard fix since bulbapedia changed
 
         # skip events and shadow moves
         if title_text in ["SpecialMoves", "Events"]: continue
@@ -131,7 +132,7 @@ if __name__ == '__main__':
         mons = f.read().split('\n')
     for num, mon in enumerate(mons):
         print(f"Getting data for {mon}...")
-        #if mon != "Kyogre": continue
+        # if mon != "Kyogre": continue
         saveMoveContents(mon)
         saveMainContents(mon)
         extractAllData(mon, dex_number=num + 1)

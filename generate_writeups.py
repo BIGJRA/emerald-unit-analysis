@@ -89,7 +89,7 @@ def generate_text(pokemon_names):
         j = get_json(mon)["stats"]
         total = sum([int(j[stat]) for stat in ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]])
         lines.append(
-            f"{mon.capitalize()}: **{j["HP"]}** HP / **{j["Attack"]}** Atk / **{j["Defense"]}** Def / **{j["Sp. Atk"]}** SpA / **{j["Sp. Def"]}** SpD / **{j["Speed"]}** Spe (**{total}** BST)\n")
+            f"{mon.capitalize()}: **{j['HP']}** HP / **{j['Attack']}** Atk / **{j['Defense']}** Def / **{j['Sp. Atk']}** SpA / **{j['Sp. Def']}** SpD / **{j['Speed']}** Spe (**{total}** BST)\n")
 
     lines.append('### Moveset\n')
 
@@ -129,12 +129,12 @@ def get_learnset_and_move_data(pokemon_names):
             move_data[m["Move"]] = m
             if m["LearnType"] == "LevelingUp":
                 try:
-                    acq[(m["Move"], m["LearnType"])][curr] = (int(m["Level"]), f"Lv. {m["Level"]}")
+                    acq[(m['Move'], m['LearnType'])][curr] = (int(m['Level']), f"Lv. {m['Level']}")
                 except KeyError:  # Some movesets are constructed with "RSE" as the key instead of "Level"
                     if m["RSE"] == "N/A": continue
-                    acq[(m["Move"], m["LearnType"])][curr] = (int(m["RSE"]), f"Lv. {m["RSE"]}")
-            elif m["LearnType"] == "TmHm":
-                acq[(m["Move"], m["LearnType"])][curr] = (TM_SCORES[m['TM']], f"{m['TM']}")
+                    acq[(m['Move'], m['LearnType'])][curr] = (int(m['RSE']), f"Lv. {m['RSE']}")
+            elif m['LearnType'] == 'TmHm':
+                acq[(m['Move'], m['LearnType'])][curr] = (TM_SCORES[m['TM']], f"{m['TM']}")
             elif m["LearnType"] == "Tutoring":
                 if m["Move"] not in TUTOR_SCORES: continue
                 acq[(m["Move"], m["LearnType"])][curr] = (TUTOR_SCORES[m['Move']], "Tutor")
