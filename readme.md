@@ -58,7 +58,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Shroomish, Breloom
 - [x] Slakoth, Vigoroth, Slaking
 - [x] Abra, Kadabra, Alakazam
-- [ ] Nincada, Ninjask
+- [x] Nincada, Ninjask
 - [ ] Nincada, Shedinja
 - [ ] Whismur, Loudred, Exploud
 - [ ] Makuhita, Hariyama
