@@ -72,7 +72,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Tentacool, Tentacruel
 - [x] Sableye
 - [x] Mawile
-- [ ] Aron, Lairon, Aggron
+- [x] Aron, Lairon, Aggron
 - [ ] Machop, Machoke, Machamp
 - [x] Meditite, Medicham
 - [ ] Electrike, Manectric

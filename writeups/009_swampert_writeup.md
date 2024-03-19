@@ -42,7 +42,7 @@ Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60
 | TM42                     | Facade       | Normal   | 70    | 100%     | 20 |                    |
 | HM03                     | Surf         | Water    | 95    | 100%     | 15 |                    |
 | TM13                     | Ice Beam     | Ice      | 95    | 100%     | 10 |                    |
-| Lv. 33 / -- / --         | Whirlpool    | Water    | 15    | 70%      | 15 | Delay Evolution    |
+| Lv. 33 / -- / --         | Whirlpool    | Water    | 15    | 70%      | 15 |                    |
 | TM44                     | Rest         | Psychic  | --    | --%      | 10 |                    |
 | Tutor                    | Substitute   | Normal   | --    | --%      | 10 | Emerald only       |
 | -- / -- / TM05           | Roar         | Normal   | --    | 100%     | 20 |                    |
@@ -58,7 +58,7 @@ Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60
 | -- / -- / TM31           | Brick Break  | Fighting | 75    | 100%     | 15 |                    |
 | Tutor                    | Double-Edge  | Normal   | 120   | 100%     | 15 | Emerald only       |
 | TM18                     | Rain Dance   | Water    | --    | --%      | 5  |                    |
-| Lv. 42 / -- / --         | Hydro Pump   | Water    | 120   | 80%      | 5  | Delay Evolution    |
+| Lv. 42 / -- / --         | Hydro Pump   | Water    | 120   | 80%      | 5  |                    |
 | -- / TM26 / TM26         | Earthquake   | Ground   | 100   | 100%     | 10 |                    |
 | HM07                     | Waterfall    | Water    | 80    | 100%     | 15 |                    |
 | TM03                     | Water Pulse  | Water    | 60    | 100%     | 20 |                    |

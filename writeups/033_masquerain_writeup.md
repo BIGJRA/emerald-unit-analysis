@@ -27,12 +27,12 @@ Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60
 | TM43        | Secret Power | Normal  | 70    | 100%     | 20 |                    |
 | TM10        | Hidden Power | Normal  | --    | 100%     | 15 |                    |
 | TM32        | Double Team  | Normal  | --    | --%      | 15 |                    |
-| Lv. 25 / -- | BubbleBeam   | Water   | 65    | 100%     | 20 | Delay Evolution    |
+| Lv. 25 / -- | BubbleBeam   | Water   | 65    | 100%     | 20 |                    |
 | -- / Lv. 26 | Gust         | Flying  | 40    | 100%     | 35 |                    |
 | Tutor       | Mimic        | Normal  | --    | --%      | 10 | Emerald only       |
 | TM27        | Return       | Normal  | --    | 100%     | 20 |                    |
 | TM06        | Toxic        | Poison  | --    | 85%      | 10 |                    |
-| Lv. 31 / -- | Agility      | Psychic | --    | --%      | 30 | Delay Evolution    |
+| Lv. 31 / -- | Agility      | Psychic | --    | --%      | 30 |                    |
 | TM42        | Facade       | Normal  | 70    | 100%     | 20 |                    |
 | TM13        | Ice Beam     | Ice     | 95    | 100%     | 10 |                    |
 | Tutor       | Sleep Talk   | Normal  | --    | --%      | 10 | Emerald only       |
@@ -47,8 +47,8 @@ Masquerain: **70** HP / **60** Atk / **62** Def / **80** SpA / **82** SpD / **60
 | TM17        | Protect      | Normal  | --    | --%      | 10 |                    |
 | TM14        | Blizzard     | Ice     | 120   | 70%      | 5  |                    |
 | -- / TM15   | Hyper Beam   | Normal  | 150   | 90%      | 5  |                    |
-| Lv. 37 / -- | Haze         | Ice     | --    | --%      | 30 | Delay Evolution    |
-| Lv. 37 / -- | Mist         | Ice     | --    | --%      | 30 | Delay Evolution    |
+| Lv. 37 / -- | Haze         | Ice     | --    | --%      | 30 |                    |
+| Lv. 37 / -- | Mist         | Ice     | --    | --%      | 30 |                    |
 | TM21        | Frustration  | Normal  | --    | 100%     | 20 |                    |
 | -- / Lv. 40 | Stun Spore   | Grass   | --    | 75%      | 30 |                    |
 | Tutor       | Double-Edge  | Normal  | 120   | 100%     | 15 | Emerald only       |

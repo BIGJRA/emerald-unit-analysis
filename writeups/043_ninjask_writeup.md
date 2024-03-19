@@ -20,11 +20,11 @@ Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160**
 | Lv. 14      | Fury Swipes  | Normal  | 18    | 80%      | 15 |                    |
 | HM05        | Flash        | Normal  | --    | 70%      | 20 |                    |
 | Lv. 19      | Mind Reader  | Normal  | --    | 100%     | 5  |                    |
-| -- / TM46   | Thief        | Dark    | 40    | 100%     | 10 |                    |
 | Tutor       | Swagger      | Normal  | --    | 90%      | 15 | Emerald only       |
 | -- / Lv. 20 | Double Team  | Normal  | --    | --%      | 15 |                    |
 | -- / Lv. 20 | Fury Cutter  | Bug     | 10    | 95%      | 20 |                    |
 | -- / Lv. 20 | Screech      | Normal  | --    | 85%      | 40 |                    |
+| -- / TM46   | Thief        | Dark    | 40    | 100%     | 10 |                    |
 | TM32        | Double Team  | Normal  | --    | --%      | 15 | Buy at Game Corner |
 | -- / TM45   | Attract      | Normal  | --    | 100%     | 15 |                    |
 | Tutor       | Fury Cutter  | Bug     | 10    | 95%      | 20 | Emerald only       |
