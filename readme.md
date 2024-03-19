@@ -87,7 +87,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Roselia
 - [ ] Gulpin, Swalot
 - [ ] Carvanha, Sharpedo
-- [ ] Wailmer, Wailord
+- [x] Wailmer, Wailord
 - [ ] Numel, Camerupt
 - [ ] Slugma, Magcargo
 - [ ] Torkoal
