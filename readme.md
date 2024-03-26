@@ -115,7 +115,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Staryu, Starmie
 - [ ] Kecleon
 - [ ] Shuppet, Banette
-- [ ] Duskull, Dusclops
+- [x] Duskull, Dusclops
 - [ ] Tropius
 - [ ] Chimecho
 - [ ] Absol
