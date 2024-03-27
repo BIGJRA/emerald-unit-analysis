@@ -94,7 +94,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Grimer, Muk
 - [ ] Koffing, Weezing
 - [ ] Spoink, Grumpig
-- [ ] Sandshrew, Sandslash
+- [x] Sandshrew, Sandslash
 - [ ] Spinda
 - [ ] Skarmory
 - [ ] Trapinch, Vibrava, Flygon
