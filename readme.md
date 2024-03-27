@@ -38,7 +38,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - **No items from the bag in battle**. If any Pokemon can raise its stats, recover HP, or get revived anytime, fewer moves and strategies are interesting.
 - **Full team of six Pokemon is used**. This kinda goes with the level cap thing but I am assuming the player uses a full team of six Pokemon. This allows discussion of how a Pokemon can fit into a full team.
 - **No trading with other games**. This means I won't for example trade an Absol in to use on Roxanne, considering it only as it appears around the sixth badge, nor trade in infinite copies of TM Earthquake. Trading evolutions are kind of a mess, but since I do want to talk about things like Machamp I will allow them (assuming trade-tradebacks). 
-- **Grinding levels is allowed, but discouraged.** If a Pokemon needs to be grinded a bit for a zero-to-hero arc, that is arguably part of its unit story, but in general I play where I fight all the trainers in the game without rematches and only fight wild Pokemon when they appear while exploring.
+- **Grinding levels by way of repeatable trainers or wild Pokemon is allowed, but discouraged.** If a Pokemon needs to be grinded a bit for a zero-to-hero arc, that is arguably part of its unit story, but in general I play where I fight all the trainers in the game without rematches and only fight wild Pokemon when they appear while exploring.
 
 ## Progress
 
