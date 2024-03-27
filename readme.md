@@ -66,7 +66,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Magikarp, Gyarados
 - [ ] Azurill, Marill, Azumarill
 - [ ] Geodude, Graveler, Golem
-- [ ] Nosepass
+- [x] Nosepass
 - [ ] Skitty, Delcatty
 - [x] Zubat, Golbat, Crobat
 - [ ] Tentacool, Tentacruel
