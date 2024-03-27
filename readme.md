@@ -43,7 +43,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 ## Progress
 
 - [ ] Treecko, Grovyle, Sceptile
-- [ ] Torchic, Combusken, Blaziken
+- [x] Torchic, Combusken, Blaziken
 - [x] Mudkip, Marshtomp, Swampert
 - [ ] Poochyena, Mightyena
 - [ ] Zigzagoon, Linoone
