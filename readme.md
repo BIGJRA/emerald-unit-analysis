@@ -47,7 +47,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Mudkip, Marshtomp, Swampert
 - [ ] Poochyena, Mightyena
 - [ ] Zigzagoon, Linoone
-- [ ] Wurmple, Silcoon, Beautifly
+- [x] Wurmple, Silcoon, Beautifly
 - [ ] Wurmple, Cascoon, Dustox
 - [x] Lotad, Lombre, Ludicolo
 - [ ] Seedot, Nuzleaf, Shiftry
