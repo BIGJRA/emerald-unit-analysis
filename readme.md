@@ -133,7 +133,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Spheal, Sealeo, Walrein
 - [ ] Clamperl, Huntail
 - [ ] Clamperl, Gorebyss
-- [ ] Relicanth
+- [x] Relicanth
 - [ ] Corsola
 - [x] Chinchou, Lanturn
 - [x] Luvdisc
