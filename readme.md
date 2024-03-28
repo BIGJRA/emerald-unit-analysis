@@ -98,7 +98,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Spinda
 - [ ] Skarmory
 - [ ] Trapinch, Vibrava, Flygon
-- [ ] Cacnea, Cacturne
+- [x] Cacnea, Cacturne
 - [ ] Swablu, Altaria
 - [x] Zangoose
 - [x] Seviper
