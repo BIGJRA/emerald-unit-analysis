@@ -1,4 +1,3 @@
-import json
 import simplejson
 from os import path
 
