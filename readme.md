@@ -50,7 +50,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Wurmple, Silcoon, Beautifly
 - [x] Wurmple, Cascoon, Dustox
 - [x] Lotad, Lombre, Ludicolo
-- [ ] Seedot, Nuzleaf, Shiftry
+- [x] Seedot, Nuzleaf, Shiftry
 - [x] Taillow, Swellow
 - [ ] Wingull, Pelipper
 - [ ] Ralts, Kirlia, Gardevoir
