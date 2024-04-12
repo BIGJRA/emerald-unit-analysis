@@ -90,7 +90,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Wailmer, Wailord
 - [ ] Numel, Camerupt
 - [ ] Slugma, Magcargo
-- [ ] Torkoal
+- [x] Torkoal
 - [ ] Grimer, Muk
 - [ ] Koffing, Weezing
 - [ ] Spoink, Grumpig
