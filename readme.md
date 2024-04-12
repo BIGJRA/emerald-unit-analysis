@@ -103,7 +103,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Zangoose
 - [x] Seviper
 - [ ] Lunatone
-- [ ] Solrock
+- [x] Solrock
 - [ ] Barboach, Whiscash
 - [ ] Corphish, Crawdaunt
 - [ ] Baltoy, Claydol
