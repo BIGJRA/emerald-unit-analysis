@@ -3,3 +3,4 @@ roman~=4.1
 simplejson~=3.19.2
 requests~=2.31.0
 lxml
+pillow
