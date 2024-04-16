@@ -121,7 +121,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Absol
 - [ ] Vulpix, Ninetales
 - [ ] Pichu, Pikachu, Raichu
-- [ ] Psyduck, Golduck
+- [x] Psyduck, Golduck
 - [ ] Wynaut, Wobbuffet
 - [ ] Natu, Xatu
 - [ ] Girafarig
