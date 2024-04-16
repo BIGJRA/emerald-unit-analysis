@@ -116,7 +116,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Kecleon
 - [ ] Shuppet, Banette
 - [x] Duskull, Dusclops
-- [ ] Tropius
+- [x] Tropius
 - [ ] Chimecho
 - [ ] Absol
 - [ ] Vulpix, Ninetales
