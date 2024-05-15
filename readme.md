@@ -64,7 +64,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Makuhita, Hariyama
 - [ ] Goldeen, Seaking
 - [ ] Magikarp, Gyarados
-- [ ] Azurill, Marill, Azumarill
+- [x] Azurill, Marill, Azumarill
 - [ ] Geodude, Graveler, Golem
 - [x] Nosepass
 - [ ] Skitty, Delcatty
