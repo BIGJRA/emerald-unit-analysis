@@ -1,8 +1,8 @@
 # Pokemon Emerald Unit Feel Analysis: Azurill line
 
-Marill is a TODO type Pokemon, first obtained at Lv. 13 on Route 117, or earlier at Lv. 4-5 in Emerald only. Its ability is Huge Power or Thick Fat. It evolves at Lv. 18 into Azumarill.
+Marill is a Water type Pokemon, first obtained at Lv. 13 on Route 117, or earlier at Lv. 4-5 in Emerald only. Its ability is Huge Power or Thick Fat. It evolves at Lv. 18 into Azumarill.
 
-Azurill is a baby Pokemon, obtained by breeding a Marill or Azumarill that is holding the Sea Incense. It evolves into Marill via Friendship.
+Azurill is a Normal-type baby Pokemon, obtained by breeding a Marill or Azumarill that is holding the Sea Incense. It evolves into Marill via Friendship.
 
 ### Base Stats
 
