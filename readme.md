@@ -89,7 +89,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Carvanha, Sharpedo
 - [x] Wailmer, Wailord
 - [ ] Numel, Camerupt
-- [ ] Slugma, Magcargo
+- [x] Slugma, Magcargo
 - [x] Torkoal
 - [ ] Grimer, Muk
 - [ ] Koffing, Weezing
