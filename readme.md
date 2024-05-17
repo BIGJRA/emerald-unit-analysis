@@ -127,7 +127,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Girafarig
 - [ ] Phanpy, Donphan
 - [ ] Pinsir
-- [ ] Heracross
+- [x] Heracross
 - [x] Rhyhorn, Rhydon
 - [ ] Snorunt, Glalie
 - [ ] Spheal, Sealeo, Walrein
