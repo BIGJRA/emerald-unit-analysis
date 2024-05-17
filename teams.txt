@@ -1,8 +1,0 @@
-Emerald 1: Swampert, Swellow, Sableye, Seviper, Starmie, Salamence
-Ruby 1:    Masquerain, Mawile, Roselia, Zangoose, Medicham, Lanturn
-Emerald 2: Ludicolo, Crobat, Plusle, Minun, Rhydon, Luvdisc
-Emerald 3: Alakazam, Slaking, Ninjask, Aggron, Wailord, Dusclops
-Emerald 4: Blaziken, Beautifly, Nosepass, Sandslash, Cacturne, Relicanth
-Emerald 5: Shiftry, Dustox, Torkoal, Solrock, Tropius, Golduck
-Emerald 6: Azumarill, Bellossom, Magcargo, Wobbuffet, Xatu, Heracross
-Emerald 7: Golem, Seaking, Weezing, Magneton, Wigglytuff, Pinsir
