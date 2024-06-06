@@ -1,5 +1,6 @@
 teams:
   - team: "S Mons"
+    game: "Emerald 1"
     members:
       - species: "SWAMPERT"
         nickname: "WAMPERTS"
@@ -15,6 +16,7 @@ teams:
         nickname: "ALAMENCES"
 
   - team: "Ruby runners"
+    game: "Ruby 1"
     members:
       - species: "MASQUERAIN"
         nickname: "BANE"
@@ -30,6 +32,7 @@ teams:
         nickname: "MR. FREEZE"
 
   - team: "Fun in the Rain"
+    game: "Emerald 2"
     members:
       - species: "LUDICOLO"
         nickname: "FRACTIONS"
@@ -45,6 +48,7 @@ teams:
         nickname: "LESS THANS"
 
   - team: "Stat Leaders"
+    game: "Emerald 3"
     members:
       - species: "ALAKAZAM"
         nickname: "ARCHSAGE"
@@ -60,6 +64,7 @@ teams:
         nickname: "DARK MAGE"
 
   - team: "Fun in the Sand"
+    game: "Emerald 4"
     members:
       - species: "BLAZIKEN"
         nickname: "MOJAVE"
@@ -75,6 +80,7 @@ teams:
         nickname: "SAHARA"
 
   - team: "Fun in the Sun"
+    game: "Emerald 5"
     members:
       - species: "SHIFTRY"
         nickname: "STARFRUIT"
@@ -90,6 +96,7 @@ teams:
         nickname: "BLUEBERRY"
 
   - team: "Johto travelers"
+    game: "Emerald 6"
     members:
       - species: "AZUMARILL"
         nickname: "MAHOGANY"
@@ -105,6 +112,7 @@ teams:
         nickname: "CIANWOOD"
 
   - team: "Kanto travelers"
+    game: "Emerald 7"
     members:
       - species: "GOLEM"
         nickname: "PEWTER"
@@ -120,6 +128,7 @@ teams:
         nickname: "INDIGO"
 
   - team: "Status masters"
+    game: "Emerald 8"
     members:
       - species: "GARDEVOIR"
         nickname: "SLEEPDEMON"
@@ -134,12 +143,102 @@ teams:
       - species: "GLALIE"
         nickname: "FROSTBITE"
 
+  - team: "Sapphire Sprinters"
+    game: "Sapphire 1"
+    members:
+      - species: "LUNATONE"
+      - species: "VOLBEAT"
+      - species: "ELECTRODE"
+      - species: "LINOONE"
+      - species: "WHISCASH"
+      - species: "CORSOLA"
+
   - team: "Obscura"
+    game: "Emerald 9"
     members:
       - species: "DELCATTY"
       - species: "SHEDINJA"
-      - species: "VOLBEAT"
+      - species: "ILLUMISE"
       - species: "CRADILY"
       - species: "CHIMECHO"
       - species: "HUNTAIL"
 
+  - team: "Weather Ballers"
+    game: "Emerald 10"
+    members:
+      - species: "PELIPPER"
+      - species: "VILEPLUME"
+      - species: "EXPLOUD"
+      - species: "CASTFORM"
+      - species: "RAICHU"
+      - species: "GOREBYSS"
+
+  - team: "Draconic Energy"
+    game: "Emerald 11"
+    members:
+      - species: "SCEPTILE"
+      - species: "ALTARIA"
+      - species: "CRAWDAUNT"
+      - species: "FLYGON"
+      - species: "KECLEON"
+      - species: "KINGDRA"
+
+  - team: "Ooh, Scary!"
+    game: "Emerald 12"
+    members:
+      - species: "GYARADOS"
+      - species: "MACHAMP"
+      - species: "TENTACRUEL"
+      - species: "BANETTE"
+      - species: "GIRAFARIG"
+      - species: "ARMALDO"
+
+  - team: "Treasure Hunters"
+    game: "Emerald 13"
+    members:
+      - species: "SHIFTRY"
+      - species: "WAILORD"
+      - species: "MANECTRIC"
+      - species: "REGIROCK"
+      - species: "REGICE"
+      - species: "REGISTEEL"
+
+  - team: "Aqua's Revenge"
+    game: "Ruby 2"
+    members:
+      - species: "HARIYAMA"
+      - species: "SWALOT"
+      - species: "SKARMORY"
+      - species: "SHARPEDO"
+      - species: "WALREIN"
+      - species: "GROUDON"
+
+  - team: "Magma's Revenge"
+    game: "Sapphire 2"
+    members:
+      - species: "MIGHTYENA"
+      - species: "GRUMPIG"
+      - species: "DODRIO"
+      - species: "CAMERUPT"
+      - species: "CLAYDOL"
+      - species: "KYOGRE"
+
+  - team: "Rayquaza's Eco-Warriors"
+    game: "Emerald 14"
+    members:
+      - species: "BRELOOM"
+      - species: "LINOONE"
+      - species: "MILOTIC"
+      - species: "ABSOL"
+      - species: "DONPHAN"
+      - species: "RAYQUAZA"
+
+  - team: "Teleporting Bonus Round"
+    game: "Emerald 15"
+    members:
+      - species: "METAGROSS"
+      - species: "LATIOS"
+      - species: "LATIAS"
+      - species: "JIRACHI"
+      - species: "DEOXYS"
+      - species: "MEW"
