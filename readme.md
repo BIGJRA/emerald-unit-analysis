@@ -62,10 +62,10 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Nincada, Shedinja
 - [ ] Whismur, Loudred, Exploud
 - [ ] Makuhita, Hariyama
-- [ ] Goldeen, Seaking
+- [x] Goldeen, Seaking
 - [ ] Magikarp, Gyarados
 - [x] Azurill, Marill, Azumarill
-- [ ] Geodude, Graveler, Golem
+- [x] Geodude, Graveler, Golem
 - [x] Nosepass
 - [ ] Skitty, Delcatty
 - [x] Zubat, Golbat, Crobat
@@ -77,7 +77,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Meditite, Medicham
 - [ ] Electrike, Manectric
 - [x] Plusle / Minun
-- [ ] Magnemite, Magneton
+- [x] Magnemite, Magneton
 - [ ] Voltorb, Electrode
 - [ ] Volbeat
 - [ ] Illumise
@@ -92,7 +92,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Slugma, Magcargo
 - [x] Torkoal
 - [ ] Grimer, Muk
-- [ ] Koffing, Weezing
+- [x] Koffing, Weezing
 - [ ] Spoink, Grumpig
 - [x] Sandshrew, Sandslash
 - [ ] Spinda
@@ -109,7 +109,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [ ] Baltoy, Claydol
 - [ ] Lileep, Cradily
 - [ ] Anorith, Armaldo
-- [ ] Igglybuff, Jigglypuff, Wigglytuff
+- [x] Igglybuff, Jigglypuff, Wigglytuff
 - [ ] Feebas, Milotic
 - [ ] Castform
 - [x] Staryu, Starmie
@@ -126,7 +126,7 @@ Here’s the thing about Pokemon – you can literally overlevel one Pokemon lik
 - [x] Natu, Xatu
 - [ ] Girafarig
 - [ ] Phanpy, Donphan
-- [ ] Pinsir
+- [x] Pinsir
 - [x] Heracross
 - [x] Rhyhorn, Rhydon
 - [ ] Snorunt, Glalie
