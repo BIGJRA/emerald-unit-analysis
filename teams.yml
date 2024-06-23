@@ -140,7 +140,7 @@ teams:
         nickname: "PANDEMONIA"
       - species: "NINETALES"
         nickname: "HEATSTROKE"
-      - species: "GLALIE"
+      - species: "WALREIN"
         nickname: "FROSTBITE"
 
   - team: "Sapphire Sprinters"
@@ -159,7 +159,7 @@ teams:
       - species: "DELCATTY"
       - species: "SHEDINJA"
       - species: "ILLUMISE"
-      - species: "CRADILY"
+      - species: "GIRAFARIG"
       - species: "CHIMECHO"
       - species: "HUNTAIL"
 
@@ -190,8 +190,8 @@ teams:
       - species: "MACHAMP"
       - species: "TENTACRUEL"
       - species: "BANETTE"
-      - species: "GIRAFARIG"
-      - species: "ARMALDO"
+      - species: "GLALIE"
+      - species: "CLAYDOL"
 
   - team: "Treasure Hunters"
     game: "Emerald 13"
@@ -210,7 +210,7 @@ teams:
       - species: "SWALOT"
       - species: "SKARMORY"
       - species: "SHARPEDO"
-      - species: "WALREIN"
+      - species: "CRADILY"
       - species: "GROUDON"
 
   - team: "Magma's Revenge"
@@ -220,7 +220,7 @@ teams:
       - species: "GRUMPIG"
       - species: "DODRIO"
       - species: "CAMERUPT"
-      - species: "CLAYDOL"
+      - species: "ARMALDO"
       - species: "KYOGRE"
 
   - team: "Rayquaza's Eco-Warriors"
