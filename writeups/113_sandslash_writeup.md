@@ -57,7 +57,7 @@ Sandslash: **75** HP / **100** Atk / **110** Def / **45** SpA / **55** SpD / **6
 
 ### Analysis
 
-**Verdict: An old straightforward Pokemon breathed new life in the sand: requires luck for its gimmick to shine.**
+**TL;DR: An old straightforward Pokemon breathed new life in the sand: requires luck for its gimmick to shine.**
 
 The Sandshrew line was a member of a version exclusive pair with Ekans back in Kanto, but RSE rips just the Sandshrew line out of this context and includes it in the Hoenn region. Now with abilities on top of weather conditions introduced in Gen II, I will make the case that choosing Sandshrew and Sandslash for two of the Hoenn regions' limited 67 returnee slots makes a lot of sense thanks to the new gameplay experience they provide.
 

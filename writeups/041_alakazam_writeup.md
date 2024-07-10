@@ -65,7 +65,7 @@ Alakazam: **55** HP / **50** Atk / **45** Def / **135** SpA / **85** SpD / **120
 
 ### Analysis
 
-**Verdict: Alakazam is redundant in Hoenn thanks to Gardevoir, but it's a familiar, easy-to-use unit with good payoff nonetheless.**
+**TL;DR: Alakazam is redundant in Hoenn thanks to Gardevoir, but it's a familiar, easy-to-use unit with good payoff nonetheless.**
 
 After being basically one of the most busted units in all of Gen I and II, the Alakazam line is back in Hoenn, again being one of the most powerful team choices in the game. The story of using one consists of pushing through having only Teleport as an Abra to evolution at Lv. 16, then basically steamrolling the game from there with Kadabra, even more so if the player chooses to just trade it right away into Alakazam. The story of starting with a weak Psychic type Pokemon without attacking moves obtainable early in the game with Synchronize as an ability that will evolve two more times sounds familiar in Hoenn though... the Ralts line already does exactly this! Gardevoir will end up with more bulk and a bit more coverage while Alakazam is more min-maxed towards fast damage, but for a game that only put 67 of the original 251 Pokemon into Hoenn, including Abra when Ralts does nearly the same things for a playthrough is a bit of a strange choice. Ruby and Sapphire don't allow the player any non-Hoenn Pokemon until defeating the first badge, but Emerald allows the player an Abra early, breaking this rule for some reason. Alakazam is a strange-feeling choice for the Hoenn Pokedex.
 

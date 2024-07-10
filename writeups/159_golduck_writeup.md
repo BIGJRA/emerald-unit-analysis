@@ -61,7 +61,7 @@ Golduck: **80** HP / **82** Atk / **78** Def / **95** SpA / **80** SpD / **85** 
 
 ### Analysis
 
-**Verdict: Golduck stands out only slightly thanks to its abilities.**
+**TL;DR: Golduck stands out only slightly thanks to its abilities.**
 
 One of Hoenn's few "imports" so to speak from the Kanto region, the Psyduck line here plays the part of the Safari Zone exclusive Water type in this game, coming pretty late into the game. Depending on how long the player wants to search, they can catch a Golduck potentially higher leveled than their team should be at this point in the game, which helps it catch up quicker than other late game Water type options. Otherwise, evolving a high leveled Psyduck shouldn't take too long.
 

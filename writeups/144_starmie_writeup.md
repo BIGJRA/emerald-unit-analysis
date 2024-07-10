@@ -62,7 +62,7 @@ Starmie: **60** HP / **75** Atk / **85** Def / **100** SpA / **85** SpD / **115*
 
 ### Analysis
 
-**Verdict: Available late and buried in a sea of Water types, Starmie is a hidden gem for those in the know.**
+**TL;DR: Available late and buried in a sea of Water types, Starmie is a hidden gem for those in the know.**
 
 We all know the memes about Hoenn having too much water, but one of the most glaring issues with "too much water" is the fact that the only Pokemon that really make sense in the water are Water types, meaning the game has the two problems of being 'flooded' with more Water Pokemon than other types, and overusing the Water types it does have as encounters and in swimming trainers' teams. Every Gen. I or II Pokemon included in the Hoenn dex had to be placed purposefully, so the question for now is: why Staryu? While Staryu is used by some swimming Triathletes, Starmie is present on exactly one trainer in the whole game, located inside the Trick House in the postgame. 
 

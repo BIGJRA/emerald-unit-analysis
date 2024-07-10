@@ -68,7 +68,7 @@ Zangoose: **73** HP / **115** Atk / **60** Def / **60** SpA / **60** SpD / **90*
 
 ### Analysis
 
-**Verdict: Outclassing its version exclusive counterpart, Zangoose rewards players looking to add a late-early game teammate instantly.**
+**TL;DR: Outclassing its version exclusive counterpart, Zangoose rewards players looking to add a late-early game teammate instantly.**
 
 Although it isn't available in Sapphire or Emerald, Zangoose is there for players of Ruby specifically that want to add a very easy-to-use sweeper to their team. Without many gimmicks, its stat spread and concentrated movepool allow it to easily fill a standard role on many teams. The player can get it after three gym leaders have been defeated, including Brawly, and it doesn't really face any major hurdles. It has the (signature, for the Hoenn Dex) Immunity ability, which is neat for a bit of flavor in its feud with Seviper, which is otherwise not emphasized much as there aren't interesting interactions between the two in battle. Zangoose's base moveset and stats help make its role standout compared to other Normal type options like the utility-centric Zigzagoon line early game and the gimmicky Castform and Kecleon later.
 

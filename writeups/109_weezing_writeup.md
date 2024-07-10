@@ -57,7 +57,7 @@ Weezing: **65** HP / **90** Atk / **120** Def / **85** SpA / **70** SpD / **60**
 
 ### Analysis
 
-**Verdict: Lost in a sea of Poison types in its original generation, Weezing is completely reinvented in Hoenn!**
+**TL;DR: Lost in a sea of Poison types in its original generation, Weezing is completely reinvented in Hoenn!**
 
 The Koffing line was fairly straightforward in Kanto: among tons of Poison types, it was the one that could use Explosion and had a high defense stat. Along with other Poison types it was a favorite of the "Biker" trainer class and was only available in an abandoned science laboratory, fitting into the themes of industrialization and technology vs. nature that Gen I rests upon. Koffing was available late in Gen I - games where the player can have a Nidoking or Nidoqueen up and running far earlier. There are only 67 slots in the Hoenn Dex granted to Kanto and Johto Pokemon, yet there is a case to be made none of them are quite as well-integrated into Hoenn as the Koffing line! It is available earlier in the game, doesn't have quite as many powerful Poison type rivals early in the game, is given a new context in the game's world... oh, and it has a certain game-changing ability. Gen III Koffing is completely different than it was before - if every returning unit was carefully considered like Koffing was, this game would have even more series-changing gameplay!
 

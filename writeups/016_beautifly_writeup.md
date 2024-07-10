@@ -57,7 +57,7 @@ Beautifly: **60** HP / **70** Atk / **50** Def / **90** SpA / **50** SpD / **65*
 
 ### Analysis
 
-**Verdict: As a member of the early bug archetype, Beautifly has few "moments", but very little long term potential.**
+**TL;DR: As a member of the early bug archetype, Beautifly has few "moments", but very little long term potential.**
 
 The Wurmple line is a bit of a play on Caterpie and Weedle from Generation 1: it evolves at the same levels, but splits its evolution randomly instead of just being two separate lines entirely. The complete random chance evolution means that a player really pining for one of its evolutions might just waste time trying to get one. Not that it matters, but Shield Dust is the perfect ability for fighting enemy Wurmples with your Wurmple as Poison Sting won't trigger its secondary effect, at least making it not too bad to raise one. Since there is no benefit really to getting one a few routes earlier, a player might as save and reset, catching one at Lv. 6, and raising it one level to check which evolution it becomes. Whether or not it becomes Silcoon or Cascoon, it gets the Shed Skin ability which helps it survive the woods. Raising it to Lv. 10 from here is not too bad as Harden, Poison Sting, and Tackle are just enough to let it gain levels against the pre-first-gym trainers.
 

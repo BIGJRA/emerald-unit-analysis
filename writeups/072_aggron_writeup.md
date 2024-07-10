@@ -75,7 +75,7 @@ Aggron: **70** HP / **110** Atk / **180** Def / **60** SpA / **60** SpD / **50**
 
 ### Analysis
 
-**Verdict: Good BST and an insane movepool don't save Aggron from feeling constantly underwhelming in Hoenn.**
+**TL;DR: Good BST and an insane movepool don't save Aggron from feeling constantly underwhelming in Hoenn.**
 
 Aggron is a well-loved design by many. Yet playing through Hoenn with Aggron on the team is a mixed bag - it is hard not to be disappointed by the line when all is said and done. Despite having a huge box of tools to use, no matter what Aggron uses, it comes up short when it counts in Gen III. Let's get into why.
 

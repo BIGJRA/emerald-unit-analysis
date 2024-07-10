@@ -73,7 +73,7 @@ Wigglytuff: **140** HP / **70** Atk / **45** Def / **75** SpA / **50** SpD / **4
 
 ### Analysis
 
-**Verdict: Wigglytuff is a random choice for an obscure Pokemon in Hoenn?**
+**TL;DR: Wigglytuff is a random choice for an obscure Pokemon in Hoenn?**
 
 The Jigglypuff line returns for the third time in this generation, yet is less visible than ever before. Enemy trainers rarely use it, and it is tucked away in a back corner of Hoenn and available later than in all of Gen I and II. On one hand, hiding Jigglypuff only on Route 115 makes a ton of sense and encourages exploration for the thorough player. On the other hand, it is just kinda there: a strange unit whose typing and stat line spread is mimicked and surpassed by the Whismur line and whose ability (and Moon Stone based evolution) is also present on the Skitty line. Why Jigglypuff, then? My first hypothesis was to show off Baby Pokemon and breeding... but Crystal in particular did this already by placing Jigglypuff right in front of the daycare and making Igglybuff an Odd Egg candidate. My next hypothesis was that they wanted two evolution candidates per stone type, but the Sun, Thunder, and Fire stones disprove this as well. So Jigglypuff really seems like it was plucked at random to fill the "Route 115 hidden mon" slot - giving the option to the off-the-beaten-path-hunter to bond with their treasure if they want but otherwise not really making too much of an impact as a unit in game.
 

@@ -52,7 +52,7 @@ Magneton: **50** HP / **60** Atk / **95** Def / **120** SpA / **70** SpD / **70*
 
 ### Analysis
 
-**Verdict: Magnemite is a moderately fun unit, and more notably, boss.**
+**TL;DR: Magnemite is a moderately fun unit, and more notably, boss.**
 
 The big defining changes to the Magnemite line occur in Gen II, where it gains the Steel typing, and then in Gen IV, where it gets special Steel moves and can evolve into Magnezone. It gets the benefits of the former change without the massive boon from the latter, yet has a good unit identity in Hoenn and is a decent choice for a mid-game unit. Hoenn doesn't introduce too many Electric or Steel types meaning Magneton doesn't overcrowd and archetype. 
 

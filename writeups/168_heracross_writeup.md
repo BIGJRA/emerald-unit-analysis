@@ -53,7 +53,7 @@ Heracross: **80** HP / **125** Atk / **75** Def / **40** SpA / **95** SpD / **85
 
 ### Analysis
 
-**Verdict: Heracross is a somewhat versatile and solid, late-game Safari Zone pick.**
+**TL;DR: Heracross is a somewhat versatile and solid, late-game Safari Zone pick.**
 
 The non-fossil bug types introduced in this generation all either peak early, are based on gimmicks, or don't peak at all (sorry Masquerain), so including Heracross and Pinsir as the "ultimate" bug type options late in the game and hidden behind Bike Checks makes sense. Heracross is one of the strongest single-stage Pokemon in the first few generations - 125 Atk with a competent physical movepool on top of other decent stats like Speed and Special Defense is a recipe for success. There aren't too many Flying or Fire type moves left in the game after the Safari Zone either, so Heracross has the potential to be a solid contributor in most fights. It has the solid, normally TM-locked and here STAB-boosted Brick Break at base, which allows it to instantly become a contributor and route cleaner. It has an admittedly poor matchup against the Psychic gym twins in part thanks to its only Bug option being Fury Cutter at this point, but against Juan and the Elite Four at large it can generally succeed.
 

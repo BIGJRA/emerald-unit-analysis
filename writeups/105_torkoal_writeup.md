@@ -50,7 +50,7 @@ Torkoal: **70** HP / **85** Atk / **140** Def / **85** SpA / **70** SpD / **20**
 
 ### Analysis
 
-**Verdict: Torkoal is cool and feels unique, even if the late game is mean to him >:(**
+**TL;DR: Torkoal is cool and feels unique, even if the late game is mean to him >:(**
 
 Torkoal has 470 BST and is obtainable very early into the game - with about 10 easy-to-get levels, it can catch up to the rest of the player's team just in time to face off against Flannery's ace, also a Torkoal. As far as Fire type options in Hoenn go, Torkoal is among the first non-Torchic options in the game, and is the fastest to get up to speed thanks to not needing to evolve. Torkoal has only 20 Base Speed: almost always going second is a drawback, but Torkoal has other attributes that make up for it. The Macho Brace's speed penalty means nothing, so this means free EVs to help it catch up in other areas, for one. Past the 20 Speed, the other 450 stat points are allocated to its other stats: 70/140/70 defenses are pretty incredible, while 85/85 offenses allow Torkoal to function as a mixed attacker. In a game where Fire isn't the best offensive type, having strong physical options as a backup is going to be valuable to get a bit more mileage out of Torkoal. White Smoke is also a very interesting ability, as it turns out disabling enemy stat drops altogether makes a game full of Intimidate, Screech, Smokescreen, etc. pretty satisfying!
 

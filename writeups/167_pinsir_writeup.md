@@ -53,7 +53,7 @@ Pinsir: **65** HP / **125** Atk / **100** Def / **55** SpA / **70** SpD / **85**
 
 ### Analysis
 
-**Verdict: Pinsir is a late-game Safari Zone sweeper that fills the role excellently.**
+**TL;DR: Pinsir is a late-game Safari Zone sweeper that fills the role excellently.**
 
 Pinsir has an incredible BST, with a large Attack stat and decent Speed. With Heracross it is locked to the hidden areas of the Safari Zone, making its capture obscure and difficult, but getting one will generally pay off! Although it isn't quite as good as Heracross thanks to having a large Fighting movepool that it doesn't get STAB on, it still has the solid, normally TM-locked Brick Break at base, which allows it to instantly become a contributor and route cleaner. Fury Cutter is its singular STAB option, which unfortunately doesn't have the immediate power needed to be its best option, meaning it usually has to rely on other types to deal damage.
 

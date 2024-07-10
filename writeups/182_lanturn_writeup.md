@@ -56,7 +56,7 @@ Lanturn: **125** HP / **58** Atk / **58** Def / **76** SpA / **76** SpD / **67**
 
 ### Analysis
 
-**Verdict: A very average unit in a great context, Lanturn has a niche among the late game Water types and feels decent to use.**
+**TL;DR: A very average unit in a great context, Lanturn has a niche among the late game Water types and feels decent to use.**
 
 As compared to some of the other Water types imported from Kanto and Johto, the Lanturn line thematically seems to make sense in the underwater seaweed areas, so its inclusion in Hoenn doesn't feel out of place. As with all the end-game Water types, there is a case to be made that the player already has a Water type in their team in order to at least use Surf and Dive, making it less appealing. Yet with a dual type of Electric, completely unique to this line in this game, Lanturn is able to easily blend into an end game Hoenn team pretty well despite its middling BST. Illuminate is a flavor ability that is arguably more annoying than helpful while Volt Absorb has at least gives it a niche among Water types, though Lanturn doesn't face many enemy Electric type Pokemon in the time its available here.
 

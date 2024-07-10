@@ -66,7 +66,7 @@ Shiftry: **90** HP / **100** Atk / **60** Def / **90** SpA / **60** SpD / **80**
 
 ### Analysis
 
-**Verdict: The Seedot line has a ton of unique features but is slightly underwhelming when all is said and done.**
+**TL;DR: The Seedot line has a ton of unique features but is slightly underwhelming when all is said and done.**
 
 With Lotad as a version exclusive counterpart, the Seedot line has synergy with Ruby's legendary Groudon, namely the Sun weather condition. Instead of getting two abilities relating to Sun though, it only has one: Chlorophyll helps it overcome getting outsped in the late game in the cases where 80 Speed is not enough. Its other ability is Early Bird, a strange choice for this line that can be used at best with its decent 90 HP and passable 60/60 defenses to wake up from using Rest after only one turn, niche at best. Arguably, Chlorophyll is preferable in Ruby especially if the player will want to use Groudon in the late game, while Early Bird is the only possible ability on the in-game trade Seedot in Emerald that helps the player avoid searching for the 1% encounter and has increased Exp. gain. This makes it seem like an intentional set up to make this line have a different feel between Ruby and Emerald, which is interesting in its own right.
 

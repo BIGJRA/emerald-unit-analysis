@@ -53,7 +53,7 @@ Roselia: **50** HP / **60** Atk / **45** Def / **100** SpA / **80** SpD / **65**
 
 ### Analysis
 
-**Verdict: A cookie cutter Grass/Poison archetype that doesn't really do anything interesting is at least serviceable.**
+**TL;DR: A cookie cutter Grass/Poison archetype that doesn't really do anything interesting is at least serviceable.**
 
 One wouldn't be blamed for not realizing that Roselia is actually a Generation III Pokemon. It isn't available in the "ultimate version" Emerald, and its most notable appearance is _just kinda being there_ on Wally's final team. With the pre-gym-one Budew and notable early boss Pokemon Roserade serving as evolutionary bookends to Roselia in the very next generation, Roselia definitely feels more of a complete package in the Sinnoh region. Yet Roselia is still available in Ruby and Sapphire, a viable team option for the whole game. Let's see how it feels to use Roselia as a unit in these games.
 

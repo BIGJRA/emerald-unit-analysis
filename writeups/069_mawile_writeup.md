@@ -59,7 +59,7 @@ Mawile: **50** HP / **85** Atk / **85** Def / **55** SpA / **55** SpD / **50** S
 
 ### Analysis
 
-**Verdict: More useful than first impressions would imply, Mawile still isn't great, but has a unique niche to reward the skillful team composer.** 
+**TL;DR: More useful than first impressions would imply, Mawile still isn't great, but has a unique niche to reward the skillful team composer.** 
 
 Mawile is practically a version exclusive to Ruby version - the places it would appear in Emerald are occupied by Sableye, except for the very last one. I'll cover Mawile mainly for its usage in Ruby, but I'll mention its performance if picked up for the late game of Emerald when we get there.
 

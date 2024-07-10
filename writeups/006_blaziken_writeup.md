@@ -67,7 +67,7 @@ Blaziken: **80** HP / **120** Atk / **70** Def / **110** SpA / **70** SpD / **80
 
 ### Analysis
 
-**Verdict: Blaziken is a decent "medium difficulty" starter, though Hoenn's plentiful water may make its endgame frustrating.**
+**TL;DR: Blaziken is a decent "medium difficulty" starter, though Hoenn's plentiful water may make its endgame frustrating.**
 
 In the years since Generation III, Blaziken has become notorious for its Uber-level competitive performance, but that's largely thanks to its Mega Evolution and Speed Boost ability, added later. With only 80 Base speed, Blaziken isn't quite the speedy powerhouse in this game that its later performances might imply; on top of a typing that doesn't do it too many favors especially in Emerald, the Torchic line adds less to a smooth run than the Mudkip line overall. At the same time, Combusken has a much better midgame than Grovyle thanks to an actual offensive moveset, so ultimately this line settles in to being the "medium difficulty" starter for RSE. 
 

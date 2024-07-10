@@ -47,7 +47,7 @@ Swellow: **60** HP / **85** Atk / **60** Def / **50** SpA / **50** SpD / **125**
 
 ### Analysis
 
-**Verdict: Although it might fall off towards the end, this bird makes a fantastic first impression and teaches the player about team composition well.**
+**TL;DR: Although it might fall off towards the end, this bird makes a fantastic first impression and teaches the player about team composition well.**
 
 After choosing a starter, the player is encouraged to think about a second party member after the catching tutorial. If the player chooses Mudkip or Treecko, the player will soon notice their starter's respective weaknesses to Grass and Bug. Many trainers have Pokemon of these types in Petalburg Woods, Route 104, and Route 116, so Taillow with Peck at base stands out as a great pick. Torchic players don't have a problem with Bug and Grass types in the first place, so Taillow doesn't stand out as a second party member early on. It is able to gain levels quickly against the Bug Catchers in the woods, but can also teach the player about critical hits through its Focus Energy move, and priority through Quick Attack (if Taillow has been slowed down and doesn't outspeed everything, I suppose). If it gets poisoned by any Wurmple, the player might also see the powerful Guts ability in action. It doesn't take long for Taillow to get the 60 BP Wing Attack, hitting off of Taillow's 55 Atk and STAB to be very solid in the early game against trainers.
 

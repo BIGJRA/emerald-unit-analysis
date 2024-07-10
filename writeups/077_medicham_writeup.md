@@ -63,7 +63,7 @@ Medicham: **60** HP / **60** Atk / **75** Def / **60** SpA / **75** SpD / **80**
 
 ### Analysis
 
-**Verdict: An interesting ability and moveset allow mid-to-late game unit Medicham to be a fun, unique team option.**
+**TL;DR: An interesting ability and moveset allow mid-to-late game unit Medicham to be a fun, unique team option.**
 
 The first exposure the player will have to Meditite is seeing it in Brawly's gym, where it can potentially destroy an unsuspecting player with Focus Punch. Although Makuhita is available near Dewford if the player is interested in getting one, a player first obtain six badges to get one. Even then, is subject to Pokemon's original sin: version exclusivity, in this case extra annoying since it is absent from the more polished and complete Emerald version. Despite this, I think Medicham has interesting unit design in Hoenn as a fun late game team addition in Ruby and Sapphire. Let's get into it!
 

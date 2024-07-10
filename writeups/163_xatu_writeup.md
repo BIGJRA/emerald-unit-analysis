@@ -56,7 +56,7 @@ Xatu: **65** HP / **75** Atk / **70** Def / **95** SpA / **70** SpD / **95** Spe
 
 ### Analysis
 
-**Verdict: Xatu isn't too remarkable, but is flexible and viable for a late-game Safari Zone unit.**
+**TL;DR: Xatu isn't too remarkable, but is flexible and viable for a late-game Safari Zone unit.**
 
 There isn't a whole lot to say about the Natu line in Generation III Pokemon: it is a line that exclusively lives in the Safari Zone, so its relevance to the geography of Hoenn isn't important. It enhances the pool of enemy Psychic types, notably spicing up the team of Gym Leaders Tate and Liza in Emerald. Just after the player gets access to HM Fly, Xatu becomes available, suggesting that a player yet to choose a flier has a good pick in Xatu. On one hand, Xatu has worse stats and way worse availability than the Abra and Ralts lines - each of which also have Synchronize as an ability. Like the other Psychics, it has standard TM options like Calm Mind to set up, and Reflect and Light Screen to set its team up. On the other hand, it does have a few notable moves in its learnset plus a different typing that give it a unique gameplay feel if a player chooses to lean into them. Let's see what a player can get out of using one.
 

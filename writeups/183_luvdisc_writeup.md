@@ -48,7 +48,7 @@ Luvdisc: **43** HP / **30** Atk / **55** Def / **40** SpA / **65** SpD / **97** 
 
 ### Analysis
 
-**Verdict: A total joke... but fun for those that like jokes?**
+**TL;DR: A total joke... but fun for those that like jokes?**
 
 Look at those stats. Look at 'em! Luvdisc has only 20 more BST than... starter Pokemon Mudkip... yet is available only at minimum once the player has six badges and has booked it to Route 128 for some fishing. Mono-water types with Swift Swim are pretty much a dime a dozen in this region; most competitors are available far earlier. Levelling it is a tall order - it fails to secure kills against even random trainers and probably will hog the Exp. Share while it's on a party. Luvdisc also serves the mechanical purpose of being a repeatable source of Heart Scales... in a game with a very small pool of viable move-relearner opportunities and 14 Heart Scales that can be found for free. Even in this purpose it is pathetic - there really isn't anything going on with Luvdisc that makes the game easier aside from being able to Surf, Waterfall, and Dive. Yet it still exists, it is still an option for an endgame Pokemon in a playthrough of Hoenn. What is the story that Luvdisc can tell?
 

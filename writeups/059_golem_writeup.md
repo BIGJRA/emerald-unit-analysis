@@ -62,7 +62,7 @@ Golem: **80** HP / **110** Atk / **130** Def / **55** SpA / **65** SpD / **45** 
 
 ### Analysis
 
-**Verdict: The Geodude line is certainly one of the Pokemon lines of all time.**
+**TL;DR: The Geodude line is certainly one of the Pokemon lines of all time.**
 
 From my experience, even non-Pokemon fans tend to recognize Geodude. It has a very simple, plain design and is a frequent encounter in caves dating back to the first generation. One of eight lines that was included in all four of the first regional Pokedexes, Geodude fills a fairly straightforward gameplay role: that off the high-variability, high-risk, high-reward slugger. While some of these eight like Alakazam and Seaking are ultimately superfluous amongst the new Hoenn Pokemon, the only new direct competition the Geodude line has to its role are Nosepass, who fills the "Onix" archetype of weak first-boss, and Aron, whose Steel typing and ironically light-on-Rock-type but otherwise massive movepool help it feel distinct from Geodude. Geodude will go on to evolve earlier and have its final form locked behind trading, which add to its distinct feel. Although Geodude by now is somewhat stale as an addition to many regional Pokedexes, it makes sense in the context of Hoenn despite all the Water and has some moments to shine.
 

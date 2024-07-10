@@ -22,7 +22,7 @@ Wobbuffet: **190** HP / **33** Atk / **58** Def / **33** SpA / **58** SpD / **33
 
 ### Analysis
 
-**Verdict: Wobbuffet's simple gimmick is enhanced by its new ability and its new baby pre-evolution.**
+**TL;DR: Wobbuffet's simple gimmick is enhanced by its new ability and its new baby pre-evolution.**
 
 Wobbuffet is one of Generation II's gimmick Pokemon. It's only damage comes in the form of Counter and Mirror Coat: correctly predicting the classification of a damaging move used against it, Wobbuffet soaks up the damage with its huge HP stat and deals double damage back. Safeguard allows it to prevent status afflictions to make Counter and Mirror Coat more reliable, while Destiny Bond allows it to take out one more enemy Pokemon if timed correctly. Its 33 Atk and SpA are then completely irrelevant, while its 33 Speed at least allows the player to expect to go last. On the face of it, the 58 Def and SpD seem bad, but Wobbuffet wants to actually take damage, so it all comes together. 
 

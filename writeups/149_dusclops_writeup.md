@@ -66,7 +66,7 @@ Dusclops: **40** HP / **70** Atk / **130** Def / **60** SpA / **130** SpD / **25
 
 ### Analysis
 
-**Verdict: Dusclops is a late-game bulky utility/attacker Pokemon, an unnecessary role but fun to use regardless.**
+**TL;DR: Dusclops is a late-game bulky utility/attacker Pokemon, an unnecessary role but fun to use regardless.**
 
 The only Ghost-type options available to the player are the gimmicky Shedinja and the low-stat early game crutch Sableye (except in Ruby) before reaching Mt. Pyre - where Duskull and Shuppet become available. This pair is "soft" version exclusives - Duskull is available a tad earlier and is more frequently found in Ruby while Shuppet is the same for Sapphire and Emerald, but both are still easily available in all three games. Duskull stands out as more defensive while Shuppet stands out as more offensive: if the player is looking to fill one of their final team slots with a defensive Pokemon with the reasonably good defensive type mono-Ghost, Duskull is a good choice for it. After all, Dusclops is the ace of one of the Elite Four, so it is designed to be solid for a reason!
 

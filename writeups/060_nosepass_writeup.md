@@ -54,7 +54,7 @@ Nosepass: **30** HP / **45** Atk / **135** Def / **45** SpA / **90** SpD / **30*
 
 ### Analysis
 
-**Verdict: Nosepass is just Onix 2. A two-badge stretch of bare usability doesn't save it from being more of a frustration than an asset by far.**
+**TL;DR: Nosepass is just Onix 2. A two-badge stretch of bare usability doesn't save it from being more of a frustration than an asset by far.**
 
 [People more knowledgeable about game design than I](https://www.youtube.com/watch?v=w3mVb4sTE7U) have already covered what makes Onix so unique in Generation I Pokemon: it serves as a tool to teach the player about type advantages in the first gym depending on what starter they have picked, yet when available as a unit for the player later on is pretty pathetic. At least Onix could exploit its high speed and the absolutely broken Bind in Generation I, here we're stuck with the incredibly unremarkable Nosepass. As a Pokemon in Roxanne's team, Nosepass stands out for its monotype preventing it from getting instantly flattened by Water and Grass moves, its high defense prevents it from being knocked out too easily, and its Rock Tomb is strong enough for the first boss. Defeating it is not a completely insignificant feat unless the player has grinded levels for their starter and evolved it, so Nosepass is able to be somewhat memorable as an enemy. 
 

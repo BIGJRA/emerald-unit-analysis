@@ -53,7 +53,7 @@ Minun: **60** HP / **40** Atk / **50** Def / **75** SpA / **85** SpD / **95** Sp
 
 ### Analysis
 
-**Verdict: Whether you use both for the Doubles gimmick or just pick one, Plusle and Minun have enough tricks to be fun to use.**
+**TL;DR: Whether you use both for the Doubles gimmick or just pick one, Plusle and Minun have enough tricks to be fun to use.**
 
 Minun and Plusle are extremely similar units as individual Pokemon. In terms of stats, Plusle is slightly more suited to offense while Minun is slightly more suited to defense. The singular difference in their movesets is at Lv. 28: Charm for Minun vs Fake Tears for Plusle. These differences are small enough that it is worth looking at them as roughly the same unit in general. However, the abilities in Plus and Minus are just impactful enough that it is also worth considering having _both_ in the same party especially in the more Doubles-dense Emerald, so this analysis will consider using one _or_ both of these units and mostly focus on Emerald. If the player wants to benefit from avoiding the 2% encounter rate and getting the higher EXP gain of the in-game trade Plusle, it comes at the cost of later availability... and having to obtain the 1% encounter Volbeat (or breed Illumise for it). This ultimately comes out to about a wash, but getting to focus on only training Minun for the early mid-game is not a bad idea.
 

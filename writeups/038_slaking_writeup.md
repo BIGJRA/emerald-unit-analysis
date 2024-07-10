@@ -77,7 +77,7 @@ Slaking: **150** HP / **160** Atk / **100** Def / **95** SpA / **65** SpD / **10
 
 ### Analysis
 
-**Verdict: With a unique ability, impactful decisions to make, and a satisfying growth arc, Slaking is Gen III unit design at its best!**
+**TL;DR: With a unique ability, impactful decisions to make, and a satisfying growth arc, Slaking is Gen III unit design at its best!**
 
 The player starts by catching a low level Slakoth, noticing right away that Slakoth has an ability that literally lets it only act half of its turns! With this major limitation and just Scratch (or HM Cut, with the downside of not being able to delete it) as an attacking move, Slakoth begins the slow march to Lv. 18 to reach its first evolution. Along the way it gets some pretty good support moves: Yawn is reliable sleep, Encore forces the opponents to waste turns on potentially bad moves, and Slack Off lets it heal. At least Yawn will probably let it contribute against Roxanne's Nosepass, for what it's worth. Yet the impact of all of these moves is a bit hard to see with Truant getting in the way, so pushing through to Lv. 18 is necessary to get the full impact of this.
 

@@ -55,7 +55,7 @@ Cacturne: **70** HP / **115** Atk / **60** Def / **115** SpA / **60** SpD / **55
 
 ### Analysis
 
-**Verdict: A very awkward stat spread makes this otherwise well-designed unit underwhelming.**
+**TL;DR: A very awkward stat spread makes this otherwise well-designed unit underwhelming.**
 
 Hoenn is pretty frontloaded with its Grass type lines: Treecko, Seedot (who will go on to have the same typing as Cacturne), Lotad, Oddish, and Roselia are all available earlier while only Tropius and Lileep (barely) come later than Cacnea. In theory given the later availability, one would hope that Cacnea should then have a unique value-add as compared to all the others, and thankfully it does to some extent. Similarly to Sandshrew, Cacnea is explicitly placed in the desert, and its Sand Veil ability helps it stand out among the other Grass types for thriving not in Sun or in Rain, but instead in Sandstorms. Not only does this let it execute a (less-effective) dodge-tank build like Sandslash, but it also allows it to avoid the splash damage caused by the sand. For a Pokemon based on a cactus, the Cacturne line fits in really well for Hoenn's biodiversity.
 

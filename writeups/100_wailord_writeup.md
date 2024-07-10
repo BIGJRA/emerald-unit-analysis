@@ -59,7 +59,7 @@ Wailord: **170** HP / **90** Atk / **45** Def / **90** SpA / **45** SpD / **60**
 
 ### Analysis
 
-**Verdict: Wailord's high HP and Water Spout help it stand out somewhat among Gen III Water types and feels decent to use.**
+**TL;DR: Wailord's high HP and Water Spout help it stand out somewhat among Gen III Water types and feels decent to use.**
 
 Like all of Hoenn's mid-game Water types, Wailmer can be obtained at a wide range of levels (the later the better) and learn Surf immediately to immediately get levels. It can do late-game HM duty, notably with Strength and Rock Smash on top of the water-navigation moves. It can learn Ice Beam for some use going into the tropical parts of Hoenn and against Winona. The Wailmer line has equal SpA and Atk, which means it can use its not-insignificant physical movepool to some success - powerful Strength/Return and coverage in Rollout/Rock Tomb help it stand out a little bit and fight all of the enemy Water types in the late game. It comes with 60 Speed and will never gain more, just enough that with a level advantage it will outspeed a good amount of the time, and enough HP to compensate for its low defenses. On the ability side of things, Water Veil and Oblivious prevent burns and attraction respectively, neither of which is a real common problem in this game. One other thing to note about Wailord is that it is required to obtain the legendary golems, so a player wishing to use those will need to train Wailmer or else find one at 1% on Route 129 (where it is at a lower-than-usual level in Sapphire and Emerald specifically, for some reason).
 

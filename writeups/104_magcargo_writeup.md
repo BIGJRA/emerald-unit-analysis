@@ -53,7 +53,7 @@ Magcargo: **50** HP / **50** Atk / **120** Def / **80** SpA / **80** SpD / **30*
 
 ### Analysis
 
-**Verdict: Magcargo is such a disappointment... But at least it is in the game this time.**
+**TL;DR: Magcargo is such a disappointment... But at least it is in the game this time.**
 
 I'm not the first to point out that Magcargo is absolutely awful as a unit. An extremely late evolution at Lv. 38 to only end up with 410 BST, exactly one good stat in Defense that isn't even backed up with a good HP stat, and a typing that gets completely flattened by two common attacking types in Water and Ground. All of these sins originated with the Slugma line in Gen. II however - I'll leave asking what the purpose of this line is in _those_ games to others. We're here to look at how Slugma feels as a unit in Gen. III and what the designers might have intended when putting it in this game. 
 

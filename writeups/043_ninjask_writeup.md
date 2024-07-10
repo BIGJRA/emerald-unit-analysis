@@ -60,7 +60,7 @@ Ninjask: **61** HP / **90** Atk / **45** Def / **50** SpA / **50** SpD / **160**
 
 ### Analysis
 
-**Verdict: Training Nincada is a huge pain, but Ninjask is a very unique Pokemon that is fun to use.**
+**TL;DR: Training Nincada is a huge pain, but Ninjask is a very unique Pokemon that is fun to use.**
 
 The Nincada line is one of the most complex introduced in Generation III of Pokemon. We will cover Shedinja in a later post since it fundamentally plays differently than Ninjask, the subject of this analysis. Nincada is the first Bug/Ground type Pokemon in the series. Its Compoundeyes ability can only be found on Nincada in Hoenn. With 90 Def as well, Nincada stands out for some of its unique qualities early on. If the player chooses to use one though, the early game struggles begin to show quickly.
 

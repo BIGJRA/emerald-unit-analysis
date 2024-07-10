@@ -64,7 +64,7 @@ Sableye: **50** HP / **75** Atk / **75** Def / **65** SpA / **65** SpD / **50** 
 
 ### Analysis
 
-**Verdict: ~~Like Vander from Fire Emblem Engage~~, Sableye is great only very early but can do some utility in the late game for its fans.**
+**TL;DR: ~~Like Vander from Fire Emblem Engage~~, Sableye is great only very early but can do some utility in the late game for its fans.**
 
 Sableye was a complete surprise for me, despite playing Gen. III a lot as a kid, I had never touched Sableye until recently. It has a very fun typing in Dark/Ghost which simply has no weaknesses, which helps cover up the middling 50/75/65 defensive stats it has.  With it's somewhat high stats for this point in the game compared to the NFE Pokemon that surround it, Sableye is a textbook pick for players that feel they are struggling in the early game yet maybe aren't looking for a unit that can experience a lot of growth. Aside from its generally appealing art design, let's explore why Sableye is generally beloved and such a fun pick for Sapphire and especially Emerald.
 

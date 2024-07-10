@@ -52,7 +52,7 @@ Seviper: **73** HP / **100** Atk / **60** Def / **100** SpA / **60** SpD / **65*
 
 ### Analysis
 
-**Verdict: An unfortunately underwhelming version exclusive that probably only appeals to fans of its design**.
+**TL;DR: An unfortunately underwhelming version exclusive that probably only appeals to fans of its design**.
 
 Compared to its version exclusive counterpart Zangoose, Seviper is fairly underwhelming as a unit. The earlier available Gulpin evolves around the time you get Seviper and can fill a more defensive role than Seviper. Similarly, using Zubat will lead to an evolution into Crobat around this time, who is arguably a better physical option. In a region with a very low amount of Grass types, there simply isn't much for Poison STAB to accomplish, so Seviper doesn't really have a chance to stand out much and doesn't have a single major fight where it's STAB is particularly effective. Still, its ability to function as a mixed attacker / support Pokemon due to its reasonably wide movepool and decent attacking stats make it able to contribute if a player is inclined to use it, and it doesn't have many fights where it stands no chance of contributing (other than maybe Tate & Liza).
 

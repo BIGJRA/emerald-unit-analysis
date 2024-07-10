@@ -56,7 +56,7 @@ Bellossom: **75** HP / **80** Atk / **85** Def / **90** SpA / **100** SpD / **50
 
 ### Analysis
 
-**Verdict: The Oddish line is fairly by-the-books for a Grass-type archetype, but at least the evolution choice is interesting this time.**
+**TL;DR: The Oddish line is fairly by-the-books for a Grass-type archetype, but at least the evolution choice is interesting this time.**
 
 The Oddish line is a bit of a strange one: first it was a simple level-stone three-stage evolution line in Gen. I. Next comes a branching evolution from Gloom, Bellossom, introduced in Gen. II. Unless the player is really dedicated to waiting for a call from one NPC to get a Leaf Stone in Crystal only though, actually using Vileplume in this game is a huge pain - for all intents and purposes Oddish/Gloom/Bellossom is the reasonably reached evolution path for Johto. In some ways, this line's inclusion is incredibly redundant. Chlorophyll is an already-distributed ability over the Hoenn region's new grass types like Shiftry and Tropius. The more defensive status-spreading Grass/Poison archetype is already filled by the new Roselia. Yet the Gen. III games chose this line to fill four of its coveted "returnee" Pokedex slots... so as always, it is worth asking: why?
 

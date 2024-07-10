@@ -51,7 +51,7 @@ Seaking: **80** HP / **92** Atk / **65** Def / **65** SpA / **80** SpD / **68** 
 
 ### Analysis
 
-**Verdict: Without any notable traits to make it stand out: why, Seaking?**
+**TL;DR: Without any notable traits to make it stand out: why, Seaking?**
 
 A common theme throughout this series of analyses is trying to figure out for what gameplay reasons GameFreak re-introduced Gen I and Gen II Pokemon in Hoenn. Sometimes granted new abilities, new moves, or just to fill a hole that the new Pokemon don't, there are many reasons why this may happen. Yet of all the Pokemon covered in this series so far, I truly fail to see what GameFreak was thinking by bringing this line into Hoenn as is. It's available sooner than it was in Gen I, though about on par with when it is available in Gen II, so it doesn't get a boost from earlier availability like Marill or Skarmory. Goldeen is one of the earlier Water type choices available - it competes with Mudkip, Wingull, Lotad, Marill, Tentacool, and Magikarp. Yet each of these mons has some kind of interesting growth arc culminating in a unique playstyle amongst the others by the end of the game: as we will see, Goldeen doesn't have this. It isn't even an interesting utility Pokemon: it gets only the three Water type HMs, but so do the other fish. It is remarkably unmemorable and its moveset and statline don't do it any better.
 

@@ -58,7 +58,7 @@ Dustox: **60** HP / **50** Atk / **70** Def / **50** SpA / **90** SpD / **65** S
 
 ### Analysis
 
-**Verdict: Dustox serves the early-bug role well, yet has a better-defined role than Beautifly going into the late game.**
+**TL;DR: Dustox serves the early-bug role well, yet has a better-defined role than Beautifly going into the late game.**
 
 (See the Beautifly analysis for discussion of Wurmple as a unit; Cascoon functions the same as Silcoon really). If the player has gotten Cascoon via evolution or picked one up in the woods, they will get Dustox at Lv. 10. The latter method isn't too recommended since Poison Sting is only available starting as Wurmple and it's actually a decent move choice for Dustox, though it can survive without it. Dustox gets Confusion as its evolution move here, which doesn't have STAB and must scale off of its 50 SpA, though with the same for Atk, Gust at Lv. 13 isn't much better. Dustox's stats are made up for in other areas though - a defensive stat spread of 60/70/90 is enough that it is actually bulky in the early game. 
 

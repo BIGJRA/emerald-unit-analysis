@@ -69,7 +69,7 @@ Swampert: **100** HP / **110** Atk / **90** Def / **85** SpA / **90** SpD / **60
 
 ### Analysis
 
-**Verdict: There's a reason people "liek mudkipz". An "easy mode" starter that is easy to bond with.**
+**TL;DR: There's a reason people "liek mudkipz". An "easy mode" starter that is easy to bond with.**
 
 Getting the starter Pokemon "right" is a pretty important task for Pokemon games, I think. They need to present a Pokemon that is instantly appealing and make its progression across the game obvious and feel satisfying. Mudkip ultimately accomplishes both of these goals, being a fun amphibious design that clearly gets stronger over the course of the game and makes for an excellent partner to the player. It's added Ground typing is a fun shakeup for the Water type starter that benefits the line far more than it takes away from it in the context of Gen. III. 
 

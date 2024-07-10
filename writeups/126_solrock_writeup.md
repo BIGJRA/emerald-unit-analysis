@@ -58,7 +58,7 @@ Solrock: **70** HP / **95** Atk / **85** Def / **55** SpA / **65** SpD / **70** 
 
 ### Analysis
 
-**Verdict: Average, but fitting ludonarratively for Hoenn at least.**
+**TL;DR: Average, but fitting ludonarratively for Hoenn at least.**
 
 Solrock is part of a version exclusive pair with Lunatone - Solrock is a magical rock that resembles the Sun, fitting for the game containing Groudon, though at seemingly random Solrock alone is chosen to be available in Emerald. One thing to note is its non-party usage; it can hold Sun Stones, allowing the player to evolve Gloom into Bellossom early! Otherwise, Solrock fits in with other Pokemon like Zangoose/Seviper, Torkoal, etc. as being single-stage options in the midgame, lower-level than the players team yet able to come online quickly. Lets get into how using Solrock feels in Ruby and Emerald.
 

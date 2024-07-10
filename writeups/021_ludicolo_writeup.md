@@ -68,7 +68,7 @@ Ludicolo: **80** HP / **70** Atk / **70** Def / **90** SpA / **100** SpD / **70*
 
 ### Analysis
 
-**Verdict: A unique typing, rain synergy, and good TMs help save this growth unit from never paying off and being underwhelming.**
+**TL;DR: A unique typing, rain synergy, and good TMs help save this growth unit from never paying off and being underwhelming.**
 
 The Lotad line is quite the interesting one. As we'll see, it's moveset is particularly rough and its stats will be consistently behind the curve, exasperated by the extremely late final evolution into Ludicolo. Even if they aren't planning on using this line for combat, it can actually learn six out of the eight HMs (no Cut or Fly), so it has massive utility for that alone. Sharing a type with two out of three starters, it is likely that Torchic players are the primary group that might feel compelled to add Lotad to their teams - an appealing choice considering the first gym coming up. After players of the other two starters have covered their weaknesses a bit more, picking up Lotad/Lombre after three badges are able to consider it once more (Mudkip will go on to pair well with it under rain), though it doesn't help Lombre skip the awkward middle phase. 
 

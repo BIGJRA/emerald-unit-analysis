@@ -66,7 +66,7 @@ Azumarill: **100** HP / **50** Atk / **80** Def / **50** SpA / **80** SpD / **50
 
 ### Analysis
 
-**Verdict: New life is breathed into the Marill Line in Hoenn, who feels unique and fun. Just don't talk about Azurill.**
+**TL;DR: New life is breathed into the Marill Line in Hoenn, who feels unique and fun. Just don't talk about Azurill.**
 
 The Azumarill line is a quite interesting one - of all evolution lines, it might be the one that has experienced the most identity changes across the series' lifetime. Looking first at its Generation II origins, Marill is an extremely rare Pokemon only available nearly halfway through the game - where it can instantly evolve. Even then, Azumarill didn't really have the moveset to back up its high defenses but pitiable offenses - a very forgettable addition to those games. Gen. III introduces abilities, where Azumarill gets its first major new tool in Huge Power (or Thick Fat, I guess). Gen. IV will introduce the Physical/Special split, allowing it to use physical Water type moves, Gen. V will give it a niche alternate set thanks to hidden ability Sap Sipper, and Gen. VI. will give it the new Fairy-typing. All of these things change Azumarill fundamentally, but in Ruby, Sapphire, and Emerald, we don't get these last three major changes just yet. Let's see how Gen. III Azumarill looks in a playthrough.
 

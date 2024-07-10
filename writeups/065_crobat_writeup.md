@@ -56,7 +56,7 @@ Crobat: **85** HP / **90** Atk / **80** Def / **70** SpA / **80** SpD / **130** 
 
 ### Analysis
 
-**Verdict: One of Pokemon's essential nuisances-turned-growth-unit isn't unique to Hoenn, but pays off adequately.**
+**TL;DR: One of Pokemon's essential nuisances-turned-growth-unit isn't unique to Hoenn, but pays off adequately.**
 
 We all know the memes: walking through caves in the Pokemon world mean endless Zubat encounters. Zubat, Crobat, and Golbat take up 3 of the 67 exclusive slots in the Hoenn dex granted to Gen I and II Pokemon, which begs the question: why Zubat? Considering there isn't really anything else introduced in Hoenn that could really fill this role though, it makes sense that the Zubat line is included here. Zubat is able to fulfill its strong narrative role for the player that it got thanks to its final evolution introduced in Gen II with some new bells and whistles in Hoenn, so doesn't feel too stale in its third conspicuous appearance in a row. Let's get into how this unit feels and the story it tells.
 

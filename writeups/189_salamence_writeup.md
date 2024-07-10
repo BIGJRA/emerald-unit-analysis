@@ -65,7 +65,7 @@ Salamence: **95** HP / **135** Atk / **80** Def / **110** SpA / **80** SpD / **1
 
 ### Analysis
 
-**Verdict: While training Bagon isn't painless, doing so rewards players willing to push themselves even at the game's end.**
+**TL;DR: While training Bagon isn't painless, doing so rewards players willing to push themselves even at the game's end.**
 
 Bagon is found in the very back room of Meteor Falls, only after the player has gotten all eight badges. It rewards the player who is relentlessly curious in their exploration of Hoenn - if they are willing to Fly all the way back across the entire region to investigate a waterfall they visited 20 hours ago, they can find the strongest non-legendary line in the game. Is it worth adding Salamence to one's team right at the end of the game? Is it worth training up to reach that point? Let's find out.
 

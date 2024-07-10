@@ -56,7 +56,7 @@ Tropius: **99** HP / **68** Atk / **83** Def / **72** SpA / **87** SpD / **51** 
 
 ### Analysis
 
-**Verdict: Tropius feels pretty bad despite being a Grass type obtainable right before Hoenn's ocean...**
+**TL;DR: Tropius feels pretty bad despite being a Grass type obtainable right before Hoenn's ocean...**
 
 Tropius is such a strange Pokemon. It's not an earlier-gen Pokemon plunked out of its earlier context and thrown into Hoenn - it is intentionally designed around its habitat. Yet it just feels like a really strange unit. Its highest stats in order are HP, SpD, and Def, implying it is meant to play a tanky role. Synthesis at Lv. 47, (the ubiquitous) Rest TM, and Giga Drain TMs seem to be the only major tools it has towards being an effective tank. The Grass/Flying typing has five common weaknesses including a quad-weakness to Ice, which doesn't help its case. 51 Speed is just low enough that it will get outsped most of the time, while 68/72 Atk/SpA isn't enough to make its STAB options like Magical Leaf, Aerial Ace, Fly, and Giga Drain hit hard in the late game.
 

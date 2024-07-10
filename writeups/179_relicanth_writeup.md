@@ -56,7 +56,7 @@ Relicanth: **100** HP / **90** Atk / **130** Def / **45** SpA / **65** SpD / **5
 
 ### Analysis
 
-**Verdict: Relicanth isn't very unique and is available late, but gets it done.**
+**TL;DR: Relicanth isn't very unique and is available late, but gets it done.**
 
 I personally think Relicanth is a pretty cool Pokemon, but there ultimately isn't a ton that I can say about it as a unit, good or bad. After designing Hoenn's oceanic routes and HM Dive, they needed to design a few Pokemon that would live underwater: aside from one obvious choice in the angler fish Pokemon Chinchou, they created Clamperl and Relicanth to fill these spots. Relicanth is an underwater ancient Pokemon that fits in quite well with the environmental storytelling that Generation III is going for. Unfortunately, there are a million Water and Rock types out there that are obtainable far earlier: the player also MUST have at least one Water type Pokemon in their party in order to dive underwater in the first place. One would hope Relicanth has some standout traits among Water types: while its Swift Swim ability is super common, its dual typing and stat line of a Rock type helps here to some extent. Yet there are other literally three other Rock type lines with Rock Head available far earlier than Relicanth - two of them can use Surf as well! Towing the line between these two archetypes unfortunately doesn't really help it stand out in any meaningful way for a player looking to add one to their team.
 
